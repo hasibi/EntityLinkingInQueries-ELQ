@@ -1,0 +1,30 @@
+e	yahoo-25_1	hunnington ingalls	hunnington ingalls	<dbpedia:Huntington_Ingalls_Industries>	0	/m/0gjc3ps
+e	yahoo-68_2	faqcebooklogin	faqcebooklogin	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-71_2	eithad	eithad	<dbpedia:Etihad_Airways>	0	/m/02k4yy
+h	yahoo-104_5	gooo	gooo	<dbpedia:Google>	0	/m/045c7b
+e	yahoo-112_2	childfun	childfun	<dbpedia:ChildFund>	0	/m/033qv_
+e	yahoo-121_1	firfox	firfox	<dbpedia:Firefox>	0	/m/01dyhm
+e	yahoo-139_3	dewayne wade and gabriel union	gabriel union	<dbpedia:Gabrielle_Union>	0	/m/02xbw2
+e	yahoo-148_2	gamil	gamil	<dbpedia:Gmail>	0	/m/02q_bk
+e	yahoo-229_1	travis poter	travis poter	<dbpedia:Travis_Porter>	0	/m/0dgq8n3
+e	yahoo-254_4	dodog	dodog	<dbpedia:Dodge>	0	/m/0bs_x
+e	yahoo-348_1	myyahoo mail	myyahoo mail	<dbpedia:Yahoo!_Mail>	0	/m/02_7q2
+e	yahoo-352_4	bronco bama girl	bronco bama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	yahoo-371_2	centruy21realastate	centruy21realastate	<dbpedia:Century_21_Real_Estate>	0	/m/080_1g
+e	yahoo-371_3	merril shoes	merril shoes	<dbpedia:Merrell_(company)>	0	/m/0kqrz3
+e	yahoo-385_4	papa joe's restaurant	papa joe's restaurant	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-436_3	best but	best but	<dbpedia:Best_Buy>	0	/m/020tvm
+e	yahoo-436_4	best but black friday	best but	<dbpedia:Best_Buy>	0	/m/01zrdx
+e	yahoo-436_5	best but laptops	best but	<dbpedia:Best_Buy>	0	/m/01zrdx
+e	yahoo-459_1	occitaine	occitaine	<dbpedia:L'Occitane_en_Provence>	0	/m/07cbmn
+e	yahoo-477_1	faceboom	faceboom	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-502_18	tanio	tanio	<dbpedia:Teemu_Tainio>	0	/m/079d39
+h	yahoo-523_13	new york governor patterson	patterson	<dbpedia:David_Paterson>	0	"/m/08nsz6"
+h	trec-2011-66_4	Yellowtail wine Australia	Yellowtail wine	<dbpedia:Yellow_Tail_(wine)>	0	/m/09k07j
+h	trec-2012-25_1	when france win world cuo	world cuo	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-25_1	when france win world cuo	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+e	trec-2013-31_7	churchilldowns	churchilldowns	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-31_8	churchilldowns seating chart	churchilldowns	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2010-135_1	soralfun	soralfun	<dbpedia:Hanwha_SolarOne>	0	/m/0gmc0bh
+e	yahoo-409_6	youtub	youtub	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-15_1	mimeo board	mimeo board	<dbpedia:Mimio>	0	/m/091qns

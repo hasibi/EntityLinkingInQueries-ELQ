@@ -1,0 +1,2531 @@
+difficulty	qid	query	mention	entity	set_id	freebase_id
+e	trec-2010-100_1	forearm pain exercises
+e	trec-2010-100_2	forearm braces
+e	trec-2010-101_1	the music man songs	the music man	<dbpedia:The_Music_Man>	0	/m/0p4s9
+e	trec-2010-102_2	obama's mother	obama's	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	trec-2010-103_1	elliptical trainer
+e	trec-2010-103_2	elliptical trainer benefits
+e	trec-2010-104_1	hoboken estates	hoboken	<dbpedia:Hoboken,_New_Jersey>	0	/m/0xn7b
+e	trec-2010-104_2	hoboken map	hoboken	<dbpedia:Hoboken,_New_Jersey>	0	/m/0xn7b
+e	trec-2010-105_1	reserve orange county convention center	orange county convention center	<dbpedia:Orange_County_Convention_Center>	0	/m/0gyytc
+e	trec-2010-105_2	orange county convention center events	orange county convention center	<dbpedia:Orange_County_Convention_Center>	0	/m/0gyytc
+e	trec-2010-106_1	different types of moths pics
+e	trec-2010-106_2	identify different types of moths
+e	trec-2010-108_1	online console games inuyasha series
+h	trec-2010-109_1	windows spyware	windows	<dbpedia:Microsoft_Windows>	0	/m/04r_8
+e	trec-2010-109_2	defender problems	defender	<dbpedia:Windows_Defender>	0	/m/04xd0g
+e	trec-2010-10_1	iron in food
+h	trec-2010-10_2	iron supplements				
+e	trec-2010-110_1	cultural diversity prejudice
+e	trec-2010-110_2	cultural diversity
+e	trec-2010-111_1	rick warren obama inauguration controversy	inauguration	<dbpedia:United_States_presidential_inauguration>	0	/m/03bxbl6
+e	trec-2010-111_1	rick warren obama inauguration controversy	obama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	trec-2010-111_1	rick warren obama inauguration controversy	rick warren	<dbpedia:Rick_Warren>	0	/m/036vk_
+e	trec-2010-111_2	rick warren controversy	rick warren	<dbpedia:Rick_Warren>	0	/m/036vk_
+e	trec-2010-112_1	surf rincon puerto rico	rincon puerto rico	<dbpedia:Rinc%C3%B3n,_Puerto_Rico>	0	/m/02_zt7
+e	trec-2010-112_2	hotels rincon puerto rico	rincon puerto rico	<dbpedia:Rinc%C3%B3n,_Puerto_Rico>	0	/m/02_zt7
+e	trec-2010-113_2	earn money at home scam
+e	trec-2010-114_2	junk yard
+e	trec-2010-115_1	diversity
+e	trec-2010-115_2	promoting diversity
+e	trec-2010-117_1	f5 tornadoes
+e	trec-2010-117_2	deadliest tornadoes
+e	trec-2010-118_2	obama family	obama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	trec-2010-119_1	atari consoles history	atari	<dbpedia:Atari>	0	/m/0xwj
+e	trec-2010-119_2	atari consoles	atari	<dbpedia:Atari>	0	/m/0xwj
+e	trec-2010-11_1	history of music
+e	trec-2010-11_2	who invented the radio
+e	trec-2010-120_1	flame designs
+e	trec-2010-120_2	flame designs car motorcycle
+e	trec-2010-121_1	music man performances	music man	<dbpedia:The_Music_Man>	0	/m/0p4s9
+e	trec-2010-121_2	music man script	music man	<dbpedia:The_Music_Man>	0	/m/0p4s9
+h	trec-2010-122_1	gps devices	gps devices	<dbpedia:GPS_navigation_device>	0	/m/047b9vj
+e	trec-2010-122_2	garmin	garmin	<dbpedia:Garmin>	0	/m/047lkx
+e	trec-2010-123_1	diet
+e	trec-2010-123_2	low carb diet
+e	trec-2010-124_1	patriots point museum	patriots point museum	<dbpedia:Patriots_Point>	0	/m/07z1_0
+e	trec-2010-124_2	uss yorktown	uss yorktown	<dbpedia:USS_Yorktown_(CV-10)>	0	/m/01fmw0
+e	trec-2010-125_1	liquids in carry-on
+e	trec-2010-125_2	air travel information
+e	trec-2010-126_1	evergreen solar	evergreen solar	<dbpedia:Evergreen_Solar>	0	/m/03p231c
+e	trec-2010-127_1	raised garden pics
+e	trec-2010-127_2	building raised garden bed
+e	trec-2010-128_1	hangul
+e	trec-2010-128_2	korean language
+e	trec-2010-129_1	the current
+h	trec-2010-129_2	the current jersey				
+e	trec-2010-12_1	wall hung toilet kohler	kohler	<dbpedia:Kohler_Company>	0	/m/02y2g0
+e	trec-2010-12_2	wall hung toilet
+e	trec-2010-130_1	cell phones
+e	trec-2010-130_2	sprint	sprint	<dbpedia:Sprint_Nextel>	0	/m/077w0b
+e	trec-2010-131_1	horse hooves
+e	trec-2010-131_2	horse hooves anatomy
+e	trec-2010-132_1	disneyland special offers	disneyland	<dbpedia:Disneyland>	0	/m/02fzs
+e	trec-2010-132_2	disneyland	disneyland	<dbpedia:Disneyland>	0	/m/02fzs
+e	trec-2010-133_1	dog heat stroke symptoms
+e	trec-2010-133_2	dog heat illnesses
+e	trec-2010-134_1	poker tournaments
+e	trec-2010-134_2	texas hold em
+e	trec-2010-135_1	soralfun				
+e	trec-2010-135_2	evergreen	evergreen	<dbpedia:Evergreen_Solar>	0	/m/03p231c
+e	trec-2010-136_1	web hosting services small business
+e	trec-2010-136_2	web hosting
+e	trec-2010-137_1	heart rate
+e	trec-2010-137_2	slow fast heart rate
+e	trec-2010-138_1	dinosaurs
+e	trec-2010-138_2	dinosaurs pics
+e	trec-2010-139_1	wood to build raised garden bed
+e	trec-2010-139_2	build raised garden bed
+e	trec-2010-13_1	chain link wood fence material
+e	trec-2010-13_2	fence material
+e	trec-2010-141_1	cuttle fish bone
+e	trec-2010-141_2	cuttlebone casting
+e	trec-2010-142_2	michigan unemployed	michigan	<dbpedia:Michigan>	0	/m/04rrx
+m	trec-2010-143_2	obama mother bio	obama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	trec-2010-144_1	horse hooves care and treatment
+e	trec-2010-145_1	parts american standard	american standard	<dbpedia:American_Standard_Brands>	0	/m/04127bj
+e	trec-2010-145_2	wall hung kohler	kohler	<dbpedia:Kohler_Company>	0	/m/02y2g0
+e	trec-2010-146_1	atari	atari	<dbpedia:Atari>	0	/m/0xwj
+h	trec-2010-146_2	atari arcade	atari arcade	<dbpedia:Atari_Games>	0	/m/01scmq
+e	trec-2010-147_1	afghanistan war	afghanistan	<dbpedia:Afghanistan>	0	/m/0jdd
+e	trec-2010-147_2	afghanistan history	afghanistan	<dbpedia:Afghanistan>	0	/m/0jdd
+e	trec-2010-148_1	arizona game and fish department
+e	trec-2010-148_2	arizona regulations hunting fishing	arizona	<dbpedia:Arizona>	0	/m/0vmt
+e	trec-2010-149_2	practice gmat exams
+e	trec-2010-14_1	avp
+e	trec-2010-14_2	avp antivirus
+e	trec-2010-150_1	wedding shower theme ideas budget
+e	trec-2010-150_2	wedding shower ideas
+e	trec-2010-15_2	french lick resort and casino discounts	french lick resort and casino	<dbpedia:French_Lick_Resort_Casino>	0	/m/02761b3
+e	trec-2010-16_1	disneyland offers	disneyland	<dbpedia:Disneyland>	0	/m/02fzs
+e	trec-2010-16_2	disneyland hotels	disneyland	<dbpedia:Disneyland>	0	/m/02fzs
+e	trec-2010-17_1	injuries forearm pain
+e	trec-2010-17_2	forearm pain
+e	trec-2010-18_1	dog adoption
+e	trec-2010-18_2	organization dog adoption
+e	trec-2010-19_1	resting heart rate
+e	trec-2010-19_2	heart rate blood pressure cholesterol
+e	trec-2010-1_1	legal advice
+e	trec-2010-1_2	renters protection law
+e	trec-2010-20_2	fantasy football leagues
+e	trec-2010-21_1	comcast	comcast	<dbpedia:Comcast>	0	/m/01s73z
+e	trec-2010-21_2	cheap dsl providers
+m	trec-2010-22_2	walking with dinosaurs bbc	bbc	<dbpedia:BBC>	0	/m/0g5lhl7
+m	trec-2010-22_2	walking with dinosaurs bbc	walking with dinosaurs	<dbpedia:Walking_with_Dinosaurs>	0	/m/04gdn3
+e	trec-2010-23_2	new ps 2 games	ps 2	<dbpedia:PlayStation_2>	0	/m/066kp
+e	trec-2010-24_1	low cost internet providers
+e	trec-2010-24_2	providers free wireless
+e	trec-2010-25_1	bart schedules and fares	bart	<dbpedia:Bay_Area_Rapid_Transit>	0	/m/0gdjj
+e	trec-2010-25_2	bart map	bart	<dbpedia:Bay_Area_Rapid_Transit>	0	/m/0gdjj
+e	trec-2010-26_1	flame pics
+e	trec-2010-26_2	flames decals
+h	trec-2010-27_1	volvo	volvo	<dbpedia:Volvo>	0	/m/07yw2
+e	trec-2010-27_2	volvo semi trucks	volvo	<dbpedia:Volvo_Trucks>	0	/m/036_ws
+e	trec-2010-28_1	autozone.com	autozone.com	<dbpedia:AutoZone>	0	/m/02z6wl
+e	trec-2010-29_1	best elliptical trainers for home use
+e	trec-2010-29_2	elliptical trainers
+e	trec-2010-2_1	hoboken	hoboken	<dbpedia:Hoboken,_New_Jersey>	0	/m/0xn7b
+e	trec-2010-2_2	hoboken nightlife	hoboken	<dbpedia:Hoboken,_New_Jersey>	0	/m/0xn7b
+e	trec-2010-30_1	mitchell college	mitchell college	<dbpedia:Mitchell_College>	0	/m/02j07k
+e	trec-2010-30_2	compare mitchell college	mitchell college	<dbpedia:Mitchell_College>	0	/m/02j07k
+e	trec-2010-31_1	spyware
+e	trec-2010-31_2	trojan horse
+e	trec-2010-32_1	history crossword puzzles
+e	trec-2010-32_2	history games
+e	trec-2010-33_1	balance starbucks gift card	starbucks	<dbpedia:Starbucks>	0	/m/018c_r
+e	trec-2010-33_2	starbucks gift card	starbucks	<dbpedia:Starbucks>	0	/m/018c_r
+e	trec-2010-34_1	espn nba finals highlights	espn	<dbpedia:ESPN>	0	/m/0kc6x
+e	trec-2010-34_1	espn nba finals highlights	nba	<dbpedia:National_Basketball_Association>	0	/m/05jvx
+e	trec-2010-34_2	nba finals highlights	nba	<dbpedia:National_Basketball_Association>	0	/m/05jvx
+e	trec-2010-35_1	computer worms
+e	trec-2010-35_2	malware
+e	trec-2010-36_1	the sun	the sun	<dbpedia:The_Sun_(United_Kingdom)>	0	/m/0b6hk5f
+e	trec-2010-36_2	the sun newspaper	the sun	<dbpedia:The_Sun_(United_Kingdom)>	0	/m/0b6hk5f
+e	trec-2010-37_1	sun spot activity
+e	trec-2010-37_2	sun spot earthquake
+e	trec-2010-38_1	djs
+e	trec-2010-38_2	djs jobs
+e	trec-2010-39_1	scythe
+e	trec-2010-39_2	scythe mythology
+e	trec-2010-3_1	diabetes education videos books
+e	trec-2010-40_1	fried rice recipes
+e	trec-2010-40_2	rice recipes
+e	trec-2010-41_1	kcs
+e	trec-2010-41_2	kcs petrohawk	kcs petrohawk	<dbpedia:Petrohawk>	0	/m/0kqm10
+e	trec-2010-42_1	er download watch online	er	<dbpedia:ER_(TV_series)>	0	/m/0180mw
+e	trec-2010-42_2	er episodes	er	<dbpedia:ER_(TV_series)>	0	/m/0180mw
+e	trec-2010-43_1	fabric glue
+e	trec-2010-43_2	fabric adhesive
+e	trec-2010-44_1	madagascar penguin pics	madagascar	<dbpedia:Madagascar_(2005_film)>	0	/m/01sbv9
+e	trec-2010-44_2	animated penguin pics
+e	trec-2010-45_1	continental drifting
+e	trec-2010-45_2	plate tectonics
+e	trec-2010-46_1	inuyasha
+e	trec-2010-46_2	inuyasha games
+h	trec-2010-47_1	pink floyd the wall	pink floyd the wall	<dbpedia:Pink_Floyd_%E2%80%93_The_Wall>	0	/m/058ymm
+e	trec-2010-47_2	pink floyd the wall movie	pink floyd the wall movie	<dbpedia:Pink_Floyd_%E2%80%93_The_Wall>	0	/m/058ymm
+e	trec-2010-48_1	facial flushing and high blood pressure
+e	trec-2010-48_2	facial flushing
+e	trec-2010-49_1	buy used car parts online
+e	trec-2010-4_1	neil young albums	neil young	<dbpedia:Neil_Young>	0	/m/0m2l9
+e	trec-2010-4_2	neil young tour dates	neil young	<dbpedia:Neil_Young>	0	/m/0m2l9
+e	trec-2010-50_1	tornadoes
+e	trec-2010-50_2	forecasting tornadoes
+e	trec-2010-51_1	solar panels
+e	trec-2010-51_2	solar panels nano-technology
+e	trec-2010-52_1	purpose driven life warren	purpose driven life	<dbpedia:The_Purpose_Driven_Life>	0	/m/03sd2z
+e	trec-2010-52_1	purpose driven life warren	warren	<dbpedia:Rick_Warren>	0	/m/036vk_
+e	trec-2010-52_2	obama mccain debate	mccain	<dbpedia:John_McCain>	0	/m/0bymv
+e	trec-2010-52_2	obama mccain debate	obama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+h	trec-2010-53_1	gps receivers	gps	<dbpedia:GPS_navigation_device>	0	/m/047b9vj
+e	trec-2010-53_2	digital cameras gps
+e	trec-2010-54_1	adopting a dog
+e	trec-2010-54_2	humane society
+e	trec-2010-55_1	bobcat tractor	bobcat	<dbpedia:Bobcat_Company>	0	/m/0172m8
+e	trec-2010-55_2	bobcat tractor attachment	bobcat	<dbpedia:Bobcat_Company>	0	/m/0172m8
+e	trec-2010-56_1	hunting
+e	trec-2010-56_2	hunting arizona	arizona	<dbpedia:Arizona>	0	/m/0vmt
+e	trec-2010-57_2	how to build a chain link fence
+e	trec-2010-58_1	workplace diversity
+e	trec-2010-58_2	diversity training
+e	trec-2010-59_1	ocd beckham	beckham	<dbpedia:David_Beckham>	0	/m/02d9k
+e	trec-2010-59_2	ocd famous sufferers
+e	trec-2010-5_1	low carb high fat diet
+e	trec-2010-5_2	list of diets
+e	trec-2010-60_1	getting organized office
+e	trec-2010-60_2	container store	container store	<dbpedia:The_Container_Store>	0	/m/0gr8nj
+e	trec-2010-61_1	us map
+e	trec-2010-61_2	us map states and capitals
+e	trec-2010-62_1	diabetes education posters
+e	trec-2010-62_2	nih diabetes	nih	<dbpedia:National_Institutes_of_Health>	0	/m/0chvn
+e	trec-2010-63_1	poker vegas	vegas	<dbpedia:Las_Vegas>	0	/m/0cv3w
+e	trec-2010-63_2	poker atlantic city	atlantic city	<dbpedia:Atlantic_City,_New_Jersey>	0	/m/0qlrh
+e	trec-2010-64_1	pampered chef	pampered chef	<dbpedia:The_Pampered_Chef>	0	/m/03lz53
+e	trec-2010-64_2	hosting pampered chef	pampered chef	<dbpedia:The_Pampered_Chef>	0	/m/03lz53
+e	trec-2010-65_2	biography burnett
+e	trec-2010-66_1	vldl levels
+e	trec-2010-66_2	difference vldl ldl hdl
+e	trec-2010-67_1	martin aircraft	martin aircraft	<dbpedia:Glenn_L._Martin_Company>	0	/m/01832m
+e	trec-2010-67_2	b57
+e	trec-2010-68_1	diabetes education
+e	trec-2010-68_2	diabetes educator
+e	trec-2010-69_1	high heart rate blood pressure cholesterol
+e	trec-2010-69_2	high heart rate
+e	trec-2010-6_1	euclid trucks	euclid trucks	<dbpedia:Euclid_Trucks>	0	/m/027118l
+e	trec-2010-6_2	euclid trucks parts	euclid trucks	<dbpedia:Euclid_Trucks>	0	/m/027118l
+e	trec-2010-71_1	mitchell college athletics	mitchell college athletics	<dbpedia:Mitchell_College>	0	/m/02j07k
+e	trec-2010-71_2	mitchell college admissions	mitchell college	<dbpedia:Mitchell_College>	0	/m/02j07k
+e	trec-2010-72_2	the secret garden adaptations
+e	trec-2010-73_2	inexpensive wedding
+e	trec-2010-74_1	tsa	tsa	<dbpedia:Transportation_Security_Administration>	0	/m/0179dd
+e	trec-2010-75_1	michworks
+e	trec-2010-75_2	jobs michigan	michigan	<dbpedia:Michigan>	0	/m/04rrx
+e	trec-2010-76_1	indexed annuity
+e	trec-2010-76_2	indexed annuity pros and cons
+e	trec-2010-77_1	to be or not to be
+e	trec-2010-77_2	shakespeare quotes plays	shakespeare	<dbpedia:William_Shakespeare>	0	/m/081k8
+e	trec-2010-78_1	windows defender reports software problems	windows defender	<dbpedia:Windows_Defender>	0	/m/04xd0g
+e	trec-2010-78_2	windows defender problems	windows defender	<dbpedia:Windows_Defender>	0	/m/04xd0g
+e	trec-2010-79_1	printable maps
+e	trec-2010-79_2	atlas
+e	trec-2010-7_1	baggage restrictions
+e	trec-2010-7_2	carry-on liquid restrictions
+e	trec-2010-80_1	courses on designing web sites
+e	trec-2010-80_2	website design
+e	trec-2010-81_1	becoming dj
+e	trec-2010-81_2	dj jobs
+e	trec-2010-82_1	wilson antenna
+e	trec-2010-82_2	wilson antenna cb
+e	trec-2010-83_1	history crossword
+e	trec-2010-83_2	history word searches
+e	trec-2010-84_1	discovery channel stores	discovery channel	<dbpedia:Discovery_Channel>	0	/m/0kc8y
+e	trec-2010-84_2	science toys for kids
+e	trec-2010-85_1	dog heat
+e	trec-2010-85_2	dog heat breeding
+e	trec-2010-86_1	student at mitchell college	mitchell college	<dbpedia:Mitchell_College>	0	/m/02j07k
+e	trec-2010-87_1	president of the united states email
+e	trec-2010-87_2	president of the united states contact
+e	trec-2010-88_1	rick warren	rick warren	<dbpedia:Rick_Warren>	0	/m/036vk_
+e	trec-2010-88_2	rick warren debate	rick warren debate	<dbpedia:Rick_Warren>	0	/m/036vk_
+e	trec-2010-89_1	continental plates
+e	trec-2010-89_2	continental drift
+e	trec-2010-8_1	defender game	defender game	<dbpedia:Defender_(video_game)>	0	/m/02k4l6
+e	trec-2010-8_2	defender game online	defender game	<dbpedia:Defender_(video_game)>	0	/m/02k4l6
+e	trec-2010-90_1	safeyouth.org
+e	trec-2010-90_2	teen dating violence
+e	trec-2010-91_1	hughes internet	hughes	<dbpedia:Hughes_Communications>	0	/m/02868rb
+e	trec-2010-91_2	satellite internet providers
+e	trec-2010-92_1	us political map	us	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2010-92_2	us geographic map	us	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2010-93_1	hunting trips in arizona	arizona	<dbpedia:Arizona>	0	/m/0vmt
+e	trec-2010-93_2	hunting regulations in arizona	arizona	<dbpedia:Arizona>	0	/m/0vmt
+e	trec-2010-94_1	disneyland hotel	disneyland	<dbpedia:Disneyland>	0	/m/02fzs
+e	trec-2010-94_2	disneyland hotel reviews	disneyland	<dbpedia:Disneyland>	0	/m/02fzs
+e	trec-2010-95_1	indexed annuity pros cons
+e	trec-2010-95_2	indexed annuity rating
+e	trec-2010-96_1	american standard toilet	american standard	<dbpedia:American_Standard_Brands>	0	/m/04127bj
+e	trec-2010-96_2	toilet
+e	trec-2010-97_1	kiwi fruit
+e	trec-2010-97_2	grow kiwi tree
+e	trec-2010-98_1	star trek	star trek	<dbpedia:Star_Trek>	0	/m/06mv6
+e	trec-2010-98_2	star trek voyager	star trek voyager	<dbpedia:Star_Trek:_Voyager>	0	/m/06r4f
+m	trec-2010-99_1	buy volvo semi trucks	volvo semi trucks	<dbpedia:Volvo_Trucks>	0	/m/036_ws
+e	trec-2010-99_2	reviews xc90	xc90	<dbpedia:Volvo_XC90>	0	/m/03v2c3
+e	trec-2010-9_1	wooden fence
+e	trec-2010-9_2	chain link fence
+e	trec-2011-10_1	crisis intervention
+e	trec-2011-10_2	crisis intervention prlsofessiona
+e	trec-2011-10_3	crisis intervention professional services
+e	trec-2011-10_4	crisis intervention services
+e	trec-2011-11_1	hawaii real estate family resale OR foreclosure	hawaii	<dbpedia:Hawaii>	0	/m/03gh4
+e	trec-2011-11_2	hawaii real estate family resale OR foreclosure news	hawaii	<dbpedia:Hawaii>	0	/m/03gh4
+h	trec-2011-11_3	hawaii real estate family resale value house OR condo news	condo	<dbpedia:Condominium>	0	/m/020ys5
+h	trec-2011-11_3	hawaii real estate family resale value house OR condo news	hawaii	<dbpedia:Hawaii>	0	/m/03gh4
+h	trec-2011-11_4	hawaii real estate average resale value house OR condo news	condo	<dbpedia:Condominium>	0	/m/020ys5
+h	trec-2011-11_4	hawaii real estate average resale value house OR condo news	hawaii	<dbpedia:Hawaii>	0	/m/03gh4
+e	trec-2011-12_1	taylor manor hospital
+e	trec-2011-12_2	taylor manor hospital map
+e	trec-2011-12_3	taylor manor maryland	maryland	<dbpedia:Maryland>	0	/m/04rrd
+e	trec-2011-12_4	taylorhealth location
+e	trec-2011-13_1	employ warrant officer
+e	trec-2011-13_2	employ warrant officer military services
+e	trec-2011-13_3	salary of warrant officer
+e	trec-2011-13_4	job of warrant officer
+e	trec-2011-14_1	training   management
+e	trec-2011-14_2	training   management   hotels?
+e	trec-2011-14_3	training   management    benefits?
+e	trec-2011-14_4	why   training   management    benefits?
+e	trec-2011-14_5	why  management studies   benefits?
+e	trec-2011-14_6	why  management studies  benefits?
+e	trec-2011-14_7	qualifications   management degree?
+e	trec-2011-14_8	degree    hotel management?
+e	trec-2011-15_1	hardees	hardees	<dbpedia:Hardee's>	0	/m/01k3k_
+e	trec-2011-15_2	hardees locations	hardees	<dbpedia:Hardee's>	0	/m/01k3k_
+e	trec-2011-15_3	hardees affiliates	hardees	<dbpedia:Hardee's>	0	/m/01k3k_
+e	trec-2011-16_2	hardees corporate offices	hardees	<dbpedia:Hardee's>	0	/m/01k3k_
+e	trec-2011-17_1	berkley insurance	berkley	<dbpedia:W._R._Berkley>	0	/m/0cp9sx
+e	trec-2011-17_2	berkley insurance about us	berkley	<dbpedia:W._R._Berkley>	0	/m/0cp9sx
+e	trec-2011-17_3	"berkley insurance" "about us"	berkley	<dbpedia:W._R._Berkley>	0	/m/0cp9sx
+e	trec-2011-18_1	earthquake data
+e	trec-2011-18_2	earthquake incidence worldwide
+e	trec-2011-18_3	earthquake mapping
+e	trec-2011-19_1	Iwo Jima facts	Iwo Jima	<dbpedia:Iwo_Jima>	0	/m/017twv
+e	trec-2011-19_2	Iwo Jima island  facts	Iwo Jima	<dbpedia:Iwo_Jima>	0	/m/017twv
+e	trec-2011-19_3	Iwo Jima travel	Iwo Jima	<dbpedia:Iwo_Jima>	0	/m/017twv
+e	trec-2011-1_1	peace corp	peace corp	<dbpedia:Peace_Corps>	0	/m/019574
+e	trec-2011-1_2	peace corp apply	peace corp	<dbpedia:Peace_Corps>	0	/m/019574
+e	trec-2011-1_3	peace corp application	peace corp	<dbpedia:Peace_Corps>	0	/m/019574
+e	trec-2011-20_1	dooney bourke look alike purses	dooney bourke	<dbpedia:Dooney_&_Bourke>	0	/m/097rdz
+e	trec-2011-20_2	pictures of dooney bourke look alike purses	dooney bourke	<dbpedia:Dooney_&_Bourke>	0	/m/097rdz
+e	trec-2011-20_3	dooney bourke purses	dooney bourke	<dbpedia:Dooney_&_Bourke>	0	/m/097rdz
+e	trec-2011-21_1	dooney and bourke imitations	dooney and bourke	<dbpedia:Dooney_&_Bourke>	0	/m/097rdz
+e	trec-2011-21_2	dooney and bourke replicas	dooney and bourke	<dbpedia:Dooney_&_Bourke>	0	/m/097rdz
+e	trec-2011-21_3	dooney and bourke replicas makers	dooney and bourke	<dbpedia:Dooney_&_Bourke>	0	/m/097rdz
+e	trec-2011-22_1	shoulder joint pain
+e	trec-2011-22_2	shoulder joint pain nhs	nhs	<dbpedia:National_Health_Service_(England)>	0	/m/01fw9h
+e	trec-2011-23_1	History of DSEC
+e	trec-2011-23_2	History of dupont science essay contest	dupont	<dbpedia:DuPont>	0	/m/01cp5q
+e	trec-2011-24_1	DuPont Science Essay Contest	DuPont	<dbpedia:DuPont>	0	/m/01cp5q
+e	trec-2011-24_2	DuPont Science Essay Contest History	DuPont	<dbpedia:DuPont>	0	/m/01cp5q
+e	trec-2011-24_3	What is the DuPont Science Essay Contest?	dupont	<dbpedia:DuPont>	0	/m/01cp5q
+e	trec-2011-24_4	When was the DSEC created?
+e	trec-2011-25_1	collagen vascular disease causes symptoms treatments effects
+e	trec-2011-25_2	CVD causes symptoms treatments
+e	trec-2011-25_3	collagen vascular disease causes symptoms treatments
+e	trec-2011-26_1	lake murray
+e	trec-2011-26_2	lake murray fishing
+e	trec-2011-26_3	lake murray largest fish
+e	trec-2011-27_1	define: menorraghia
+e	trec-2011-27_2	heavy periods operation
+e	trec-2011-28_1	"Nicknames" what are
+e	trec-2011-28_2	derivation of "nickname"
+e	trec-2011-28_3	thesaurus "nickname"
+e	trec-2011-29_1	Charles Basil
+e	trec-2011-29_3	Basil family
+e	trec-2011-2_1	"event planning" studying college
+e	trec-2011-2_2	"event planning" college
+e	trec-2011-30_1	Charles Basil biography
+e	trec-2011-30_2	Charles Basil acomplishments
+e	trec-2011-30_3	Basil  Charles
+m	trec-2011-31_1	Greenland highschool new hampshire	Greenland	<dbpedia:Greenland,_New_Hampshire>	0	/m/0xjvt
+m	trec-2011-31_1	Greenland highschool new hampshire	new hampshire	<dbpedia:New_Hampshire>	0	/m/059f4
+e	trec-2011-31_2	Greenland high school	Greenland	<dbpedia:Greenland,_New_Hampshire>	0	/m/0xjvt
+m	trec-2011-32_1	"greenland high school" new hampshire	greenland	<dbpedia:Greenland,_New_Hampshire>	0	/m/0xjvt
+m	trec-2011-32_1	"greenland high school" new hampshire	new hampshire	<dbpedia:New_Hampshire>	0	/m/059f4
+e	trec-2011-32_3	"greenland high school"
+e	trec-2011-33_1	join job corp
+e	trec-2011-33_2	join job corps
+e	trec-2011-34_1	legal system
+e	trec-2011-34_2	zhaopei
+e	trec-2011-34_3	fee of advice
+e	trec-2011-34_4	type lawyer advice
+e	trec-2011-35_1	"skagit valley herald"	skagit valley	<dbpedia:Skagit_Valley>	0	/m/06cvv4
+e	trec-2011-35_10	"skagit valley" history	skagit valley	<dbpedia:Skagit_Valley>	0	/m/06cvv4
+e	trec-2011-35_2	skagitvalleyherald.com
+e	trec-2011-35_3	www.skagitvalleyherald.com
+e	trec-2011-35_4	"skagit valley herald" created	skagit valley	<dbpedia:Skagit_Valley>	0	/m/06cvv4
+e	trec-2011-35_5	"skagit valley herald" founded	skagit valley	<dbpedia:Skagit_Valley>	0	/m/06cvv4
+e	trec-2011-35_6	"skagit valley herald" circulation	skagit valley	<dbpedia:Skagit_Valley>	0	/m/06cvv4
+e	trec-2011-35_7	"skagit valley" demographics	skagit valley	<dbpedia:Skagit_Valley>	0	/m/06cvv4
+e	trec-2011-35_8	"skagit county"	skagit county	<dbpedia:Skagit_County,_Washington>	0	/m/0mlyw
+e	trec-2011-35_9	"skagit valley" noted	skagit valley	<dbpedia:Skagit_Valley>	0	/m/06cvv4
+e	trec-2011-36_1	black powder ammunition
+e	trec-2011-36_2	wikipedia black powder
+e	trec-2011-36_3	black powder inventor
+e	trec-2011-37_1	black powder ammunition wiki
+e	trec-2011-37_2	gun powder wiki
+e	trec-2011-37_3	inventor of gunpowder
+e	trec-2011-37_4	usage of gunpowder
+e	trec-2011-37_5	history of gunpowder use
+e	trec-2011-38_1	spain weather system
+e	trec-2011-38_2	spain weather system annual
+e	trec-2011-38_3	spain annual rainfall temperature
+e	trec-2011-39_1	Houston community college about	Houston community college	<dbpedia:Houston_Community_College_System>	0	/m/0343gr
+e	trec-2011-39_2	Houston community college location	Houston community college	<dbpedia:Houston_Community_College_System>	0	/m/0343gr
+e	trec-2011-3_1	renal cancer treatment   experiments
+e	trec-2011-3_2	renal cancer treatment
+e	trec-2011-40_1	houston community college location
+e	trec-2011-40_2	houston community college associated high schools?	Houston community college	<dbpedia:Houston_Community_College_System>	0	/m/0343gr
+e	trec-2011-40_3	houston community college curriculum	Houston community college	<dbpedia:Houston_Community_College_System>	0	/m/0343gr
+e	trec-2011-41_1	Jay-Z production company	Jay-Z	<dbpedia:Jay-Z>	0	/m/01vw20h
+e	trec-2011-41_2	Jay-Z marry	Jay-Z	<dbpedia:Jay-Z>	0	/m/01vw20h
+e	trec-2011-41_3	Jay-Z albums	Jay-Z	<dbpedia:Jay-Z>	0	/m/01vw20h
+e	trec-2011-42_1	Iraqi defector Curveball details
+e	trec-2011-42_2	Curveball wiki
+e	trec-2011-43_1	IMG	IMG	<dbpedia:IMG_(company)>	0	/m/055g9p
+e	trec-2011-43_2	international management group	international management group	<dbpedia:IMG_(company)>	0	/m/055g9p
+h	trec-2011-43_3	vijay singh img	img	<dbpedia:IMG_(company)>	0	/m/055g9p
+h	trec-2011-43_3	vijay singh img	vijay singh	<dbpedia:Vijay_Singh>	0	/m/02739p
+e	trec-2011-44_1	Merrill lynch Cheif exec	Merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	trec-2011-44_2	Merrill lynch	Merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	trec-2011-44_3	Merrill lynch headquarters	Merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	trec-2011-45_1	merrill lynch background	merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	trec-2011-45_2	merrill lynch CEO HQ	merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	trec-2011-45_3	merrill lynch location	merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	trec-2011-45_4	merrill lynch location headquarters	merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	trec-2011-45_5	merrill lynch alternative name	merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	trec-2011-46_1	first partial face transplant
+e	trec-2011-46_2	isabelle dinoire criticisms	isabelle dinoire	<dbpedia:Isabelle_Dinoire>	0	/m/0980jl
+e	trec-2011-46_3	isabelle dinoire ethics	isabelle dinoire	<dbpedia:Isabelle_Dinoire>	0	/m/0980jl
+e	trec-2011-47_1	AMT
+e	trec-2011-47_2	AMT and Tax
+e	trec-2011-47_3	AMT and Tax and congress
+m	trec-2011-48_1	Irving Berlin birthplace	Irving Berlin	<dbpedia:Irving_Berlin>	0	/m/0cyhq
+e	trec-2011-48_2	Irving Berlin list of songs	Irving Berlin	<dbpedia:Irving_Berlin>	0	/m/0cyhq
+e	trec-2011-48_3	Irving Berlin complete list of songs	Irving Berlin	<dbpedia:Irving_Berlin>	0	/m/0cyhq
+e	trec-2011-48_4	complete list of songs of Irving Berlin	Irving Berlin	<dbpedia:Irving_Berlin>	0	/m/0cyhq
+e	trec-2011-49_1	cunard cruise lines	cunard cruise lines	<dbpedia:Cunard_Line>	0	/m/0nlb2
+m	trec-2011-49_2	carnival uk	carnival	<dbpedia:Carnival_Cruise_Lines>	0	/m/01vbj5
+m	trec-2011-49_2	carnival uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2011-49_3	cunard cruise lines director	cunard cruise lines	<dbpedia:Cunard_Line>	0	/m/0nlb2
+e	trec-2011-49_4	cunard cruise lines managing director	cunard cruise lines	<dbpedia:Cunard_Line>	0	/m/0nlb2
+e	trec-2011-4_1	groin infections
+e	trec-2011-4_2	patient.co..uk	patient.co..uk	<dbpedia:Patient_UK>	0	/m/0bmbbmm
+e	trec-2011-4_3	nhs choice
+e	trec-2011-50_1	harry potter and the goblet of fire	harry potter and the goblet of fire	<dbpedia:Harry_Potter_and_the_Goblet_of_Fire>	0	/m/01m5g_
+e	trec-2011-50_1	harry potter and the goblet of fire	harry potter and the goblet of fire	<dbpedia:Harry_Potter_and_the_Goblet_of_Fire_(film)>	1	/m/031786
+e	trec-2011-50_2	harry potter and the goblet of fire book	harry potter and the goblet of fire	<dbpedia:Harry_Potter_and_the_Goblet_of_Fire>	0	/m/01m5g_
+e	trec-2011-50_3	harry potter and the goblet of fire book translations	harry potter and the goblet of fire	<dbpedia:Harry_Potter_and_the_Goblet_of_Fire>	0	/m/01m5g_
+e	trec-2011-50_4	harry potter and the goblet of fire translations languages	harry potter and the goblet of fire	<dbpedia:Harry_Potter_and_the_Goblet_of_Fire>	0	/m/01m5g_
+e	trec-2011-51_1	"jasper fforde" chronology	jasper fforde	<dbpedia:Jasper_Fforde>	0	/m/01b5sg
+e	trec-2011-51_2	"jasper fforde" questions answers contents	jasper fforde	<dbpedia:Jasper_Fforde>	0	/m/01b5sg
+m	trec-2011-51_3	"jasper fforde" "thursday next" site	jasper fforde	<dbpedia:Jasper_Fforde>	0	/m/01b5sg
+m	trec-2011-51_3	"jasper fforde" "thursday next" site	thursday next	<dbpedia:Thursday_Next>	0	/m/047km3
+e	trec-2011-52_1	founder Guinness Brewery	Guinness	<dbpedia:Guinness>	0	/m/0f2nzn
+e	trec-2011-52_2	Guinnes Brewmaster 2006	Guinnes	<dbpedia:Guinness>	0	/m/0f2nzn
+e	trec-2011-52_3	Guinness Brewmaster 2006	Guinness	<dbpedia:Guinness>	0	/m/0f2nzn
+e	trec-2011-52_4	Guinness 2006	Guinness	<dbpedia:Guinness>	0	/m/0f2nzn
+m	trec-2011-52_5	alcohol percent Guinnes	Guinnes	<dbpedia:Guinness>	0	/m/0f2nzn
+e	trec-2011-53_1	Guinness brewery established	Guinness	<dbpedia:Guinness>	0	/m/0f2nzn
+e	trec-2011-53_2	Guinness brewmaster 2006
+e	trec-2011-53_3	"Guinness brewmaster"  2006	Guinness	<dbpedia:Guinness>	0	/m/0f2nzn
+m	trec-2011-53_4	Guinness sales per day Ireland	Guinness	<dbpedia:Guinness>	0	/m/0f2nzn
+m	trec-2011-53_4	Guinness sales per day Ireland	Ireland	<dbpedia:Ireland>	0	/m/012wgb
+m	trec-2011-53_5	Guinness sale of pints per day Ireland	Guinness	<dbpedia:Guinness>	0	/m/0f2nzn
+m	trec-2011-53_5	Guinness sale of pints per day Ireland	Ireland	<dbpedia:Ireland>	0	/m/012wgb
+m	trec-2011-53_6	percent of alcohol by volume in Guinness	Guinness	<dbpedia:Guinness>	0	/m/0f2nzn
+m	trec-2011-53_7	stout breweries  uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+m	trec-2011-54_1	hybrid vehicle sales usa	usa	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2011-54_2	first ever hybrid car
+m	trec-2011-54_3	percentage sales of hybrid vehicles in 2004 usa	usa	<dbpedia:United_States>	0	/m/09c7w0
+m	trec-2011-54_4	hybrid vehicle sales as percentage in 2004 usa	usa	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2011-55_1	American girl dolls
+e	trec-2011-55_2	New York American Girl dolls price
+e	trec-2011-55_3	New York American Girl dolls cost
+e	trec-2011-55_4	American Girl dolls cost $
+e	trec-2011-55_5	American Girl doll retail price
+e	trec-2011-55_6	American Girl doll wiki
+e	trec-2011-55_7	American Girl wiki
+e	trec-2011-56_1	chanel company	chanel	<dbpedia:Chanel>	0	/m/036rkh
+e	trec-2011-56_2	chanel museum exhibition clothing	chanel	<dbpedia:Chanel>	0	/m/036rkh
+e	trec-2011-56_3	chanel president	chanel	<dbpedia:Chanel>	0	/m/036rkh
+e	trec-2011-56_4	chanel clothes award ceremonies women	chanel	<dbpedia:Chanel>	0	/m/036rkh
+e	trec-2011-56_5	chanel top fragrance	chanel	<dbpedia:Chanel>	0	/m/036rkh
+e	trec-2011-56_6	chanel top fragrance in the world	chanel	<dbpedia:Chanel>	0	/m/036rkh
+e	trec-2011-57_1	2005 presidential election in Egypt
+e	trec-2011-57_2	2005 presidential election in Egypt, forgery
+e	trec-2011-57_3	2005 presidential election, Egypt, poster cost
+e	trec-2011-58_1	"2005 world snooker championships"
+e	trec-2011-58_2	"2005 world snooker championship"
+h	trec-2011-58_4	"world snooker" "tournaments annually"	world snooker "tournaments annually"	<dbpedia:World_Snooker_Championship>	0	/m/01trn4
+h	trec-2011-58_5	"world snooker" tournaments	world snooker tournaments	<dbpedia:World_Snooker_Championship>	0	/m/01trn4
+e	trec-2011-58_6	"world snooker" "reigning superstar"				
+e	trec-2011-58_7	"snooker" "reigning superstar"
+e	trec-2011-59_1	marsupials ecology behaviur
+h	trec-2011-59_2	marsupials cartoon	marsupials cartoon	<dbpedia:Marsupilami_(1993_TV_series)>	0	/m/0h1hgfy
+e	trec-2011-59_3	tasmanian tiger
+h	trec-2011-5_1	medicare fraud	medicare	<dbpedia:Medicare_(United_States)>	0	/m/0fzh9
+h	trec-2011-5_2	medicare fraud criteria	medicare	<dbpedia:Medicare_(United_States)>	0	/m/0fzh9
+e	trec-2011-60_1	where do marsupials keep their young
+e	trec-2011-60_3	"non-extinct" marsupials
+e	trec-2011-60_4	marsupials
+e	trec-2011-60_5	largest meat eating marsupial
+h	trec-2011-60_6	marsupial outside australia	australia	<dbpedia:Australia>	0	/m/0chghy
+h	trec-2011-60_6	marsupial outside australia	marsupial	<dbpedia:Marsupilami>	0	/m/01_5lq
+e	trec-2011-60_8	"marsupial manure"
+h	trec-2011-60_9	marsupial cartoon character	marsupial cartoon	<dbpedia:Marsupilami_(1993_TV_series)>	0	/m/0h1hgfy
+e	trec-2011-61_1	alan greenspan	alan greenspan	<dbpedia:Alan_Greenspan>	0	/m/015h4y
+e	trec-2011-61_2	longest serving Federal Reserve Chairman
+e	trec-2011-62_1	History of FISA
+e	trec-2011-62_2	FISA wiretap applications
+e	trec-2011-62_3	FISA judges serving term
+e	trec-2011-63_1	FISA
+e	trec-2011-63_2	judges on fisa court
+e	trec-2011-63_3	1990 FISA wiretap applications
+e	trec-2011-63_4	judges FISA court
+e	trec-2011-63_5	judges FISA court 2005
+e	trec-2011-64_1	australia wine export data
+h	trec-2011-64_2	australia wine export to United States	United States	<dbpedia:United_States>	0	/m/09c7w0
+h	trec-2011-64_2	australia wine export to United States	australia	<dbpedia:Australia>	0	/m/0chghy
+e	trec-2011-64_3	australia female winemaker
+e	trec-2011-65_1	Australian wine Yellowtail
+e	trec-2011-65_2	Australian female winemakers
+e	trec-2011-65_3	Australia female wine makers
+e	trec-2011-65_4	Australia wine
+e	trec-2011-66_1	Australian wine award 2011
+m	trec-2011-66_2	Shiraz predominant grape Australia	Australia	<dbpedia:Australia>	0	/m/0chghy
+m	trec-2011-66_3	Australia wine export to US	Australia	<dbpedia:Australia>	0	/m/0chghy
+m	trec-2011-66_3	Australia wine export to US	US	<dbpedia:United_States>	0	/m/09c7w0
+h	trec-2011-66_4	Yellowtail wine Australia	Australia	<dbpedia:Australia>	0	/m/0chghy
+m	trec-2011-66_5	female winemakers Australia	Australia	<dbpedia:Australia>	0	/m/0chghy
+e	trec-2011-66_6	female winemakers site:.com.au
+e	trec-2011-67_1	joseph steffen	joseph steffen	<dbpedia:Lincoln_Steffens>	0	/m/01bw1c
+e	trec-2011-67_3	"joseph steffen" wikipedia	joseph steffen	<dbpedia:Lincoln_Steffens>	0	/m/01bw1c
+e	trec-2011-68_1	jack nicholson imdb	jack nicholson	<dbpedia:Jack_Nicholson>	0	/m/09fb5
+e	trec-2011-68_2	jack nicholson co stars	jack nicholson	<dbpedia:Jack_Nicholson>	0	/m/09fb5
+e	trec-2011-68_3	jack nicholson  and his co stars	jack nicholson	<dbpedia:Jack_Nicholson>	0	/m/09fb5
+e	trec-2011-68_4	co stars of jack nicholson	jack nicholson	<dbpedia:Jack_Nicholson>	0	/m/09fb5
+e	trec-2011-68_5	jack nicholson	jack nicholson	<dbpedia:Jack_Nicholson>	0	/m/09fb5
+e	trec-2011-69_1	"space sounds like" astronauts
+e	trec-2011-69_2	"space sound like" astronauts
+e	trec-2011-6_1	paramount founded	paramount	<dbpedia:Paramount_Pictures>	0	/m/05qd_
+e	trec-2011-6_2	paramount founders	paramount	<dbpedia:Paramount_Pictures>	0	/m/05qd_
+e	trec-2011-70_1	frequency hematology report
+e	trec-2011-70_2	frequency hematology report body chemistry
+e	trec-2011-71_1	"pest control" how to
+e	trec-2011-71_2	"pest control" courses
+e	trec-2011-71_3	"pest control" manual "how-to"
+e	trec-2011-72_1	how accurate are home pregnancy tests
+e	trec-2011-72_2	which home pregnancy tests are most accurate
+e	trec-2011-73_1	history of crossword puzzle
+e	trec-2011-73_2	crossword puzzle wiki
+e	trec-2011-74_1	"hospital anxiety and depression scale" scales references
+e	trec-2011-74_2	"hospital anxiety and depression scale" scales "anxiety is"
+e	trec-2011-75_1	introduction trust fund
+e	trec-2011-75_2	wiki trust fund
+e	trec-2011-75_3	trust fund
+e	trec-2011-76_1	"glenohumeral sublaxation"
+e	trec-2011-76_3	glenohumeral
+e	trec-2011-7_1	cosmetic laser treatment
+e	trec-2011-7_2	wikipedia cosmetic laser treatment				
+e	trec-2011-7_3	uses for cosmetic laser treatment
+e	trec-2011-8_1	"cosmetic laser treatment*" and safe*
+e	trec-2011-8_2	"cosmetic laser treatment*" and efficac*
+e	trec-2011-8_3	"cosmetic laser treatment*" and effective*
+e	trec-2011-8_4	define:"cosmetic laser treatment*"
+e	trec-2011-8_5	laser treatment beauty safety
+e	trec-2011-8_6	laser treatment about
+e	trec-2011-8_7	laser treatment definition
+e	trec-2011-8_8	(beauty or cosmetic) and laser treatment
+e	trec-2011-9_1	who invented motorized bicycle
+e	trec-2011-9_2	motorized bike versus motorcycle
+h	trec-2011-9_3	motorized bike driving licences in USA	USA	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2012-10_1	designer dogs moral
+e	trec-2012-11_1	russian submarine Kursk sinks
+h	trec-2012-11_2	russian submarine Kursk fleet				
+e	trec-2012-11_3	russian submarine Kursk on-board commander
+h	trec-2012-11_4	kursk commander				
+e	trec-2012-11_5	kursk submarine commander
+e	trec-2012-11_6	kursk sink express regret
+e	trec-2012-11_7	kursk countries express regret
+e	trec-2012-11_8	kursk 2000 countries express regret
+e	trec-2012-11_9	kursk UK subs in area
+m	trec-2012-12_1	Kursk russia today	Kursk	<dbpedia:Kursk>	0	/m/03jmb8
+m	trec-2012-12_1	Kursk russia today	russia today	<dbpedia:RT_(TV_network)>	0	/m/0dkz0z
+e	trec-2012-12_2	russiatoday.ru	russiatoday.ru	<dbpedia:RT_(TV_network)>	0	/m/0dkz0z
+e	trec-2012-13_1	kursk russian sinking
+e	trec-2012-13_2	kursk russian sinking US submarines
+e	trec-2012-14_1	Kursk submarine 2000
+e	trec-2012-14_2	Kursk submarine 2000 politics
+e	trec-2012-15_1	"russian politics" kursk submarine
+e	trec-2012-15_2	russia politics "kursk submarine"
+m	trec-2012-16_1	Kursk   Barents see   Russian politics	Barents see	<dbpedia:Barents_Sea>	0	/m/0c0kk
+m	trec-2012-16_1	Kursk   Barents see   Russian politics	Kursk	<dbpedia:Kursk>	0	/m/03jmb8
+m	trec-2012-16_2	Kursk   Barents see   Russian politics   causes	Barents see	<dbpedia:Barents_Sea>	0	/m/0c0kk
+m	trec-2012-16_2	Kursk   Barents see   Russian politics   causes	Kursk	<dbpedia:Kursk>	0	/m/03jmb8
+m	trec-2012-16_3	Kursk   Barents sea   causes	Barents sea	<dbpedia:Barents_Sea>	0	/m/0c0kk
+m	trec-2012-16_3	Kursk   Barents sea   causes	Kursk	<dbpedia:Kursk>	0	/m/03jmb8
+e	trec-2012-17_1	india government policy miss universe	india government	<dbpedia:Government_of_India>	0	/m/02pbmw
+e	trec-2012-17_1	india government policy miss universe	miss universe	<dbpedia:Miss_Universe>	0	/m/013c6x
+e	trec-2012-17_2	"indian government" policy miss universe	indian government	<dbpedia:Government_of_India>	0	/m/02pbmw
+e	trec-2012-17_2	"indian government" policy miss universe	miss universe	<dbpedia:Miss_Universe>	0	/m/013c6x
+e	trec-2012-18_1	Indian politics   Miss Universe	Miss Universe	<dbpedia:Miss_Universe>	0	/m/013c6x
+e	trec-2012-18_2	politics Indian Miss Universe	Miss Universe	<dbpedia:Miss_Universe>	0	/m/013c6x
+e	trec-2012-18_3	politics 1994-2000  Indian Miss Universe
+e	trec-2012-19_2	port arthur massacre victims
+e	trec-2012-1_1	US tax code 403 (b)
+e	trec-2012-1_2	US tax code 403 (b) eligibility
+e	trec-2012-20_1	port arthur	port arthur	<dbpedia:Port_Arthur,_Tasmania>	0	/m/01nbg8
+e	trec-2012-20_2	port arthur massacre
+e	trec-2012-21_1	Port Arther Massacre
+e	trec-2012-21_2	Port Arther Massacre Australia
+e	trec-2012-21_3	Port Arther Massacre Australia names died
+e	trec-2012-21_4	Port Arther Massacre Australia victims names
+m	trec-2012-22_1	gun homicides australia	australia	<dbpedia:Australia>	0	/m/0chghy
+m	trec-2012-22_2	martin bryant port arthur massacre	martin bryant	<dbpedia:Martin_Bryant>	0	/m/02xwkl
+m	trec-2012-22_2	martin bryant port arthur massacre	port arthur	<dbpedia:Port_Arthur,_Tasmania>	0	/m/01nbg8
+e	trec-2012-22_4	port arthur massacre australia
+m	trec-2012-22_5	gun homicides australia after 1996	australia	<dbpedia:Australia>	0	/m/0chghy
+m	trec-2012-23_1	port arthur martin bryant	martin bryant	<dbpedia:Martin_Bryant>	0	/m/02xwkl
+m	trec-2012-23_1	port arthur martin bryant	port arthur	<dbpedia:Port_Arthur,_Tasmania>	0	/m/01nbg8
+m	trec-2012-23_2	port arthur martin bryant gun crime	martin bryant	<dbpedia:Martin_Bryant>	0	/m/02xwkl
+m	trec-2012-23_2	port arthur martin bryant gun crime	port arthur	<dbpedia:Port_Arthur,_Tasmania>	0	/m/01nbg8
+h	trec-2012-24_1	france world cup winners	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-24_1	france world cup winners	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-24_2	france 1998 final	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-24_3	france vs brazil 1998 stadium	brazil	<dbpedia:Brazil_national_football_team>	0	/m/01352_
+h	trec-2012-24_3	france vs brazil 1998 stadium	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-25_1	when france win world cuo	france	<dbpedia:France>	0	/m/0f8l9c
+h	trec-2012-25_2	when france win world cup	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-25_2	when france win world cup	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-25_3	france versus who world cup 1998	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-25_3	france versus who world cup 1998	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-25_4	france versus who world cup 1998 final score	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-25_4	france versus who world cup 1998 final score	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+e	trec-2012-25_5	nickname for france football team in world cup 1998	france football team	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-25_6	stadium final world cup 1998	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-25_7	coach france football team world cup 1998	france football team	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-25_7	coach france football team world cup 1998	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-26_1	france world cup 1998	france	<dbpedia:France>	1	/m/0f8l9c
+h	trec-2012-26_1	france world cup 1998	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-26_1	france world cup 1998	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-26_1	france world cup 1998	world cup	<dbpedia:FIFA_World_Cup>	1	/m/030q7
+h	trec-2012-26_2	france world cup 1998 reactions	france	<dbpedia:France>	0	/m/0f8l9c
+h	trec-2012-26_2	france world cup 1998 reactions	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-26_3	france world cup 1998 stock markets	france	<dbpedia:France>	0	/m/0f8l9c
+h	trec-2012-26_3	france world cup 1998 stock markets	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+e	trec-2012-27_1	stock market response to 1988 world cup
+e	trec-2012-27_2	stock market response to 1998 world cup
+h	trec-2012-27_3	french world cup 1998	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-28_1	france world cup 98 reaction stock market	france	<dbpedia:France>	0	/m/0f8l9c
+h	trec-2012-28_1	france world cup 98 reaction stock market	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-28_2	france world cup 98 reaction	france	<dbpedia:France>	1	/m/0f8l9c
+h	trec-2012-28_2	france world cup 98 reaction	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-28_2	france world cup 98 reaction	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-28_2	france world cup 98 reaction	world cup	<dbpedia:FIFA_World_Cup>	1	/m/030q7
+h	trec-2012-28_3	france world cup 98	france	<dbpedia:France>	1	/m/0f8l9c
+h	trec-2012-28_3	france world cup 98	france	<dbpedia:France_national_football_team>	0	/m/01l3vx
+h	trec-2012-28_3	france world cup 98	world cup	<dbpedia:FIFA_World_Cup>	0	/m/030q7
+h	trec-2012-28_3	france world cup 98	world cup	<dbpedia:FIFA_World_Cup>	1	/m/030q7
+e	trec-2012-29_1	bollywood
+e	trec-2012-29_2	bollywood stars
+e	trec-2012-29_3	bollywood beverly hills	beverly hills	<dbpedia:Beverly_Hills,_California>	0	/m/0k049
+h	trec-2012-29_4	bollywood oscars				
+e	trec-2012-29_5	world film industries
+e	trec-2012-2_1	403(b) retirement plan
+e	trec-2012-2_2	personal IRA
+e	trec-2012-2_3	personal IRA v 403 (b)
+e	trec-2012-2_4	personal IRA or 403 (b)
+e	trec-2012-2_5	help retirement plan
+e	trec-2012-30_1	bollywood facts
+e	trec-2012-31_1	bollywood growth government policy
+e	trec-2012-31_2	bollywood legislation
+e	trec-2012-31_3	bollywood promote growth
+e	trec-2012-32_2	bollywood law
+e	trec-2012-33_1	bollywood legislation growth
+e	trec-2012-33_2	bollywood legislation growth government
+e	trec-2012-34_1	the company
+e	trec-2012-34_2	the company new york stock exchange	new york stock exchange	<dbpedia:New_York_Stock_Exchange>	0	/m/05drh
+e	trec-2012-35_1	merck &amp;amp; co. lobbying	merck &amp;amp; co.	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+e	trec-2012-35_2	merck and co. lobbying	merck and co.	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+e	trec-2012-35_3	merck and co	merck and co	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+e	trec-2012-35_4	merck and co policies	merck and co	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+e	trec-2012-36_1	Merck lobby united states policy	Merck	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+e	trec-2012-36_2	"Merck lobbyist" united states policy legislation	Merck	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+e	trec-2012-36_3	merck lobbying	merck	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+e	trec-2012-37_1	Merck lobbists	Merck	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+h	trec-2012-37_2	Merck lobbying US policy	Merck	<dbpedia:Merck_&_Co.>	0	/m/04f0xq
+h	trec-2012-37_2	Merck lobbying US policy	US	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2012-38_1	Kurosawa	Kurosawa	<dbpedia:Akira_Kurosawa>	0	/m/0kft
+m	trec-2012-38_2	Kurosawa's wife	Kurosawa	<dbpedia:Akira_Kurosawa>	0	/m/0kft
+e	trec-2012-39_1	Akira Kurosawa influence	Akira Kurosawa	<dbpedia:Akira_Kurosawa>	0	/m/0kft
+e	trec-2012-39_2	Akira Kurosawa influence india	Akira Kurosawa	<dbpedia:Akira_Kurosawa>	0	/m/0kft
+e	trec-2012-39_2	Akira Kurosawa influence india	india	<dbpedia:India>	0	/m/03rk0
+e	trec-2012-39_3	"Akira Kurosawa" indian cinema	Akira Kurosawa	<dbpedia:Akira_Kurosawa>	0	/m/0kft
+e	trec-2012-39_4	"Akira Kurosawa" chinese cinema	Akira Kurosawa	<dbpedia:Akira_Kurosawa>	0	/m/0kft
+e	trec-2012-3_1	teach yourself programming
+e	trec-2012-3_2	best programming language for beginners
+e	trec-2012-40_1	water turbine efficiency
+e	trec-2012-40_2	water turbine cost per kwh
+e	trec-2012-41_2	Newton's second law
+e	trec-2012-41_3	Newton's third law
+e	trec-2012-42_1	water turbines
+e	trec-2012-42_2	water turbines relation to newtons law
+e	trec-2012-42_3	water turbines replace fossil fuels
+e	trec-2012-42_4	water turbines electricity generation cost per kWh
+e	trec-2012-42_5	effective water turbines types
+e	trec-2012-42_6	comparison of water turbine types
+e	trec-2012-43_1	working mechanism of water turbines
+e	trec-2012-43_2	types of water turbines
+e	trec-2012-43_3	newtons laws on water turbines
+e	trec-2012-44_1	hydropower renewable resource
+e	trec-2012-44_2	hydroelectric power
+e	trec-2012-44_3	hydroelectric power environment
+e	trec-2012-45_1	consequences of hydroelectric dam
+e	trec-2012-45_2	hydropower efficiency
+e	trec-2012-46_2	pseudocyesis psychology
+e	trec-2012-47_1	pseudocyesis
+e	trec-2012-47_2	pseudocyesis epidemiology
+e	trec-2012-47_3	pseudocyesis history
+e	trec-2012-48_1	Pseudocyesis research
+e	trec-2012-48_2	Pseudocyesis causes research
+e	trec-2012-49_1	Pseudoscyesis causes review
+e	trec-2012-49_2	Pseudoscyesis causes
+e	trec-2012-49_3	Pseudoscyesis
+e	trec-2012-4_1	pocono mountains region	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-4_2	pocono mountains region things to do	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-4_3	pocono mountains region activities	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-4_4	pocono mountains region national park	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-50_2	pseudocyesis causes
+e	trec-2012-50_3	pseudocyesis causes new research
+e	trec-2012-50_4	causes of false preganancy
+e	trec-2012-51_1	Pseudocyesis wiki
+e	trec-2012-51_2	Pseudocyesis pregnancy wiki
+e	trec-2012-52_1	psuedocyesis
+e	trec-2012-52_2	psuedocyesis causes
+e	trec-2012-52_3	psuedocyesis causes research
+e	trec-2012-52_4	psuedocyesis causes study
+e	trec-2012-52_5	psuedocyesis pathogenesis
+e	trec-2012-52_6	psuedocyesis pathology
+e	trec-2012-53_1	servering spinal cord paralysis
+e	trec-2012-53_2	servering spinal cord consequenses
+e	trec-2012-54_1	"silicone roof coating" alternatives cooling
+e	trec-2012-54_2	"silicone roof coating" alternatives
+e	trec-2012-55_1	silicone roof coating
+e	trec-2012-55_2	silicone roof coating uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2012-55_3	silicone roof coating uk alternatives	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2012-55_4	roof coating house temperature down uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2012-56_1	silicon roof coating
+e	trec-2012-56_2	silicon roof coating use
+e	trec-2012-56_3	silicon roof coating tutorial
+e	trec-2012-56_4	roof coating tutorial
+e	trec-2012-56_5	roof coating solutions
+e	trec-2012-56_6	roof coating lower temperature
+e	trec-2012-57_1	self-regulating house temperature
+e	trec-2012-57_2	passive solar cooling
+e	trec-2012-57_3	passive solar cooling :uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2012-57_4	radiant barrier
+e	trec-2012-57_5	radiant barrier :uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2012-58_1	install roof insulation
+e	trec-2012-58_2	how roof installation prevent heat
+e	trec-2012-59_1	air condition roof
+e	trec-2012-59_2	cool roof
+e	trec-2012-5_1	pocono mountains	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-5_2	pocono mountains park	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-5_3	pocono mountains shopping	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-60_1	reduce airconditioning
+e	trec-2012-60_2	attic insulation airconditioning costs
+e	trec-2012-61_1	Indian wedding culture rituals
+e	trec-2012-62_1	Indian wedding rituals
+e	trec-2012-62_2	Indian wedding customs
+e	trec-2012-63_1	wedding traditions buddhism
+e	trec-2012-63_2	buddhist wedding rituals
+e	trec-2012-63_3	shinto wedding rituals
+e	trec-2012-64_1	Sunspots Wikipedia
+e	trec-2012-64_2	Sunspots Environmental effects
+e	trec-2012-64_3	Sunspot life cycle
+e	trec-2012-64_4	Are sunspots local burnouts
+e	trec-2012-64_5	How do sunspots effect us
+e	trec-2012-65_1	sunspots climate changes
+e	trec-2012-65_2	sunspots affect climate changes
+e	trec-2012-66_1	depression
+e	trec-2012-66_2	depression nhs
+e	trec-2012-67_1	Depression Definition
+e	trec-2012-67_2	Depression Definition Merck Manual	Merck Manual	<dbpedia:Merck_Manual_of_Diagnosis_and_Therapy>	0	/m/049f11
+e	trec-2012-68_1	depression symptoms treatment
+e	trec-2012-68_2	depression symptoms treatment nhs
+m	trec-2012-6_1	pocono mountains pennsylvania	pennsylvania	<dbpedia:Pennsylvania>	0	/m/05tbn
+m	trec-2012-6_1	pocono mountains pennsylvania	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-6_10	pocono mountains chateau resort directions	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+m	trec-2012-6_2	pocono mountains pennsylvania hotels	pennsylvania	<dbpedia:Pennsylvania>	0	/m/05tbn
+m	trec-2012-6_2	pocono mountains pennsylvania hotels	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+m	trec-2012-6_3	pocono mountains pennsylvania things to do	pennsylvania	<dbpedia:Pennsylvania>	0	/m/05tbn
+m	trec-2012-6_3	pocono mountains pennsylvania things to do	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+m	trec-2012-6_4	pocono mountains camelbeach	camelbeach	<dbpedia:Camelbeach_Waterpark>	0	/m/0bhbq9
+m	trec-2012-6_4	pocono mountains camelbeach	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+m	trec-2012-6_5	pocono mountains camelbeach hotel	camelbeach	<dbpedia:Camelbeach_Waterpark>	0	/m/0bhbq9
+m	trec-2012-6_5	pocono mountains camelbeach hotel	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-6_6	pocono mountains chateau resort	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-6_7	pocono mountains chateau resort attractions	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-6_8	pocono mountains chateau resort getting to	pocono mountains	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-6_9	chateau resort getting to
+e	trec-2012-70_1	depression symptoms
+e	trec-2012-70_2	how to help depressed person
+e	trec-2012-71_1	dehumidifiers
+e	trec-2012-71_2	dehumidifiers things to condiser
+e	trec-2012-71_3	dehumidifiers things to consider
+e	trec-2012-71_4	dehumidifiers technical specifications
+e	trec-2012-71_5	dehumidifiers technical specifications uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2012-72_1	dehumidifier
+e	trec-2012-72_2	whole house dehumidifier
+e	trec-2012-73_2	dehumidifiers timer frost-free
+e	trec-2012-74_1	dehumidifier comparison
+e	trec-2012-74_2	dehumidifier comparison UK	UK	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2012-74_3	dehumidifier comparison which?
+e	trec-2012-75_1	dehumidifier comparison ratings
+e	trec-2012-75_2	dehumidifier comparison ratings uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+h	trec-2012-76_1	buy dehumidifier, reviews				
+e	trec-2012-76_2	buy dehumidifier, reviews, uk
+e	trec-2012-77_1	dehumidifier any good?
+e	trec-2012-77_2	dehumidifier any good? uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2012-78_1	Swahili dishes
+e	trec-2012-78_2	traditional Swahili dishes
+e	trec-2012-79_1	swahili recipes
+e	trec-2012-79_2	traditional swahili recipes
+e	trec-2012-7_1	pocono resort	pocono	<dbpedia:Pocono_Mountains>	0	/m/04f0jl
+e	trec-2012-7_2	skytop lodge directions
+e	trec-2012-7_3	Philidelphia car rental	Philidelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2012-80_1	swahili dish
+h	trec-2012-80_2	swahili dish kenya picture	kenya	<dbpedia:Kenya>	0	/m/019rg5
+h	trec-2012-80_2	swahili dish kenya picture	swahili	<dbpedia:Swahili_coast>	0	/m/05b2x_0
+e	trec-2012-81_1	recipes swahili cusine
+e	trec-2012-81_2	wikipedia kenya	kenya	<dbpedia:Kenya>	0	/m/019rg5
+e	trec-2012-82_1	Traditional Swahili meals
+e	trec-2012-82_2	Kenyan recipe	Kenyan	<dbpedia:Kenya>	0	/m/019rg5
+e	trec-2012-83_1	kenya cooking traditional	kenya	<dbpedia:Kenya>	0	/m/019rg5
+h	trec-2012-83_2	kenya cooking traditional swahili	kenya	<dbpedia:Kenya>	0	/m/019rg5
+h	trec-2012-83_2	kenya cooking traditional swahili	swahili	<dbpedia:Swahili_coast>	0	/m/05b2x_0
+e	trec-2012-83_3	www.allrecipes.com	www.allrecipes.com	<dbpedia:Allrecipes.com>	0	/m/0h7qm2l
+e	trec-2012-83_4	traditional swahili recipe
+e	trec-2012-84_1	swahili traditional food recipes
+e	trec-2012-84_2	kenya swahili traditional food recipes	kenya	<dbpedia:Kenya>	0	/m/019rg5
+e	trec-2012-85_1	glass blowing
+e	trec-2012-85_2	glass blowing science
+e	trec-2012-85_3	scientific glass blowing
+e	trec-2012-86_2	scientific glass blowing history
+e	trec-2012-87_1	glassblowing history
+e	trec-2012-87_2	scientific glassblowing history
+e	trec-2012-87_3	scientific glassblowing history Edison	Edison	<dbpedia:Thomas_Edison>	0	/m/07bty
+e	trec-2012-88_1	test tube sealing services
+e	trec-2012-88_2	hermetic sealing services
+e	trec-2012-89_1	sample tube sealing
+e	trec-2012-89_2	sample tube sealing services
+e	trec-2012-89_3	sample tube sealing expert
+e	trec-2012-8_2	designer dogs types
+e	trec-2012-90_1	collagen vascular diease
+e	trec-2012-90_2	collagen vascular diease sport
+e	trec-2012-90_3	autoimmune disease sport
+e	trec-2012-90_4	autoimmune disease
+e	trec-2012-91_2	impact of collagen vascular disease
+e	trec-2012-91_3	collagen vascular disease active lifestyle
+e	trec-2012-91_4	collagen vascular disease sport
+e	trec-2012-91_6	"collagen vascular disease"
+e	trec-2012-92_2	connecticut fire academy established
+e	trec-2012-93_1	connecticut fire academy
+e	trec-2012-93_2	connecticut fire department	connecticut	<dbpedia:Connecticut>	0	/m/01x73
+e	trec-2012-94_2	"connecticut fire academy" wiki
+e	trec-2012-94_3	"connecticut fire academy" fireman
+e	trec-2012-94_4	"Connecticut Fire Academy" fireman
+e	trec-2012-95_1	Connecticut Fire Academy
+e	trec-2012-95_2	what is the Connecticut Fire Academy?
+e	trec-2012-95_3	where is the Connecticut Fire Academy?
+e	trec-2012-97_1	Connecticut Fire Academy training
+e	trec-2012-97_3	"Connecticut Fire Academy" skills
+e	trec-2012-98_1	connecticut fire academy training
+e	trec-2012-9_1	"designer dogs"
+e	trec-2012-9_2	"designer dogs" crossbreeds
+e	trec-2013-100_1	further education for high school teachers
+e	trec-2013-101_1	higher degrees for high school teacher
+e	trec-2013-102_1	jp morgan chase data centers
+e	trec-2013-103_1	"history of face transplants"
+e	trec-2013-104_1	AMT tax IRS	IRS	<dbpedia:Internal_Revenue_Service>	0	/m/03z19
+e	trec-2013-105_1	uss abraham lincoln	uss abraham lincoln	<dbpedia:USS_Abraham_Lincoln_(CVN-72)>	0	/m/01c8ll
+e	trec-2013-105_1	uss abraham lincoln	uss abraham lincoln	<dbpedia:USS_Abraham_Lincoln_(SSBN-602)>	1	/m/024mmh
+e	trec-2013-106_1	guide dulles airport	dulles airport	<dbpedia:Washington_Dulles_International_Airport>	0	/m/0842b
+e	trec-2013-107_1	Dulles airport
+e	trec-2013-108_1	Boston pops official website	Boston pops	<dbpedia:Boston_Pops_Orchestra>	0	/m/01cgmx
+e	trec-2013-109_1	GS pay tables
+e	trec-2013-10_1	quit smoking
+e	trec-2013-10_2	quit smoking cold turkey
+e	trec-2013-110_1	Vanuatu	Vanuatu	<dbpedia:Vanuatu>	0	/m/07z5n
+e	trec-2013-112_1	patent application
+e	trec-2013-113_1	face transplants
+e	trec-2013-115_1	advice for technology start-up
+e	trec-2013-116_1	how to succeed in new venture
+e	trec-2013-117_1	innovation
+e	trec-2013-118_1	evaluating employees
+e	trec-2013-119_1	eurozone crisis economic actions
+e	trec-2013-11_1	how to quit smoking
+e	trec-2013-11_2	quiting smoking side effecs
+e	trec-2013-11_3	quiting smoking side effects
+e	trec-2013-11_4	quiting smoking using hypnosis
+e	trec-2013-11_5	quiting smoking help
+e	trec-2013-120_1	Philadelphia attractions	Philadelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2013-121_1	Philadelphia tourist attractions	Philadelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2013-122_1	tour bus
+e	trec-2013-123_1	legality gun control
+e	trec-2013-124_1	god does not exist	god	<dbpedia:God>	0	/m/0d05l6
+e	trec-2013-125_1	existence god naturalism theory	god	<dbpedia:God>	0	/m/0d05l6
+m	trec-2013-126_1	hiv aids prevention cure charities in africa	africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	trec-2013-127_1	teacher evaluation peer versus students
+e	trec-2013-128_1	EU economic indicators	EU	<dbpedia:European_Union>	0	/m/02jxk
+e	trec-2013-129_1	What are the effects of the ongoing Eurozone crisis on national economic indicators such as unemployment, GDP, public debt, etc
+e	trec-2013-12_1	wiki kansas city tourism	kansas city	<dbpedia:Kansas_City_metropolitan_area>	0	/m/02rbcm
+h	trec-2013-12_2	kansas city hotels airport	kansas city	<dbpedia:Kansas_City,_Missouri>	0	/m/04f_d
+e	trec-2013-12_3	kansas city chiefs fixtures	kansas city chiefs	<dbpedia:Kansas_City_Chiefs>	0	/m/0487_
+e	trec-2013-130_1	Jp Morgan Chase	Jp Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-131_1	us space exploration costs	us	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2013-132_1	(euro OR eurozone) crisis
+e	trec-2013-133_1	eurozone crisis
+e	trec-2013-13_1	kansas city MO	kansas city MO	<dbpedia:Kansas_City,_Missouri>	0	/m/04f_d
+h	trec-2013-13_2	kansas city airport hotels	kansas city airport	<dbpedia:Kansas_City_International_Airport>	0	/m/01qg_n
+e	trec-2013-13_3	kansas city casino	kansas city	<dbpedia:Kansas_City,_Missouri>	0	/m/04f_d
+h	trec-2013-13_4	kansas city zoo	kansas city	<dbpedia:Kansas_City,_Missouri>	0	/m/04f_d
+e	trec-2013-13_5	kansas city state parks	kansas city	<dbpedia:Kansas_City,_Missouri>	0	/m/04f_d
+e	trec-2013-13_6	kansas city wikipedia	kansas city	<dbpedia:Kansas_City,_Missouri>	0	/m/04f_d
+e	trec-2013-13_7	kansas city history	kansas city	<dbpedia:Kansas_City,_Missouri>	0	/m/04f_d
+e	trec-2013-13_8	kansas city things to do	kansas city	<dbpedia:Kansas_City,_Missouri>	0	/m/04f_d
+e	trec-2013-14_1	uk road trip idead	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2013-14_2	uk road trip ideas	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2013-14_3	what to take on a road trip
+e	trec-2013-14_4	what to take on a uk road trip	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2013-15_1	road trip FAQ
+e	trec-2013-15_2	planning a road trip
+e	trec-2013-16_1	further education for high school teacher online funding
+e	trec-2013-16_2	training high school teacher free professional development
+e	trec-2013-17_1	jp morgan data centers	jp morgan	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-17_2	jp morgan data	jp morgan	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-17_3	jp morgan data centers investment	jp morgan	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-17_4	jp morgan largest data center	jp morgan	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-17_5	data center compare microsoft jp morgan	jp morgan	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-17_5	data center compare microsoft jp morgan	microsoft	<dbpedia:Microsoft>	0	/m/04sv4
+e	trec-2013-18_1	JP Morgan Chase data centers	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-18_2	JP Morgan Chase "data centers"	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-18_3	location "JP Morgan Chase" "data centers"	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-18_4	location "JP Morgan Chase" +"data centers"	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-18_5	location "JP Morgan Chase" + center	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-18_6	JP Morgan Chase overview	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-18_7	JP Morgan Chase annual report	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-18_8	"data centers"
+e	trec-2013-18_9	financial "data centers"
+e	trec-2013-19_1	JP Morgan Chase data centres	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+h	trec-2013-19_2	JP Morgan Chase data centres vs google	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+h	trec-2013-19_2	JP Morgan Chase data centres vs google	google	<dbpedia:Google>	0	/m/045c7b
+e	trec-2013-19_3	JP Morgan Chase computational scientist profile	JP Morgan Chase	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-19_4	JP Morgan computational scientist profile	JP Morgan	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-19_5	JP Morgan data center news	JP Morgan	<dbpedia:JPMorgan_Chase>	0	/m/01hlwv
+e	trec-2013-1_1	US civil war causes
+e	trec-2013-1_2	US civil war economic  causes
+h	trec-2013-20_1	march madness	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+h	trec-2013-20_10	march madness slang expression	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+h	trec-2013-20_11	march madness semi finals	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+e	trec-2013-20_2	march madness 2012 winning tean
+e	trec-2013-20_3	march madness 2012 winning team
+e	trec-2013-20_4	march madness 2012 runner up
+h	trec-2013-20_5	march madness 2012 host city	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+h	trec-2013-20_6	march madness 2012 host stadium	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+e	trec-2013-20_7	march madness 2012 final four
+e	trec-2013-20_8	march madness 2012 number teams
+h	trec-2013-20_9	march madness slang	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+e	trec-2013-21_10	NCAA "march madness" 2012 results
+e	trec-2013-21_11	NCAA "march madness" 2012 broadcast
+e	trec-2013-21_12	NCAA "march madness" 2012 semifinals sport news
+h	trec-2013-21_2	"march madness" NCAA	NCAA	<dbpedia:National_Collegiate_Athletic_Association>	0	/m/0gh43
+h	trec-2013-21_2	"march madness" NCAA	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+h	trec-2013-21_4	NCAA	NCAA	<dbpedia:National_Collegiate_Athletic_Association>	0	/m/0gh43
+e	trec-2013-21_5	NCAA tournament
+h	trec-2013-21_6	NCAA tournament "march madness"	NCAA	<dbpedia:National_Collegiate_Athletic_Association>	0	/m/0gh43
+h	trec-2013-21_6	NCAA tournament "march madness"	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+h	trec-2013-21_7	NCAA tournament "march madness" wikipedia	NCAA	<dbpedia:National_Collegiate_Athletic_Association>	0	/m/0gh43
+h	trec-2013-21_7	NCAA tournament "march madness" wikipedia	march madness	<dbpedia:NCAA_Men's_Division_I_Basketball_Championship>	0	/m/02jp2w
+e	trec-2013-21_8	NCAA tournament "march madness" 2012 championship runner-up
+e	trec-2013-21_9	won NCAA "march madness" 2012
+e	trec-2013-22_1	face transplants wiki				
+e	trec-2013-22_10	first "face transplant" surgery in the world				
+e	trec-2013-22_11	first "full face transplant" Oscar
+e	trec-2013-22_12	first "full face transplant"
+e	trec-2013-22_2	"Connie Culp"	Connie Culp	<dbpedia:Connie_Culp>	0	/m/05zjc0_
+e	trec-2013-22_3	"Connie Culp" wikipedia	Connie Culp	<dbpedia:Connie_Culp>	0	/m/05zjc0_
+e	trec-2013-22_4	First "Face Transplant"
+e	trec-2013-22_5	"Isabelle Dinoire"	Isabelle Dinoire	<dbpedia:Isabelle_Dinoire>	0	/m/0980jl
+e	trec-2013-22_7	Isabelle Dino*
+e	trec-2013-22_8	Isabelle "face transplants"	Isabelle	<dbpedia:Isabelle_Dinoire>	0	/m/0980jl
+e	trec-2013-22_9	"Richard Norris"
+e	trec-2013-23_1	dulles airport	dulles airport	<dbpedia:Washington_Dulles_International_Airport>	0	/m/0842b
+e	trec-2013-23_2	dulles airport location	dulles airport	<dbpedia:Washington_Dulles_International_Airport>	0	/m/0842b
+h	trec-2013-23_3	dulles hotels	dulles	<dbpedia:Dulles,_Virginia>	0	/m/02sqdp
+h	trec-2013-23_4	dulles metro stop	dulles	<dbpedia:Dulles,_Virginia>	0	/m/02sqdp
+e	trec-2013-24_1	where is dulles airport?	dulles airport	<dbpedia:Washington_Dulles_International_Airport>	0	/m/0842b
+h	trec-2013-24_2	dulles airport virginia	dulles airport	<dbpedia:Washington_Dulles_International_Airport>	0	/m/0842b
+h	trec-2013-24_2	dulles airport virginia	virginia	<dbpedia:Virginia>	0	/m/07z1m
+h	trec-2013-24_3	dulles airport virginia transport to other cities	dulles airport	<dbpedia:Washington_Dulles_International_Airport>	0	/m/0842b
+h	trec-2013-24_3	dulles airport virginia transport to other cities	virginia	<dbpedia:Virginia>	0	/m/07z1m
+e	trec-2013-25_1	Boston pops  and (salary OR manager OR conductor OR hall)	Boston pops	<dbpedia:Boston_Pops_Orchestra>	0	/m/01cgmx
+e	trec-2013-25_2	Boston pops	Boston pops	<dbpedia:Boston_Pops_Orchestra>	0	/m/01cgmx
+e	trec-2013-26_1	Boston Pops
+e	trec-2013-26_2	Define: Boston Pops	Boston Pops	<dbpedia:Boston_Pops_Orchestra>	0	/m/01cgmx
+e	trec-2013-26_3	Conductor of the boston pops orchestra	boston pops orchestra	<dbpedia:Boston_Pops_Orchestra>	0	/m/01cgmx
+e	trec-2013-26_4	Conductor 2012 of the boston pops orchestra	boston pops orchestra	<dbpedia:Boston_Pops_Orchestra>	0	/m/01cgmx
+e	trec-2013-26_5	Information regarding the Boston Pops Conductor	Boston Pops	<dbpedia:Boston_Pops_Orchestra>	0	/m/01cgmx
+e	trec-2013-26_6	Information regarding the Boston Pops Manager	Boston Pops	<dbpedia:Boston_Pops_Orchestra>	0	/m/01cgmx
+e	trec-2013-27_1	jeopardy	jeopardy	<dbpedia:Jeopardy!>	0	/m/014l6l
+e	trec-2013-27_2	jeopardy gameplay	jeopardy	<dbpedia:Jeopardy!>	0	/m/014l6l
+e	trec-2013-27_3	jeopardy video	jeopardy	<dbpedia:Jeopardy!>	0	/m/014l6l
+e	trec-2013-28_1	"jeopardy game show"	jeopardy	<dbpedia:Jeopardy!>	0	/m/014l6l
+e	trec-2013-28_2	"jeopardy game show" history	jeopardy	<dbpedia:Jeopardy!>	0	/m/014l6l
+e	trec-2013-29_1	jeopardy (game show)	jeopardy	<dbpedia:Jeopardy!>	0	/m/014l6l
+e	trec-2013-29_2	jeopardy (game show) wikipedia	jeopardy	<dbpedia:Jeopardy!>	0	/m/014l6l
+e	trec-2013-29_3	wikipedia jeopardy	jeopardy	<dbpedia:Jeopardy!>	0	/m/014l6l
+e	trec-2013-2_1	scooter brands
+e	trec-2013-2_2	scooter brands reliable
+e	trec-2013-2_3	scooter
+e	trec-2013-2_4	scooter cheap
+e	trec-2013-2_5	scooter review
+e	trec-2013-2_6	scooter price
+e	trec-2013-2_7	scooter stores
+e	trec-2013-2_8	where to buy scooters
+e	trec-2013-30_1	churchill downs	churchill downs	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-30_2	churchill downs 2013	churchill downs	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-31_1	churchill downs racing information	churchill downs	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-31_2	churchill downs horse racing park	churchill downs horse racing park	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-31_4	"churchill downs" horse racing schedule	churchill downs	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-31_5	kentucky derby museum	kentucky derby museum	<dbpedia:Kentucky_Derby_Museum>	0	/m/02782h8
+e	trec-2013-31_6	churchilldowns.com	churchilldowns.com	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-31_7	churchilldowns				
+e	trec-2013-31_8	churchilldowns seating chart				
+e	trec-2013-31_9	"churchill downs" racing seating chart	churchill downs	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-32_1	Churchill downs schedule	Churchill downs	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-32_2	Churchill downs race schedule 2013	Churchill downs race	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+e	trec-2013-32_3	Churchill downs seating	Churchill downs	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+m	trec-2013-32_4	Churchill downs Kentucky derby museum	Churchill downs	<dbpedia:Churchill_Downs>	0	/m/03t3lq
+m	trec-2013-32_4	Churchill downs Kentucky derby museum	Kentucky derby museum	<dbpedia:Kentucky_Derby_Museum>	0	/m/02782h8
+e	trec-2013-33_1	general schedule pay tables
+e	trec-2013-33_2	general schedule pay tables 2013
+e	trec-2013-33_3	general schedule pay tables federal wage system
+e	trec-2013-33_4	general schedule pay tables "federal goverment"
+e	trec-2013-34_1	internet phone services
+e	trec-2013-34_2	internet phone services review
+e	trec-2013-34_3	guide internet phone services
+e	trec-2013-34_4	voip providers
+e	trec-2013-35_1	regular phones vs internet phones voip experiences cheapest
+e	trec-2013-35_2	internet phones voip experiences cheapest
+e	trec-2013-35_3	internet phones voip reviews
+e	trec-2013-36_1	VOIP
+e	trec-2013-36_2	VOIP lietuva
+e	trec-2013-36_3	VOIP paslaugos lietuva
+e	trec-2013-36_4	ip telefonijos paslaugos
+e	trec-2013-36_5	ip telefonija
+e	trec-2013-36_6	ip telefonija kaunas
+e	trec-2013-36_7	ip telefonas
+e	trec-2013-36_8	ip balso telefonija
+e	trec-2013-36_9	voip telefonas
+e	trec-2013-37_1	"State university of new york" bioinformatics	State university of new york	<dbpedia:State_University_of_New_York>	0	/m/0p0hd
+e	trec-2013-37_2	"State university of new york"	State university of new york	<dbpedia:State_University_of_New_York>	0	/m/0p0hd
+e	trec-2013-38_1	SUNY colleges	SUNY colleges	<dbpedia:State_University_of_New_York>	0	/m/0p0hd
+e	trec-2013-38_2	SUNY albany hospital location	SUNY albany	<dbpedia:University_at_Albany,_SUNY>	0	/m/02dq8f
+e	trec-2013-38_4	albany university hospital location	albany university	<dbpedia:University_at_Albany,_SUNY>	0	/m/02dq8f
+e	trec-2013-38_5	SUNY plattsburgh athletics	SUNY plattsburgh athletics	<dbpedia:State_University_of_New_York_at_Plattsburgh>	0	/m/02m6__
+e	trec-2013-39_1	suny colleges names	suny colleges	<dbpedia:State_University_of_New_York>	0	/m/0p0hd
+e	trec-2013-39_2	number of suny colleges	number of suny colleges	<dbpedia:State_University_of_New_York>	0	/m/0p0hd
+e	trec-2013-39_3	suny college bioinformatics degree	suny college	<dbpedia:State_University_of_New_York>	0	/m/0p0hd
+e	trec-2013-39_4	map suny albany hospital	suny albany	<dbpedia:University_at_Albany,_SUNY>	0	/m/02dq8f
+m	trec-2013-39_5	map "albany hospital" ny	albany hospital	<dbpedia:Albany_Medical_Center_Hospital>	0	/m/05p1ndq
+m	trec-2013-39_5	map "albany hospital" ny	ny	<dbpedia:New_York>	0	/m/059rby
+e	trec-2013-3_1	heart attack causes
+e	trec-2013-3_2	heart attack causes nhs
+e	trec-2013-3_3	heart attack causes site:nhs.uk
+e	trec-2013-40_1	gun control opinions
+e	trec-2013-40_2	gun control us government
+e	trec-2013-40_3	gun control current affairs
+e	trec-2013-40_4	gun violence us
+m	trec-2013-40_5	law center to prevent gun violence				
+e	trec-2013-41_1	obama gun control	obama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	trec-2013-41_2	gun control laws obama	obama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	trec-2013-42_1	most violent gun violence events
+e	trec-2013-42_2	gun violence us campuses
+e	trec-2013-42_3	most deadly type of gun in gun violence
+e	trec-2013-43_1	gun violence in USA
+e	trec-2013-43_2	gun violence on US college campus
+e	trec-2013-43_3	gun violence on US campus
+e	trec-2013-43_4	types of gun used in violent events
+e	trec-2013-44_1	healty recipes
+e	trec-2013-44_2	healthy meals
+e	trec-2013-44_3	healthy nutrition for infants
+e	trec-2013-45_1	red bull drink health concerns	red bull drink	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-45_2	red bull drink side effects ban	red bull drink	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-45_3	red bull ban	red bull	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-46_1	Red Bull AND health	Red Bull	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-46_2	Red Bull	Red Bull	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-46_3	red bull
+e	trec-2013-46_4	red bull effects	red bull	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-46_5	red bull drink	red bull drink	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-46_6	red bull ingridients	red bull	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-46_7	red bull ingredients	red bull	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-46_8	red bull in US	US	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2013-46_8	red bull in US	red bull	<dbpedia:Red_Bull>	0	/m/0gl8r
+e	trec-2013-47_1	banned drinks
+e	trec-2013-47_2	banned food
+e	trec-2013-47_3	illegal beverages
+e	trec-2013-48_1	patent filing
+e	trec-2013-48_2	patent office
+e	trec-2013-48_3	patent law
+e	trec-2013-48_4	patent law uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2013-48_5	patent lawyer
+e	trec-2013-48_6	provisional patent
+e	trec-2013-49_1	face transplant
+e	trec-2013-49_2	finished the task
+e	trec-2013-4_1	heart attack details
+e	trec-2013-4_3	heart attack statistics
+e	trec-2013-50_1	diet exercise for fitness
+e	trec-2013-50_2	fitness wiki
+e	trec-2013-50_4	paleo diet
+e	trec-2013-50_5	keto diet
+e	trec-2013-50_6	keto diet wikipedia				
+e	trec-2013-50_7	exercises for fitness
+e	trec-2013-50_8	how to get fit safely
+e	trec-2013-51_1	fitness regime
+e	trec-2013-51_2	running a half marathon
+e	trec-2013-52_1	venture capital
+e	trec-2013-52_2	loans for entrepreneurship
+e	trec-2013-52_3	loans for entrepreneurship switzerland	switzerland	<dbpedia:Switzerland>	0	/m/06mzp
+e	trec-2013-52_4	loans for business
+e	trec-2013-52_5	loans for business us government	us	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2013-52_6	renting a building business sillicon valley
+e	trec-2013-52_7	renting an office sillicon valley
+e	trec-2013-53_1	how to get a pay raise
+e	trec-2013-53_2	tips pay raise
+e	trec-2013-54_1	preventing employee fraud in recession
+e	trec-2013-54_2	recession employee fraud
+e	trec-2013-54_3	employee fraud best practice
+e	trec-2013-55_1	employee evaluation
+e	trec-2013-55_2	evaluate employees
+e	trec-2013-56_1	events ideas students community
+e	trec-2013-56_2	events ideas student association
+h	trec-2013-57_1	developmental milestones infants				
+e	trec-2013-57_10	asian babies development
+h	trec-2013-57_11	developmental milestones asia	asia	<dbpedia:Asia>	0	/m/0j0k
+h	trec-2013-57_12	are developmental milestones universal				
+h	trec-2013-57_13	asian developmental milestones				
+h	trec-2013-57_14	chinese infant developmental milestones				
+h	trec-2013-57_15	chinese infant milestones				
+h	trec-2013-57_16	infant milestones variations				
+h	trec-2013-57_17	infant milestones cultural				
+h	trec-2013-57_18	infant milestones differences				
+h	trec-2013-57_19	asian children milestones				
+h	trec-2013-57_2	developmental milestones infants 0-12 months				
+h	trec-2013-57_3	developmental milestones infants east asia	east asia	<dbpedia:East_Asia>	0	/m/02qnk
+h	trec-2013-57_4	developmental milestones east asia	east asia	<dbpedia:East_Asia>	0	/m/02qnk
+h	trec-2013-57_5	"developmental milestones in east asia"	east asia	<dbpedia:East_Asia>	0	/m/02qnk
+e	trec-2013-57_6	developmental milestones asian infants
+e	trec-2013-57_7	asian infants
+h	trec-2013-57_8	asian infants milestones				
+e	trec-2013-57_9	asian infants development
+e	trec-2013-58_1	policies for addressing economic problems in europe	Europe	<dbpedia:Europe>	0	/m/02j9z
+e	trec-2013-58_2	'EUROPEAN UNION" "ECONOMIC CRISIS"
+m	trec-2013-58_3	'EUROPEAN UNION" "ECONOMIC CRISIS" greece	EUROPEAN UNION	<dbpedia:European_Union>	0	/m/02jxk
+m	trec-2013-58_3	'EUROPEAN UNION" "ECONOMIC CRISIS" greece	greece	<dbpedia:Greece>	0	/m/035qy
+m	trec-2013-58_4	'EUROPEAN UNION" "ECONOMIC CRISIS" portugal	EUROPEAN UNION	<dbpedia:European_Union>	0	/m/02jxk
+m	trec-2013-58_4	'EUROPEAN UNION" "ECONOMIC CRISIS" portugal	portugal	<dbpedia:Portugal>	0	/m/05r4w
+m	trec-2013-58_5	'EUROPEAN UNION" "ECONOMIC CRISIS" spain	EUROPEAN UNION	<dbpedia:European_Union>	0	/m/02jxk
+m	trec-2013-58_5	'EUROPEAN UNION" "ECONOMIC CRISIS" spain	spain	<dbpedia:Spain>	0	/m/06mkj
+e	trec-2013-59_1	eurozone crisis responses
+e	trec-2013-59_2	eurozone crisis leader actions
+e	trec-2013-5_1	heart attack
+e	trec-2013-5_2	heart attack treatment
+e	trec-2013-5_3	heart disease
+e	trec-2013-60_1	eurozone portugal leader actions	portugal	<dbpedia:Portugal>	0	/m/05r4w
+e	trec-2013-60_2	eurozone spain leader actions	spain	<dbpedia:Spain>	0	/m/06mkj
+e	trec-2013-60_3	spain spanish leader crisis action	spain	<dbpedia:Spain>	0	/m/06mkj
+e	trec-2013-60_4	ireland spanish leader crisis action	ireland	<dbpedia:Ireland>	0	/m/012wgb
+e	trec-2013-60_5	ireland irish leader crisis action	ireland	<dbpedia:Ireland>	0	/m/012wgb
+e	trec-2013-60_6	piigs leader crisis action
+e	trec-2013-60_7	cyprus leader crisis action	cyprus	<dbpedia:Cyprus>	0	/m/01ppq
+e	trec-2013-61_1	round-trip v road-trip
+e	trec-2013-61_2	round-trip advantages versus road-trip
+e	trec-2013-61_3	round-trip enjoyable versus road-trip
+e	trec-2013-61_4	round-trip enjoyable versus road-trip boring?
+e	trec-2013-62_1	road trip
+e	trec-2013-62_2	best road trips
+e	trec-2013-62_3	best worst road trips
+e	trec-2013-62_4	romantic road trips
+e	trec-2013-62_5	enjoyable boring road trip
+h	trec-2013-62_6	enjoyable boring getaways	getaways	<dbpedia:Getaway>	0	/m/046m8z
+h	trec-2013-62_7	best getaways	getaways	<dbpedia:Getaway>	0	/m/046m8z
+e	trec-2013-63_1	good internet phone services
+e	trec-2013-63_2	internet phone
+e	trec-2013-63_3	what's good about internet phoning
+e	trec-2013-63_5	phone
+e	trec-2013-63_6	phone internet
+e	trec-2013-63_7	phone internet providers
+e	trec-2013-63_8	good Voip
+e	trec-2013-63_9	Voip reviews
+e	trec-2013-64_1	why is internet phone service great
+e	trec-2013-64_2	why internet phone service great
+e	trec-2013-65_1	gun control
+e	trec-2013-65_2	gun control laws
+e	trec-2013-65_3	gun control outcomes
+e	trec-2013-65_4	ban guns
+e	trec-2013-66_2	gun control violence
+e	trec-2013-66_3	does gun control reduce gun violence
+e	trec-2013-67_1	god existence	god	<dbpedia:God>	0	/m/0d05l6
+e	trec-2013-67_2	naturalism
+e	trec-2013-67_3	naturalism theory
+e	trec-2013-67_4	naturalism theism
+e	trec-2013-68_1	US healthcare social security worker
+e	trec-2013-68_2	US healthcare system
+e	trec-2013-68_3	us healthcare for employed
+e	trec-2013-68_4	how does healthcare work in the USA for employed people?	USA	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2013-69_1	malaria impact on economy africa	africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	trec-2013-69_2	malaria economy africa	africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	trec-2013-69_3	malaria economy
+e	trec-2013-69_4	malaria donations
+e	trec-2013-6_1	long-term care insurance
+e	trec-2013-6_2	long term care insurance
+e	trec-2013-6_3	long term care insurance uk	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2013-6_4	long term care insurance uk \u00a3	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2013-6_5	long term care insurance "united kingdom" OR britain OR england	united kingdom	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2013-6_6	long term care insurance -usa	-usa	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2013-70_1	HIV Africa charity medicine	Africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	trec-2013-70_2	HIV Africa charity	Africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	trec-2013-70_3	HIV Africa charity donate	Africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	trec-2013-70_4	AIDS Africa charity donate	Africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	trec-2013-70_5	malaria Africa charity donate	Africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	trec-2013-71_1	teachers evaluation
+e	trec-2013-71_2	teachers evaluation by students
+e	trec-2013-71_3	teachers evaluation students peers
+e	trec-2013-71_4	teachers evaluation peers
+e	trec-2013-71_5	teachers evaluation peers students
+e	trec-2013-71_6	teachers evaluation wikipedia				
+e	trec-2013-71_7	teachers assement
+e	trec-2013-71_8	teachers excellence
+e	trec-2013-71_9	teache assement wikipedia				
+e	trec-2013-72_1	infants development culture
+h	trec-2013-72_10	research culture OR race infant OR child development stages OR milestones				
+e	trec-2013-72_11	infant OR child development "effect of culture"
+e	trec-2013-72_12	infant OR child development "cultural differences"
+e	trec-2013-72_13	"child development" "cultural differences"
+e	trec-2013-72_2	infant development "cultural effects"
+e	trec-2013-72_3	infant OR child development intitle:culture
+h	trec-2013-72_4	infant OR child development milestones				
+h	trec-2013-72_5	infant OR child development milestones research				
+h	trec-2013-72_6	infant OR child "development milestones" +research				
+h	trec-2013-72_7	infant OR child "development milestones" site:ac.uk				
+h	trec-2013-72_8	Do infants age 0-12 months experience different developmental milestones depending on culture				
+h	trec-2013-72_9	culture OR race infant OR child development stages OR milestones				
+e	trec-2013-73_1	babies development "cultural differences"
+e	trec-2013-73_2	infant different developmental milestones depending on culture
+h	trec-2013-73_3	developmental milestones infants "cultural differences"				
+e	trec-2013-74_1	infant development cultural differences
+e	trec-2013-74_2	infant development western eastern cultures
+h	trec-2013-74_3	infant development milestone cultural effects				
+h	trec-2013-74_4	infant development milestone "cultural differences"				
+h	trec-2013-74_5	infant development milestone "cultural competence				
+h	trec-2013-74_6	infant development milestone developed and third world countries				
+e	trec-2013-75_1	legality alcohol marijuana
+e	trec-2013-75_2	legality alcohol marijuana history
+e	trec-2013-75_3	legality alcohol history
+e	trec-2013-75_4	legality alcohol history maijuana
+e	trec-2013-75_5	legality alcohol history marijuana
+e	trec-2013-75_6	why is marijuana illegal?
+e	trec-2013-75_7	is marijuana worse for your health than alcohol?
+e	trec-2013-76_1	phone plan
+e	trec-2013-76_2	"cell phone plan"
+e	trec-2013-76_3	"cell phone plan :.uk"	uk	<dbpedia:United_Kingdom>	0	/m/07ssc
+e	trec-2013-77_1	tax junk food benefits
+e	trec-2013-77_2	tax junk food benefits un	un	<dbpedia:United_Nations>	0	/m/07t65
+e	trec-2013-77_3	tax junk food benefits UN evidence	UN	<dbpedia:United_Nations>	0	/m/07t65
+e	trec-2013-77_4	high calorie food tax evidence based
+e	trec-2013-77_5	high calorie snack tax evidence based
+e	trec-2013-77_6	government intervention tax "junk food"
+e	trec-2013-78_1	advantages of junk food
+e	trec-2013-78_2	tax on junk food
+e	trec-2013-79_1	food tax
+e	trec-2013-79_2	food ban
+e	trec-2013-7_2	long-term care insurance wiki
+e	trec-2013-7_4	define: "long-term care insurance"
+e	trec-2013-7_5	long-term care insurance review
+e	trec-2013-7_6	long-term care insurance comparisons -job
+e	trec-2013-7_7	long-term care vs life insurance
+e	trec-2013-7_8	long-term care vs life insurance -job
+e	trec-2013-80_1	the benefits of exploration space
+e	trec-2013-81_1	women  and minorities percentage setting
+e	trec-2013-81_2	should numbers of women and minorities in workplace be contolled
+e	trec-2013-82_1	jobs from business phds
+e	trec-2013-82_2	business phd
+e	trec-2013-83_1	phd business jobs
+e	trec-2013-83_2	phd business salaries
+e	trec-2013-83_3	business phd funding
+e	trec-2013-83_4	business phd vs masters
+e	trec-2013-83_5	business phd duration
+e	trec-2013-83_6	business phd income
+e	trec-2013-84_1	travel spots room prices
+e	trec-2013-84_2	travel spots room prices hawaii	hawaii	<dbpedia:Hawaii>	0	/m/03gh4
+e	trec-2013-85_1	Secondhand camera shop
+e	trec-2013-85_2	Travel information Los Angeles	Los Angeles	<dbpedia:Los_Angeles>	0	/m/030qb3t
+e	trec-2013-85_3	Local Travel information Los Angeles	Los Angeles	<dbpedia:Los_Angeles>	0	/m/030qb3t
+e	trec-2013-86_1	New York City	New York City	<dbpedia:New_York_City>	0	/m/02_286
+e	trec-2013-86_2	Chicago	Chicago	<dbpedia:Chicago>	0	/m/01_d4
+e	trec-2013-86_3	Washington DC	Washington DC	<dbpedia:Washington,_D.C.>	0	/m/0rh6k
+e	trec-2013-87_1	best us destinations	us	<dbpedia:United_States>	0	/m/09c7w0
+e	trec-2013-87_10	boston tourism	boston	<dbpedia:Boston>	0	/m/01cx_
+e	trec-2013-87_11	nyc tourism	nyc	<dbpedia:New_York_City>	0	/m/02_286
+e	trec-2013-87_12	philadelphia nyc distance	nyc	<dbpedia:New_York_City>	0	/m/02_286
+e	trec-2013-87_12	philadelphia nyc distance	philadelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2013-87_13	philadelphia washington dc distance	philadelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2013-87_13	philadelphia washington dc distance	washington dc	<dbpedia:Washington,_D.C.>	0	/m/0rh6k
+e	trec-2013-87_14	philadelphia tourism	philadelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2013-87_15	washington dc tourism	washington dc	<dbpedia:Washington,_D.C.>	0	/m/0rh6k
+e	trec-2013-87_16	philadelphia nyc travel	nyc	<dbpedia:New_York_City>	0	/m/02_286
+e	trec-2013-87_16	philadelphia nyc travel	philadelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2013-87_17	philadelphia nyc train	nyc	<dbpedia:New_York_City>	0	/m/02_286
+e	trec-2013-87_17	philadelphia nyc train	philadelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2013-87_18	philadelphia nyc bus	nyc	<dbpedia:New_York_City>	0	/m/02_286
+e	trec-2013-87_18	philadelphia nyc bus	philadelphia	<dbpedia:Philadelphia>	0	/m/0dclg
+e	trec-2013-87_2	distance new york boston	boston	<dbpedia:Boston>	0	/m/01cx_
+e	trec-2013-87_2	distance new york boston	new york	<dbpedia:New_York>	0	/m/059rby
+e	trec-2013-87_3	maps.bing.com	maps.bing.com	<dbpedia:Bing_Maps>	0	/m/09crrb
+e	trec-2013-87_4	maps
+e	trec-2013-87_5	bing maps	bing maps	<dbpedia:Bing_Maps>	0	/m/09crrb
+e	trec-2013-87_6	hartford tourism	hartford	<dbpedia:Hartford,_Connecticut>	0	/m/0f1sm
+e	trec-2013-87_7	hartford visitors	hartford	<dbpedia:Hartford,_Connecticut>	0	/m/0f1sm
+e	trec-2013-87_8	hartford connecticut tourism	hartford connecticut	<dbpedia:Hartford,_Connecticut>	0	/m/0f1sm
+e	trec-2013-87_9	hartford boston travel	boston	<dbpedia:Boston>	0	/m/01cx_
+e	trec-2013-87_9	hartford boston travel	hartford	<dbpedia:Hartford,_Connecticut>	0	/m/0f1sm
+e	trec-2013-88_1	scooter comparison
+e	trec-2013-89_1	ron howard filmography	ron howard	<dbpedia:Ron_Howard>	0	/m/0g2lq
+e	trec-2013-8_1	us coinds
+e	trec-2013-8_2	us coins
+e	trec-2013-8_3	us coins wiki
+e	trec-2013-8_4	coins in us wiki
+e	trec-2013-91_1	paralegal career
+e	trec-2013-92_1	weatherstripping
+e	trec-2013-93_1	+(Black OR african-american) history month events	(Black OR african-american) history month	<dbpedia:Black_History_Month>	0	/m/03_t_4
+e	trec-2013-94_1	Black history month	Black history month	<dbpedia:Black_History_Month>	0	/m/03_t_4
+e	trec-2013-95_1	comparison hotels new york city	new york city	<dbpedia:New_York_City>	0	/m/02_286
+e	trec-2013-96_1	American Coins
+e	trec-2013-97_1	methods and programs for quitting smoking
+e	trec-2013-98_1	quit quitting smoking
+e	trec-2013-99_1	Kansas attractions	Kansas	<dbpedia:Kansas>	0	/m/0488g
+e	trec-2013-9_1	old us coins
+e	trec-2013-9_2	collecting old us coins
+e	trec-2013-9_3	selling old us coins
+e	trec-2013-9_4	selling old "usa coins"
+e	yahoo-101_1	missing girl dragged by hair
+e	yahoo-101_2	cargo pants
+e	yahoo-101_3	dockers slacks	dockers	<dbpedia:Dockers>	0	/m/0crlry
+e	yahoo-101_4	kristen stewart desperate	kristen stewart	<dbpedia:Kristen_Stewart>	0	/m/07swvb
+e	yahoo-101_5	where is area code 503	area code 503	<dbpedia:Area_codes_503_and_971>	0	/m/0g7hsj
+e	yahoo-101_6	where is area code 503 located	area code 503	<dbpedia:Area_codes_503_and_971>	0	/m/0g7hsj
+e	yahoo-101_7	spinal stenosis
+e	yahoo-101_8	lumbar spinal stenosis
+e	yahoo-101_9	human barbie
+e	yahoo-104_1	candy tree centerpiece
+e	yahoo-104_3	yahoo! games	yahoo! games	<dbpedia:Yahoo!_Games>	0	/m/03y9qv
+h	yahoo-104_5	gooo	gooo	<dbpedia:Go-oo>	0	/m/04gncxs
+e	yahoo-104_6	google homepage	google	<dbpedia:Google>	0	/m/045c7b
+e	yahoo-104_7	happy kitchen hamburger
+e	yahoo-106_1	brian stann	brian stann	<dbpedia:Brian_Stann>	0	/m/03grjtf
+e	yahoo-112_1	bj's	bj's	<dbpedia:BJ's_Restaurant_&_Brewery>	1	/m/05v1r9
+e	yahoo-112_1	bj's	bj's	<dbpedia:BJ's_Wholesale_Club>	0	/m/0797b5
+e	yahoo-112_2	childfun				
+e	yahoo-113_1	dog anal glands
+e	yahoo-113_2	origami instructions
+e	yahoo-113_3	origami dollar
+e	yahoo-113_4	kelly carlson	kelly carlson	<dbpedia:Kelly_Carlson>	0	/m/05jp3p
+e	yahoo-113_5	computer
+e	yahoo-113_6	complete idiot's guide
+e	yahoo-113_7	complete idiot
+e	yahoo-114_1	cheap lights dj
+e	yahoo-114_2	cheap lights dj equipment
+e	yahoo-116_1	bow ties
+e	yahoo-117_1	jenner divorce rumors	jenner	<dbpedia:Kris_Jenner>	0	/m/043rcw4
+e	yahoo-117_2	Jenner divorce rumors
+e	yahoo-117_3	john mccain	john mccain	<dbpedia:John_McCain>	0	/m/0bymv
+e	yahoo-118_1	microsoft tablet surface	surface	<dbpedia:Microsoft_Surface>	0	/m/0k0tnvj
+e	yahoo-119_1	netflix login	netflix	<dbpedia:Netflix>	0	/m/017rf_
+e	yahoo-120_1	$23 million lottery winner forgot
+e	yahoo-121_1	firfox				
+e	yahoo-123_1	psd401	psd401	<dbpedia:Peninsula_School_District>	0	/m/0c_w4v
+h	yahoo-125_1	new york times square church	new york	<dbpedia:New_York_City>	0	/m/02_286
+h	yahoo-125_1	new york times square church	times square church	<dbpedia:Times_Square_Church>	0	/m/03n6y8
+m	yahoo-126_10	yahoo london	london	<dbpedia:London>	0	/m/04jpl
+m	yahoo-126_10	yahoo london	yahoo	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-126_11	yahoo long distance	yahoo	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-126_2	iphone	iphone	<dbpedia:IPhone>	0	/m/027lnzs
+e	yahoo-126_3	iphone 5	iphone 5	<dbpedia:IPhone_5>	0	/m/0gg4gh4
+e	yahoo-126_4	jim mora	jim mora	<dbpedia:Jim_E._Mora>	2	/m/04tcpq
+e	yahoo-126_4	jim mora	jim mora	<dbpedia:Jim_L._Mora>	1	/m/05_brr
+e	yahoo-126_4	jim mora	jim mora	<dbpedia:Jim_Mora_(broadcaster)>	0	/m/0261kz0
+e	yahoo-126_6	Yahoo! Mail
+e	yahoo-126_7	yahoo login	yahoo	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-126_8	yahoo mail login	yahoo mail	<dbpedia:Yahoo!_Mail>	0	/m/02_7q2
+e	yahoo-126_9	check my yahoo mail	yahoo mail	<dbpedia:Yahoo!_Mail>	0	/m/02_7q2
+e	yahoo-127_1	city of grandville, mi	grandville, mi	<dbpedia:Grandville,_Michigan>	0	/m/0v9r7
+e	yahoo-127_2	drudge report	drudge report	<dbpedia:Drudge_Report>	0	/m/01dgg6
+e	yahoo-128_1	french test online
+e	yahoo-128_2	french test for beginners
+h	yahoo-128_4	cambridge	cambridge	<dbpedia:University_of_Cambridge>	0	/m/07tg4
+e	yahoo-128_5	cambridge engineering	cambridge engineering	<dbpedia:Department_of_Engineering,_University_of_Cambridge>	0	/m/0dk80d
+e	yahoo-128_6	cambridge english test	cambridge	<dbpedia:University_of_Cambridge>	0	/m/07tg4
+e	yahoo-129_1	dollar euro exchange rate
+e	yahoo-129_2	irvine california	irvine california	<dbpedia:Irvine,_California>	0	/m/0d7k1z
+e	yahoo-130_1	linkedin	linkedin	<dbpedia:LinkedIn>	0	/m/03vgrr
+e	yahoo-131_1	aol.com	aol.com	<dbpedia:AOL>	0	/m/0plw
+e	yahoo-131_2	aol.com mail	aol.com mail	<dbpedia:AOL_Mail>	0	/m/07bp97
+e	yahoo-132_1	detroit skate club	detroit	<dbpedia:Detroit>	0	/m/02dtg
+e	yahoo-132_2	laurel park mall	laurel park mall	<dbpedia:Laurel_Park_Place>	0	/m/0ggcxv
+e	yahoo-135_1	cebu pacific airlines	cebu pacific airlines	<dbpedia:Cebu_Pacific>	0	/m/021vdd
+e	yahoo-135_2	cebu pacific airlines promo fare	cebu pacific airlines	<dbpedia:Cebu_Pacific>	0	/m/021vdd
+m	yahoo-136_1	xbox live halo 4	halo 4	<dbpedia:Halo_4>	0	/m/0gvswb4
+e	yahoo-137_1	solo's husband in jail	solo's	<dbpedia:Hope_Solo>	0	/m/026_dd6
+e	yahoo-138_1	2013 accord	accord	<dbpedia:Honda_Accord>	0	/m/01_tv0
+e	yahoo-138_10	2013 equinox	equinox	<dbpedia:Chevrolet_Equinox>	0	/m/03sdx6
+e	yahoo-138_11	2013 lacrosse buick	lacrosse buick	<dbpedia:Buick_LaCrosse>	0	/m/03hlv1
+e	yahoo-138_12	2013 taurus	taurus	<dbpedia:Ford_Taurus>	0	/m/014_d3
+e	yahoo-138_13	2013 camry	camry	<dbpedia:Toyota_Camry>	0	/m/0371q5
+e	yahoo-138_14	2013 camry redesign	camry	<dbpedia:Toyota_Camry>	0	/m/0371q5
+e	yahoo-138_15	2013 mazda cx5	cx5	<dbpedia:Mazda_CX-5>	0	/m/0g7pjm
+e	yahoo-138_16	2013 mustang	mustang	<dbpedia:Ford_Mustang>	0	/m/0qk4n
+e	yahoo-138_17	2013 malibu	malibu	<dbpedia:Chevrolet_Malibu>	0	/m/040p0m
+e	yahoo-138_18	2013 malibu pictures	malibu	<dbpedia:Chevrolet_Malibu>	0	/m/040p0m
+e	yahoo-138_19	2013 malibu price	malibu	<dbpedia:Chevrolet_Malibu>	0	/m/040p0m
+e	yahoo-138_2	2013 altima recall	altima	<dbpedia:Nissan_Altima>	0	/m/02wrdv
+e	yahoo-138_3	2013 altima sedan	altima	<dbpedia:Nissan_Altima>	0	/m/02wrdv
+e	yahoo-138_4	honda 2013 accord sedan	accord	<dbpedia:Honda_Accord>	0	/m/01_tv0
+e	yahoo-138_5	2013 accord sedan	accord	<dbpedia:Honda_Accord>	0	/m/01_tv0
+e	yahoo-138_7	2013 accord sedan photos	accord	<dbpedia:Honda_Accord>	0	/m/01_tv0
+e	yahoo-138_8	2013 kia optima	kia optima	<dbpedia:Kia_Optima>	0	/m/05tj_r
+e	yahoo-138_9	2013 rav4
+e	yahoo-139_1	raspberry cheesecake recipe
+e	yahoo-139_2	dark chocolate cheesecake recipe
+e	yahoo-139_3	dewayne wade and gabriel union	dewayne wade	<dbpedia:Dwyane_Wade>	0	/m/03l295
+e	yahoo-139_4	elizabeth banks baby	elizabeth banks	<dbpedia:Elizabeth_Banks>	0	/m/0716t2
+m	yahoo-139_5	illinois lottery	illinois lottery	<dbpedia:Illinois_State_Lottery>	0	/m/02qxhj0
+e	yahoo-139_6	lens crafters	lens crafters	<dbpedia:LensCrafters>	0	/m/02m87m
+e	yahoo-139_7	fluconazole
+e	yahoo-139_8	fluconazole diflucan
+e	yahoo-13_1	lark voorhies	lark voorhies	<dbpedia:Lark_Voorhies>	0	/m/01cmz2
+e	yahoo-13_10	facebook log	facebook	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-13_11	nesquik recall
+e	yahoo-13_12	yahoo! mail	yahoo! mail	<dbpedia:Yahoo!_Mail>	0	/m/02_7q2
+e	yahoo-13_13	yahoo	yahoo	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-13_15	yahoo mail india	india	<dbpedia:India>	0	/m/03rk0
+e	yahoo-13_15	yahoo mail india	yahoo mail	<dbpedia:Yahoo!_Mail>	0	/m/02_7q2
+e	yahoo-13_16	yahoo mail plus	yahoo mail plus	<dbpedia:Yahoo!_Mail>	0	/m/02_7q2
+e	yahoo-13_17	facebook log in	facebook	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-13_2	presidential polls
+e	yahoo-13_3	yahoo! dating	yahoo!	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-13_4	yahoo! profile
+e	yahoo-13_5	presidents
+e	yahoo-13_6	presidents day 2012	presidents day	<dbpedia:Washington's_Birthday>	0	/m/01_dw7
+e	yahoo-13_7	presidents email
+e	yahoo-13_8	presidents elected				
+e	yahoo-13_9	presidents elected without popular vote				
+e	yahoo-140_1	bob dole hospitalized	bob dole	<dbpedia:Bob_Dole>	0	/m/0fhkx
+e	yahoo-140_10	Jack Pardee cancer
+e	yahoo-140_11	shia labeouf breakup	shia labeouf	<dbpedia:Shia_LaBeouf>	0	/m/04w391
+e	yahoo-140_2	Bob Dole hospitalized
+e	yahoo-140_3	adam levine slams	adam levine	<dbpedia:Adam_Levine>	0	/m/044mfr
+e	yahoo-140_4	dancing with the stars	dancing with the stars	<dbpedia:Dancing_with_the_Stars_(U.S._TV_series)>	0	/m/06hwzy
+e	yahoo-140_5	nobel winner dies
+e	yahoo-140_6	Nobel winner dies
+e	yahoo-140_7	jeb bush	jeb bush	<dbpedia:Jeb_Bush>	0	/m/019x9z
+e	yahoo-140_8	bentleyschool.net	bentleyschool.net	<dbpedia:Bentley_School>	0	/m/07hkwq
+e	yahoo-140_9	jack pardee cancer	jack pardee	<dbpedia:Jack_Pardee>	0	/m/03_0ph
+e	yahoo-143_1	mp3 players
+e	yahoo-144_1	springfield mo movie theaters	springfield mo	<dbpedia:Springfield,_Missouri>	0	/m/013gwb
+m	yahoo-147_1	uitm jengka	jengka	<dbpedia:Bandar_Pusat_Jengka>	0	/m/0f4cjq
+m	yahoo-147_1	uitm jengka	uitm	<dbpedia:Universiti_Teknologi_MARA>	0	/m/04p_fv
+e	yahoo-148_1	gmail	gmail	<dbpedia:Gmail>	0	/m/02q_bk
+e	yahoo-148_2	gamil				
+e	yahoo-149_1	espn	espn	<dbpedia:ESPN>	0	/m/0kc6x
+e	yahoo-14_1	former mouseketeer dies	mouseketeer	<dbpedia:The_Mickey_Mouse_Club>	0	/m/05631
+e	yahoo-150_1	facebook obama slur	obama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	yahoo-150_2	Facebook Obama slur
+e	yahoo-151_1	gangnam video
+e	yahoo-155_1	tumblr fashion	tumblr	<dbpedia:Tumblr>	0	/m/05pdgbz
+e	yahoo-155_2	tumblr fat	tumblr	<dbpedia:Tumblr>	0	/m/05pdgbz
+e	yahoo-155_3	tumblr fat girls	tumblr	<dbpedia:Tumblr>	0	/m/05pdgbz
+e	yahoo-155_4	tumblr themes	tumblr	<dbpedia:Tumblr>	0	/m/05pdgbz
+e	yahoo-157_1	man sues ugly baby
+e	yahoo-15_1	mimeo board				
+e	yahoo-160_1	officer shot 12 times
+h	yahoo-163_1	mexican mayor killed				
+e	yahoo-164_1	anchors resign on air
+e	yahoo-164_2	Anchors resign on air
+e	yahoo-164_3	dirty jobs canceled	dirty jobs	<dbpedia:Dirty_Jobs>	0	/m/07ky1d
+h	yahoo-165_1	converse	converse	<dbpedia:Converse_(shoe_company)>	0	/m/0140d2
+e	yahoo-167_1	oklahoma school of science and mathematics	oklahoma school of science and mathematics	<dbpedia:Oklahoma_School_of_Science_and_Mathematics>	0	/m/05852p
+e	yahoo-168_1	windows 2000 sp4	windows 2000	<dbpedia:Windows_2000>	0	/m/085_2
+e	yahoo-168_2	pa child support	pa	<dbpedia:Pennsylvania>	0	/m/05tbn
+e	yahoo-169_1	contact the white house	white house	<dbpedia:White_House>	0	/m/081sq
+h	yahoo-169_2	texas secession	texas	<dbpedia:Texas>	0	/m/07b_l
+e	yahoo-16_1	widows
+e	yahoo-16_2	windows xp
+e	yahoo-16_3	windows xp 8
+e	yahoo-170_1	valerie eliot dies	valerie eliot	<dbpedia:Valerie_Eliot>	0	/m/05x5w1
+h	yahoo-171_1	ky powerball	ky	<dbpedia:Kentucky>	0	/m/0498y
+h	yahoo-173_1	va benefits	va	<dbpedia:Virginia>	0	/m/07z1m
+m	yahoo-176_1	samsung mobile phones	samsung	<dbpedia:Samsung>	0	/m/07gv72
+e	yahoo-178_1	aetv	aetv	<dbpedia:A&E_(TV_channel)>	0	/m/02dp08
+h	yahoo-179_1	comcast xfinity	comcast	<dbpedia:Comcast>	0	/m/01s73z
+e	yahoo-17_1	cast of starship troopers 2	starship troopers 2	<dbpedia:Starship_Troopers_2:_Hero_of_the_Federation>	0	/m/0702t7
+e	yahoo-180_1	kardashian holiday card
+e	yahoo-184_1	danica patrick divorce	danica patrick	<dbpedia:Danica_Patrick>	0	/m/063rjh
+e	yahoo-184_2	Danica Patrick divorce
+e	yahoo-184_3	oksana baiul	oksana baiul	<dbpedia:Oksana_Baiul>	0	/m/029b1p
+e	yahoo-184_4	girl fatally shot on school bus
+e	yahoo-185_1	pnc
+e	yahoo-186_1	statefarm.com
+e	yahoo-186_2	linc inc	linc inc	<dbpedia:LINC>	0	/m/0j_p9
+e	yahoo-186_3	linc in	linc	<dbpedia:LINC>	0	/m/0j_p9
+e	yahoo-186_4	indeed.com	indeed.com	<dbpedia:Indeed.com>	0	/m/09ylwk
+e	yahoo-187_1	powerball pa lottery
+e	yahoo-188_1	mortgage survey
+e	yahoo-189_1	casa de campo	casa de campo	<dbpedia:Casa_de_Campo>	0	/m/0dtvb4
+e	yahoo-189_2	define slimy
+e	yahoo-189_3	best buy	best buy	<dbpedia:Best_Buy>	0	/m/01zrdx
+e	yahoo-18_1	esther phillips music	esther phillips	<dbpedia:Esther_Phillips>	0	/m/01mwfcz
+e	yahoo-18_2	facebook.com	facebook.com	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-18_3	free fishing lures
+e	yahoo-18_4	free fishing lures samples
+e	yahoo-18_5	texas fishing license age	texas	<dbpedia:Texas>	0	/m/07b_l
+e	yahoo-190_1	6am band
+e	yahoo-190_2	gucci	gucci	<dbpedia:Gucci>	0	/m/03gc5x
+e	yahoo-192_1	elizabeth essex	elizabeth essex	<dbpedia:Elizabeth_Capell,_Countess_of_Essex>	0	/m/05q5glc
+e	yahoo-192_2	skate america 2012
+e	yahoo-192_3	international sports
+e	yahoo-192_4	universal sports schedule	universal sports	<dbpedia:Universal_Sports>	0	/m/04gg8k4
+e	yahoo-196_1	hamas wiki	hamas	<dbpedia:Hamas>	0	/m/03m6j
+e	yahoo-196_2	kim kardashian	kim kardashian	<dbpedia:Kim_Kardashian>	0	/m/0261x8t
+e	yahoo-196_3	public nudity ban
+e	yahoo-196_4	Public nudity ban
+e	yahoo-196_5	public nudity
+e	yahoo-197_1	icbc knowledge test online	icbc	<dbpedia:Industrial_and_Commercial_Bank_of_China>	0	/m/03xzw_
+e	yahoo-197_10	penelope cruz	penelope cruz	<dbpedia:Pen%C3%A9lope_Cruz>	0	/m/05q_b
+e	yahoo-197_12	iran fired on drone	iran	<dbpedia:Iran>	0	/m/03shp
+e	yahoo-197_13	xbox 360	xbox 360	<dbpedia:Xbox_360>	0	/m/02plp2
+e	yahoo-197_14	xm radio	xm radio	<dbpedia:XM_Satellite_Radio>	0	/m/01603r
+e	yahoo-197_15	xmas
+e	yahoo-197_16	xmas cards
+e	yahoo-197_17	xmas pictures
+e	yahoo-197_18	xmas presents
+e	yahoo-197_19	Xmas presents
+e	yahoo-197_2	penticton bc	penticton bc	<dbpedia:Penticton>	0	/m/01wq0g
+e	yahoo-197_3	penticton bc canada	penticton bc canada	<dbpedia:Penticton>	0	/m/01wq0g
+e	yahoo-197_4	penticton bc hotels	penticton bc	<dbpedia:Penticton>	0	/m/01wq0g
+e	yahoo-197_5	penticton bc real estate	penticton bc	<dbpedia:Penticton>	0	/m/01wq0g
+e	yahoo-197_6	penticton bc weather	penticton bc	<dbpedia:Penticton>	0	/m/01wq0g
+e	yahoo-197_7	penticton	penticton	<dbpedia:Penticton>	0	/m/01wq0g
+e	yahoo-197_8	penticton herald	penticton herald	<dbpedia:Penticton_Herald>	0	/m/0hrhmbx
+e	yahoo-197_9	pentagon	pentagon	<dbpedia:The_Pentagon>	0	/m/09w3b
+e	yahoo-198_1	bieber won't be charged	bieber	<dbpedia:Justin_Bieber>	0	/m/06w2sn5
+e	yahoo-199_1	lung cancer
+e	yahoo-199_2	heidi klum	heidi klum	<dbpedia:Heidi_Klum>	0	/m/01pctb
+e	yahoo-1_1	gemini compatibility
+e	yahoo-1_2	amazon	amazon	<dbpedia:Amazon.com>	0	/m/0mgkg
+e	yahoo-1_4	nurses sue douglas kennedy	douglas kennedy	<dbpedia:Douglas_Harriman_Kennedy>	0	/m/03ts5s
+e	yahoo-1_5	aetna	aetna	<dbpedia:Aetna>	0	/m/0kg8x
+e	yahoo-200_1	river phoenix film	river phoenix	<dbpedia:River_Phoenix>	0	/m/015076
+e	yahoo-200_2	one child policy
+e	yahoo-200_3	movember	movember	<dbpedia:Movember>	0	/m/08p9p1
+e	yahoo-201_1	billy scott dies	billy scott	<dbpedia:Billy_Scott_(singer)>	0	/m/03f0jvh
+e	yahoo-201_2	707 gun shop myrtle beach sc	myrtle beach sc	<dbpedia:Myrtle_Beach,_South_Carolina>	0	/m/0_m3k
+e	yahoo-201_3	gun shops in myrtle beach sc	myrtle beach sc	<dbpedia:Myrtle_Beach,_South_Carolina>	0	/m/0_m3k
+e	yahoo-201_4	glock g21 for sale
+e	yahoo-201_5	captain george's myrtle beach	myrtle beach	<dbpedia:Myrtle_Beach,_South_Carolina>	0	/m/0_m3k
+e	yahoo-202_1	cnnsi	cnnsi	<dbpedia:CNN_Sports_Illustrated>	0	/m/04lkjn
+e	yahoo-204_1	firefox	firefox	<dbpedia:Firefox>	0	/m/01dyhm
+e	yahoo-205_1	walmart black friday 2012	black friday	<dbpedia:Black_Friday_(shopping)>	0	/m/0200gn
+e	yahoo-205_1	walmart black friday 2012	walmart	<dbpedia:Walmart>	0	/m/0841v
+e	yahoo-205_2	black friday 2012	black friday	<dbpedia:Black_Friday_(shopping)>	0	/m/0200gn
+e	yahoo-207_1	free online games
+e	yahoo-209_2	usc shooting	usc	<dbpedia:University_of_Southern_California>	0	/m/065y4w7
+e	yahoo-20_1	the big bang theory	the big bang theory	<dbpedia:The_Big_Bang_Theory>	0	/m/02r5qtm
+e	yahoo-20_2	ditka suffers stroke	ditka	<dbpedia:Mike_Ditka>	0	/m/01rfdq
+e	yahoo-20_3	country curtains
+e	yahoo-20_4	jc penney curtains	jc penney	<dbpedia:J._C._Penney>	0	/m/026h1w
+e	yahoo-20_5	walmart.com	walmart.com	<dbpedia:Walmart>	0	/m/0841v
+e	yahoo-20_6	canvas drop curtains
+e	yahoo-210_1	burlington wisconsin	burlington wisconsin	<dbpedia:Burlington,_Wisconsin>	0	/m/01mmx8
+e	yahoo-210_2	Burlington Wisconsin
+e	yahoo-211_1	apple id
+e	yahoo-213_1	msn.com	msn.com	<dbpedia:MSN>	0	/m/0198jf
+e	yahoo-215_1	bass pro shoppe	bass pro shoppe	<dbpedia:Bass_Pro_Shops>	0	/m/04d1d1
+e	yahoo-216_1	mrsa infection
+m	yahoo-219_1	yahoo mexico	mexico	<dbpedia:Mexico>	0	/m/0b90_r
+m	yahoo-219_1	yahoo mexico	yahoo	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-219_3	twitter com tweets	twitter	<dbpedia:Twitter>	0	/m/0289n8t
+e	yahoo-21_1	w.c.handy	w.c.handy	<dbpedia:W._C._Handy>	0	/m/0fxlj
+e	yahoo-21_2	town of williamstown vt	williamstown vt	<dbpedia:Williamstown,_Vermont>	0	/m/010jym
+e	yahoo-21_3	pumpkin muffins recipe
+e	yahoo-220_1	samsung galaxy siii	samsung galaxy siii	<dbpedia:Samsung_Galaxy_S_III>	0	/m/0h_cn_1
+e	yahoo-220_3	iphone5 rumors	iphone5	<dbpedia:IPhone_5>	0	/m/0gg4gh4
+e	yahoo-223_1	southwest rapid rewards login	southwest	<dbpedia:Southwest_Airlines>	0	/m/0gztl
+e	yahoo-226_1	deborah raffin dies	deborah raffin	<dbpedia:Deborah_Raffin>	0	/m/0dlgdy
+e	yahoo-226_2	Deborah Raffin dies
+e	yahoo-226_4	life of pi	life of pi	<dbpedia:Life_of_Pi>	0	/m/02658n
+e	yahoo-226_5	hector camacho	hector camacho	<dbpedia:H%C3%A9ctor_Camacho>	0	/m/0lxcw
+e	yahoo-229_1	travis poter				
+e	yahoo-229_3	combat boots for women
+e	yahoo-229_4	att.com	att.com	<dbpedia:AT&T>	0	/m/08z129
+e	yahoo-22_1	pandora	pandora	<dbpedia:Pandora_Radio>	0	/m/091zgm
+e	yahoo-22_2	currency converter
+e	yahoo-232_1	katy perry skintight ballot	katy perry	<dbpedia:Katy_Perry>	0	/m/03y82t6
+e	yahoo-233_2	oovoo	ooVoo	<dbpedia:OoVoo>	0	/m/02zbm4z
+e	yahoo-235_1	oprah life class	oprah life class	<dbpedia:Oprah's_Lifeclass>	0	/m/0hhs8zn
+e	yahoo-235_2	ted	ted	<dbpedia:TED_(conference)>	0	/m/058p1b
+e	yahoo-235_2	ted	ted	<dbpedia:Ted_(film)>	1	/m/0gj9tn5
+e	yahoo-235_3	calcium in water
+e	yahoo-235_4	calories in egg whites
+e	yahoo-235_5	strength training vs cardio
+e	yahoo-235_6	ritz restaurant newport beach	newport beach	<dbpedia:Newport_Beach,_California>	0	/m/0r2kh
+e	yahoo-235_7	pascal restaurant newport beach	newport beach	<dbpedia:Newport_Beach,_California>	0	/m/0r2kh
+e	yahoo-235_8	five crowns corona del mar	corona del mar	<dbpedia:Corona_del_Mar,_Newport_Beach>	0	/m/0489qfb
+e	yahoo-236_1	bridal shower favors
+e	yahoo-236_2	party city	party city	<dbpedia:Party_City>	0	/m/04l0g5
+e	yahoo-236_3	bath and body works	bath and body works	<dbpedia:Bath_&_Body_Works>	0	/m/0360zl
+e	yahoo-236_4	wedding shower sayings
+e	yahoo-236_5	bridal shower party favors
+e	yahoo-236_6	yellowpages	yellowpages	<dbpedia:Yellow_pages>	0	/m/02zvzh
+e	yahoo-237_1	websters dictionary	websters dictionary	<dbpedia:Webster's_Dictionary>	0	/m/014x6f
+e	yahoo-237_2	sales interview questions
+e	yahoo-237_3	gmail login	gmail	<dbpedia:Gmail>	0	/m/02q_bk
+e	yahoo-237_4	monster.com	monster.com	<dbpedia:Monster.com>	0	/m/06h856
+e	yahoo-237_5	google.com	google.com	<dbpedia:Google>	0	/m/045c7b
+e	yahoo-237_6	purchasing
+e	yahoo-238_1	beauty queen killed
+e	yahoo-239_1	weeworld	weeworld	<dbpedia:WeeWorld>	0	/m/06ztw4n
+e	yahoo-240_3	aol	aol	<dbpedia:AOL>	0	/m/0plw
+e	yahoo-240_4	buffalo wild wing	buffalo wild wing	<dbpedia:Buffalo_Wild_Wings>	0	/m/093d_8
+e	yahoo-242_1	powerball closing time
+e	yahoo-243_1	anne hathaway	anne hathaway	<dbpedia:Anne_Hathaway>	0	/m/02vntj
+e	yahoo-243_2	Anne Hathaway
+e	yahoo-243_3	$425 million jackpot
+e	yahoo-244_1	juventus streak ends	juventus	<dbpedia:Juventus_F.C.>	0	/m/045xx
+e	yahoo-245_1	yahoo! weather	yahoo! weather	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-245_2	white pages
+e	yahoo-245_3	where to vote
+e	yahoo-245_4	where to purchase
+e	yahoo-245_5	where to post free ads
+e	yahoo-245_6	where to post links for free
+e	yahoo-245_7	where to post items for sale
+e	yahoo-246_1	north korean assassination weapons	north korean assassination weapons	<dbpedia:North_Korea>	0	/m/05b7q
+e	yahoo-246_2	oprah scare	oprah	<dbpedia:Oprah_Winfrey>	0	/m/0grwj
+e	yahoo-246_3	jaco costa rica	jaco costa rica	<dbpedia:Jac%C3%B3,_Costa_Rica>	0	/m/0gg0sv
+e	yahoo-246_4	map of costa rica	costa rica	<dbpedia:Costa_Rica>	0	/m/01p8s
+m	yahoo-246_5	four seasons costa rica	costa rica	<dbpedia:Costa_Rica>	0	/m/01p8s
+m	yahoo-246_5	four seasons costa rica	four seasons	<dbpedia:Four_Seasons_Hotels_and_Resorts>	0	/m/01xt0w
+m	yahoo-246_6	papagayo costa rica map	costa rica	<dbpedia:Costa_Rica>	0	/m/01p8s
+e	yahoo-248_1	carol burnett	carol burnett	<dbpedia:Carol_Burnett>	0	/m/01l1ls
+e	yahoo-248_11	mi	mi	<dbpedia:Michigan>	0	/m/04rrx
+e	yahoo-248_13	miss universe	miss universe	<dbpedia:Miss_Universe>	0	/m/013c6x
+e	yahoo-248_14	mister rogers	mister rogers	<dbpedia:Mister_Rogers'_Neighborhood>	0	/m/010qcv
+e	yahoo-248_15	mistral
+e	yahoo-248_16	mistress fortune
+e	yahoo-248_17	mystery shopper
+e	yahoo-248_3	yahoo! deals	yahoo! deals	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-248_4	death
+e	yahoo-248_5	death of a salesman	death of a salesman	<dbpedia:Death_of_a_Salesman>	0	/m/014kjh
+h	yahoo-248_6	death penalty for penn state	penn state	<dbpedia:Pennsylvania_State_University>	0	/m/04hgpt
+e	yahoo-248_7	death of rizal	rizal	<dbpedia:Jos%C3%A9_Rizal>	0	/m/01fp30
+e	yahoo-248_8	death of robin
+e	yahoo-24_1	kgrs	kgrs	<dbpedia:KGRS>	0	/m/04cr9sg
+e	yahoo-24_2	scciowa	scciowa	<dbpedia:Southeastern_Community_College_(Iowa)>	0	/m/04cxzpd
+e	yahoo-250_1	map of israel	israel	<dbpedia:Israel>	0	/m/03spz
+e	yahoo-251_2	michael cuddyer	michael cuddyer	<dbpedia:Michael_Cuddyer>	0	/m/069y95
+e	yahoo-251_3	michael curry	michael curry	<dbpedia:Michael_Curry>	0	/m/0fkdp4
+e	yahoo-251_4	stock market news
+h	yahoo-251_5	yahoo! bookmarks	yahoo!	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-251_6	brenda song	brenda song	<dbpedia:Brenda_Song>	0	/m/05pmzb
+e	yahoo-251_7	city of los angeles	los angeles	<dbpedia:Los_Angeles>	0	/m/030qb3t
+e	yahoo-251_8	city of los angeles jobs	los angeles	<dbpedia:Los_Angeles>	0	/m/030qb3t
+e	yahoo-251_9	city of los angeles visitors bureau	los angeles	<dbpedia:Los_Angeles>	0	/m/030qb3t
+e	yahoo-252_1	legalzoom	legalzoom	<dbpedia:LegalZoom>	0	/m/0djxbk
+e	yahoo-254_1	makita	makita	<dbpedia:Makita>	0	/m/0h00d5
+e	yahoo-254_2	banco santander brasil	banco santander brasil	<dbpedia:Santander_Brasil>	0	/m/07k4bzz
+e	yahoo-254_3	bmw x5
+e	yahoo-254_4	dodog				
+e	yahoo-254_5	bodog	bodog	<dbpedia:Bodog>	0	/m/0d1x33
+e	yahoo-255_1	twinkies may survive	twinkies	<dbpedia:Twinkie>	0	/m/0svwd
+e	yahoo-256_1	internet speed test
+e	yahoo-257_2	apple throws tantrum	apple	<dbpedia:Apple_Inc.>	0	/m/0k8z
+e	yahoo-258_1	hugh grant	hugh grant	<dbpedia:Hugh_Grant>	0	/m/016xh5
+e	yahoo-25_1	hunnington ingalls				
+e	yahoo-260_1	florida election results	florida	<dbpedia:Florida>	0	/m/02xry
+e	yahoo-261_1	black dog machine magazines
+e	yahoo-261_2	sig 522 magazine
+e	yahoo-261_3	sig 522 magazine loader
+e	yahoo-262_1	zero hedge
+e	yahoo-264_1	fay observer	fay observer	<dbpedia:The_Fayetteville_Observer>	0	/m/09xg9n
+e	yahoo-265_1	unsecured no credit check loans
+e	yahoo-266_1	map
+e	yahoo-266_2	office depot	office depot	<dbpedia:Office_Depot>	0	/m/02rdpx
+e	yahoo-266_3	aqueduct race track	aqueduct race track	<dbpedia:Aqueduct_Racetrack>	0	/m/03kmxc
+e	yahoo-266_4	pakistan news	pakistan	<dbpedia:Pakistan>	0	/m/05sb1
+h	yahoo-266_6	cal racing				
+e	yahoo-267_1	payless shoes	payless shoes	<dbpedia:Payless_ShoeSource>	0	/m/06sm6h
+e	yahoo-268_1	new sexiest man alive
+e	yahoo-269_1	mapquest	mapquest	<dbpedia:MapQuest>	0	/m/01t7l5
+e	yahoo-26_1	karl rove's bad night	karl rove	<dbpedia:Karl_Rove>	0	/m/01jkpp
+e	yahoo-26_2	winter storm athena
+e	yahoo-270_1	alternet	alternet	<dbpedia:AlterNet>	0	/m/02r8h8
+e	yahoo-270_2	cholesterol levels
+e	yahoo-270_3	hdl level
+e	yahoo-271_1	belbin team roles
+h	yahoo-271_2	the great gatsby	the great gatsby	<dbpedia:The_Great_Gatsby_(1974_film)>	0	/m/0kvg4w
+e	yahoo-271_3	difference between mitosis and meiosis
+e	yahoo-271_4	exam
+m	yahoo-273_1	rockets james harden	james harden	<dbpedia:James_Harden>	0	/m/03wbkl5
+m	yahoo-273_1	rockets james harden	rockets	<dbpedia:Houston_Rockets>	0	/m/0jmfb
+e	yahoo-273_2	rocketdog shoes
+e	yahoo-273_3	dicks	dicks	<dbpedia:Dick's_Sporting_Goods>	0	/m/06fgv_
+e	yahoo-273_4	womens adidas bounce	adidas	<dbpedia:Adidas>	0	/m/01jtml
+e	yahoo-273_5	macys	macys	<dbpedia:Macy's>	0	/m/01pkxd
+e	yahoo-274_1	lexington county sc	lexington county sc	<dbpedia:Lexington_County,_South_Carolina>	0	/m/0mvsg
+e	yahoo-275_1	facebook sign up	facebook	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-277_1	cuban offers trump $1 million	cuban	<dbpedia:Mark_Cuban>	0	/m/024t0y
+e	yahoo-277_1	cuban offers trump $1 million	trump	<dbpedia:Donald_Trump>	0	/m/0cqt90
+e	yahoo-278_1	cosmopolitan
+e	yahoo-279_2	Billy Scott dies
+h	yahoo-279_3	four killed on reservation	reservation	<dbpedia:Indian_reservation>	0	/m/03c4gz
+e	yahoo-27_1	toys r us	toys r us	<dbpedia:Toys_%22R%22_Us>	0	/m/02jwcn
+m	yahoo-27_2	new york state lottery	new york state	<dbpedia:New_York>	0	/m/059rby
+m	yahoo-27_3	ny state lottery	ny state	<dbpedia:New_York>	0	/m/059rby
+e	yahoo-281_2	sam elliot	sam elliot	<dbpedia:Sam_Elliott>	0	/m/06m6p7
+e	yahoo-282_1	pita jungle newport	newport	<dbpedia:Newport_Beach,_California>	0	/m/0r2kh
+e	yahoo-283_1	seafood receipes
+e	yahoo-289_1	redsox	redsox	<dbpedia:Boston_Red_Sox>	0	/m/01d5z
+e	yahoo-289_2	spokesman
+e	yahoo-289_3	dust in the wind youtube	youtube	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-291_1	walmart black friday ad	black friday	<dbpedia:Black_Friday_(shopping)>	0	/m/0200gn
+e	yahoo-291_1	walmart black friday ad	walmart	<dbpedia:Walmart>	0	/m/0841v
+e	yahoo-292_1	taylor lautner regret	taylor lautner	<dbpedia:Taylor_Lautner>	0	/m/07ldhs
+e	yahoo-293_1	bbva compass	bbva compass	<dbpedia:BBVA_Compass>	0	/m/06w1tj
+e	yahoo-293_2	www.cpsenergy.com	www.cpsenergy.com	<dbpedia:CPS_Energy>	0	/m/0gthdr
+e	yahoo-294_1	msft	msft	<dbpedia:Microsoft>	0	/m/04sv4
+e	yahoo-294_2	aa	aa	<dbpedia:Alcoholics_Anonymous>	0	/m/0wb_
+e	yahoo-295_1	yahoomusic.com	yahoomusic.com	<dbpedia:Yahoo!_Music>	0	/m/02p5frl
+e	yahoo-296_1	spanish to english translation
+e	yahoo-298_1	lowes.com	lowes.com	<dbpedia:Lowe's>	0	/m/037922
+e	yahoo-298_2	lowes	lowes	<dbpedia:Lowe's>	0	/m/037922
+e	yahoo-29_1	head lice
+e	yahoo-29_2	bbt on line banking	bbt	<dbpedia:BB&T>	0	/m/04vrhz
+e	yahoo-29_3	tea tree oil
+e	yahoo-29_4	tea tree oil shampoo
+e	yahoo-29_5	tea tree oil shampoo lice
+e	yahoo-29_6	youtube video	youtube	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-2_1	does rye bread have wheat in it
+e	yahoo-300_1	romania	romania	<dbpedia:Romania>	0	/m/06c1y
+e	yahoo-300_3	red giant	red giant	<dbpedia:Red_Giant_Software>	0	/m/02w48s8
+e	yahoo-301_1	the way international
+e	yahoo-302_1	igo 8
+e	yahoo-302_2	igo 8 maps
+e	yahoo-303_1	stagestores.com	stagestores.com	<dbpedia:Stage_Stores_Inc.>	0	/m/0c32q1
+e	yahoo-305_1	arsenal	arsenal	<dbpedia:Arsenal_F.C.>	0	/m/0xbm
+e	yahoo-305_2	powerball
+e	yahoo-305_3	english premier league	english premier league	<dbpedia:Premier_League>	0	/m/02_tc
+e	yahoo-307_1	one story brick house plans
+e	yahoo-307_2	wal mart	wal mart	<dbpedia:Walmart>	0	/m/0841v
+e	yahoo-307_3	brick house plans
+e	yahoo-307_4	best house plans
+e	yahoo-307_5	house plans
+e	yahoo-308_1	mediacom cable	mediacom cable	<dbpedia:Mediacom>	0	/m/065qr_
+e	yahoo-308_2	first source bank	first source bank	<dbpedia:1st_Source>	0	/m/0cd8kr
+e	yahoo-308_3	lakeshore ford	ford	<dbpedia:Ford_Motor_Company>	0	/m/02zs4
+e	yahoo-309_1	www.youtube.com	www.youtube.com	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-30_1	gangnam style christmas lights
+e	yahoo-310_2	ebay	ebay	<dbpedia:EBay>	0	/m/0z90c
+e	yahoo-311_2	autotrader	autotrader	<dbpedia:AutoTrader.com>	0	/m/06wc9ph
+e	yahoo-311_3	yahoo! axis
+e	yahoo-311_4	costco	costco	<dbpedia:Costco>	0	/m/029f32
+e	yahoo-311_5	target	target	<dbpedia:Target_Corporation>	0	/m/01b39j
+e	yahoo-311_6	145 pounds in kg
+e	yahoo-312_1	brett michaels	brett michaels	<dbpedia:Bret_Michaels>	0	/m/01wkmgb
+e	yahoo-313_1	hulu	hulu	<dbpedia:Hulu>	0	/m/02y_4jg
+e	yahoo-313_2	vicodin
+e	yahoo-315_1	bon jovi's daughter arrested	bon jovi's	<dbpedia:Bon_Jovi>	0	/m/0g_g2
+e	yahoo-317_3	theresa faiss dies
+e	yahoo-319_1	ipad 2 black friday deals	black friday	<dbpedia:Black_Friday_(shopping)>	0	/m/0200gn
+e	yahoo-319_1	ipad 2 black friday deals	ipad 2	<dbpedia:IPad_2>	0	/m/0ggbcny
+e	yahoo-320_1	tioga state bank home page
+e	yahoo-321_1	pinterest	pinterest	<dbpedia:Pinterest>	0	/m/0h3tm0f
+e	yahoo-321_3	yellow pages	yellow pages	<dbpedia:Yellow_pages>	0	/m/02zvzh
+e	yahoo-321_5	hamilton beach coffeemaker	hamilton beach	<dbpedia:Hamilton_Beach_Brands>	0	/m/075sdt
+e	yahoo-321_7	vermontville	vermontville	<dbpedia:Vermontville,_Michigan>	0	/m/01_x6s3
+e	yahoo-321_8	the vermont country store	the vermont country store	<dbpedia:Vermont_Country_Store>	0	/m/027m38y
+e	yahoo-322_2	adele baby	adele	<dbpedia:Adele>	0	/m/02z4b_8
+e	yahoo-322_3	adventure time	adventure time	<dbpedia:Adventure_Time>	0	/m/0280hsm
+e	yahoo-322_4	adventure time hat	adventure time	<dbpedia:Adventure_Time>	0	/m/0280hsm
+e	yahoo-322_5	rule 34	rule 34	<dbpedia:Rule_34_(novel)>	0	/m/0gtv63v
+e	yahoo-323_1	giant eagle	giant eagle	<dbpedia:Giant_Eagle>	0	/m/05f0pg
+e	yahoo-324_1	charter email	charter	<dbpedia:Charter_Communications>	0	/m/05c51w
+e	yahoo-325_1	michael jordan banned	michael jordan	<dbpedia:Michael_Jordan>	0	/m/054c1
+e	yahoo-325_2	kanye west deposed	kanye west	<dbpedia:Kanye_West>	0	/m/02l840
+e	yahoo-326_1	cntf
+e	yahoo-327_1	w l weller	w l weller	<dbpedia:W._L._Weller>	0	/m/03gspv6
+e	yahoo-327_2	youtube.com	youtube.com	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-327_3	queen latifah	queen latifah	<dbpedia:Queen_Latifah>	0	/m/01wgcvn
+e	yahoo-327_4	ovguide movies	ovguide	<dbpedia:OVGuide>	0	/m/02rjw5l
+e	yahoo-328_1	infinity dish	infinity dish	<dbpedia:Dish_Network>	0	/m/0kc4f
+e	yahoo-32_1	ford fiesta 2002	ford fiesta	<dbpedia:Ford_Fiesta>	0	/m/02f6d7
+e	yahoo-330_1	hu jintao steps down	hu jintao	<dbpedia:Hu_Jintao>	0	/m/013my_
+e	yahoo-333_1	how to paint a car
+e	yahoo-333_2	how to paint a car at home
+e	yahoo-334_1	ebay.com	ebay.com	<dbpedia:EBay>	0	/m/0z90c
+e	yahoo-334_2	ups.com	ups.com	<dbpedia:United_Parcel_Service>	0	/m/01d734
+e	yahoo-334_3	lefeld implement coldwater ohio	coldwater ohio	<dbpedia:Coldwater,_Ohio>	0	/m/0y_l6
+e	yahoo-335_1	windows password recovery tool 3.0	windows	<dbpedia:Microsoft_Windows>	0	/m/04r_8
+e	yahoo-336_10	how many cc in a ml
+e	yahoo-336_11	how many ccie in the world				
+e	yahoo-336_2	macho camacho critical	macho camacho	<dbpedia:H%C3%A9ctor_Camacho>	0	/m/0lxcw
+e	yahoo-336_3	price is right model wins suit	price is right	<dbpedia:The_Price_Is_Right>	0	/m/0fd2ds
+e	yahoo-336_4	honey boo boo made of trash	honey boo boo	<dbpedia:Here_Comes_Honey_Boo_Boo>	0	/m/0kvdy60
+e	yahoo-336_5	wanda jackson	wanda jackson	<dbpedia:Wanda_Jackson>	0	/m/04bcrl
+e	yahoo-336_6	how many calories in a banana
+e	yahoo-336_7	how much water to drink daily
+e	yahoo-336_8	how to tie a tie
+e	yahoo-336_9	yahoo! horoscopes	yahoo!	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-338_1	sphinx destruction
+h	yahoo-33_1	north korea rocket launch	north korea	<dbpedia:North_Korea>	0	/m/05b7q
+e	yahoo-33_2	maria sharapova	maria sharapova	<dbpedia:Maria_Sharapova>	0	/m/03b7gw
+e	yahoo-340_1	jamie grace	jamie grace	<dbpedia:Jamie_Grace>	0	/m/0gj8l55
+e	yahoo-340_2	is tithing required
+e	yahoo-340_3	clayton state university	clayton state university	<dbpedia:Clayton_State_University>	0	/m/066sw3
+e	yahoo-340_4	guy fieri responds	guy fieri	<dbpedia:Guy_Fieri>	0	/m/0crzn_
+h	yahoo-340_5	marilyn and sarah				
+e	yahoo-340_6	financial modeling
+e	yahoo-341_2	mackenzie foy	mackenzie foy	<dbpedia:Mackenzie_Foy>	0	/m/0dgq_7z
+e	yahoo-341_3	mackenzie childs	mackenzie childs	<dbpedia:MacKenzie-Childs>	0	/m/0bs7hb8
+e	yahoo-341_4	hernando county property appraiser	hernando county	<dbpedia:Hernando_County,_Florida>	0	/m/0jj5r
+e	yahoo-341_5	spring hill rentals	spring hill	<dbpedia:Spring_Hill,_Florida>	0	/m/01_13nl
+m	yahoo-346_1	wonderware midwest	midwest	<dbpedia:Midwestern_United_States>	0	/m/0q76g
+m	yahoo-346_1	wonderware midwest	wonderware	<dbpedia:Wonderware>	0	/m/0bdmx7
+e	yahoo-346_2	sswc
+e	yahoo-347_1	savemart	savemart	<dbpedia:Save_Mart_Supermarkets>	0	/m/026q5gg
+e	yahoo-348_1	myyahoo mail				
+e	yahoo-349_1	holly petraeus
+e	yahoo-349_2	denise richards	denise richards	<dbpedia:Denise_Richards>	0	/m/0993r
+e	yahoo-351_1	gas prices drop
+e	yahoo-351_2	Gas prices drop
+e	yahoo-352_1	savile sex scandal
+e	yahoo-352_2	evan rachel wood	evan rachel wood	<dbpedia:Evan_Rachel_Wood>	0	/m/03_vx9
+e	yahoo-352_3	pascual perez killed	pascual perez	<dbpedia:Pascual_P%C3%A9rez_(baseball)>	0	/m/07kqd0
+e	yahoo-352_4	bronco bama girl				
+e	yahoo-353_1	cinque terre accommodation	cinque terre	<dbpedia:Cinque_Terre>	0	/m/036vk5
+e	yahoo-354_2	Sheen offers role
+e	yahoo-354_3	camacho funeral brawl	camacho	<dbpedia:H%C3%A9ctor_Camacho>	0	/m/0lxcw
+e	yahoo-355_1	twitter	twitter	<dbpedia:Twitter>	0	/m/0289n8t
+e	yahoo-356_1	dwts elimination
+e	yahoo-357_1	www.facebook.com	www.facebook.com	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-358_1	woodsman stain
+e	yahoo-358_2	sikkens deck stain				
+e	yahoo-35_1	amc breaking bad	amc	<dbpedia:AMC_(TV_channel)>	0	/m/03d1v8
+e	yahoo-35_1	amc breaking bad	breaking bad	<dbpedia:Breaking_Bad>	0	/m/03d34x8
+e	yahoo-360_1	hayden panettiere	hayden panettiere	<dbpedia:Hayden_Panettiere>	0	/m/02jyhv
+e	yahoo-360_2	lindsay lohan cancels	lindsay lohan	<dbpedia:Lindsay_Lohan>	0	/m/01pgzn_
+e	yahoo-361_2	wdbj7	wdbj7	<dbpedia:WDBJ>	0	/m/0903kv
+e	yahoo-361_3	wqut	wqut	<dbpedia:WQUT>	0	/m/026bjgh
+e	yahoo-366_1	cate blanchett role	cate blanchett	<dbpedia:Cate_Blanchett>	0	/m/0154qm
+e	yahoo-366_2	Cate Blanchett role
+e	yahoo-367_1	apple's insane sell-off	apple's	<dbpedia:Apple_Inc.>	0	/m/0k8z
+e	yahoo-369_1	fourth wedding anniversary gift
+e	yahoo-370_1	nicholas hoult	nicholas hoult	<dbpedia:Nicholas_Hoult>	0	/m/06tjh6
+e	yahoo-370_2	trust
+e	yahoo-370_3	attorney at law
+m	yahoo-370_4	st joseph university philadelphia pa	philadelphia pa	<dbpedia:Philadelphia>	0	/m/0dclg
+m	yahoo-370_4	st joseph university philadelphia pa	st joseph university	<dbpedia:Saint_Joseph's_University>	0	/m/02bhj4
+e	yahoo-371_1	coldwell banker	coldwell banker	<dbpedia:Coldwell_Banker>	0	/m/0838qg
+e	yahoo-371_2	centruy21realastate				
+e	yahoo-371_3	merril shoes				
+e	yahoo-371_4	vibram shoes	vibram shoes	<dbpedia:Vibram>	0	/m/027lch6
+e	yahoo-371_5	ryka shoes	ryka shoes	<dbpedia:Ryk%C3%A4>	0	/m/09r7g5
+e	yahoo-371_6	nike	nike	<dbpedia:Nike,_Inc.>	0	/m/0lwkh
+e	yahoo-371_8	big lots	big lots	<dbpedia:Big_Lots>	0	/m/040rp2
+e	yahoo-372_1	poultry farming in africa	africa	<dbpedia:Africa>	0	/m/0dg3n1
+e	yahoo-375_1	les miserables	les miserables	<dbpedia:Les_Mis%C3%A9rables>	0	/m/0gnfq
+e	yahoo-375_1	les miserables	les miserables	<dbpedia:Les_Mis%C3%A9rables_(2012_film)>	2	/m/0h51_mt
+e	yahoo-375_1	les miserables	les miserables	<dbpedia:Les_Mis%C3%A9rables_(musical)>	1	/m/01jhmg
+e	yahoo-375_2	lamborghini reventon	lamborghini reventon	<dbpedia:Lamborghini_Revent%C3%B3n>	0	/m/03byxzx
+h	yahoo-376_2	nurse gets 10 years				
+e	yahoo-379_1	how to measure a door
+e	yahoo-379_3	climax mine	climax mine	<dbpedia:Climax_mine>	0	/m/052399z
+m	yahoo-379_4	climax mine leadville	climax mine	<dbpedia:Climax_mine>	0	/m/052399z
+m	yahoo-379_4	climax mine leadville	leadville	<dbpedia:Leadville,_Colorado>	0	/m/0d1r2
+e	yahoo-379_5	google earth	google earth	<dbpedia:Google_Earth>	0	/m/06ny5h
+e	yahoo-379_7	bob berg	bob berg	<dbpedia:Bob_Berg>	0	/m/06k7xh
+e	yahoo-37_1	steve nash	steve nash	<dbpedia:Steve_Nash>	0	/m/01yqrk
+e	yahoo-37_2	george lucas money	george lucas	<dbpedia:George_Lucas>	0	/m/0343h
+e	yahoo-37_3	twilight green day	green day	<dbpedia:Green_Day>	0	/m/0dvqq
+e	yahoo-37_3	twilight green day	twilight	<dbpedia:The_Twilight_Saga:_Breaking_Dawn_%E2%80%93_Part_2>	0	/m/0djz0rc
+e	yahoo-380_1	usaa	usaa	<dbpedia:USAA>	0	/m/03j_b9h
+e	yahoo-382_1	blic	blic	<dbpedia:Blic>	0	/m/06jz0y
+e	yahoo-382_2	kurir	kurir	<dbpedia:Kurir>	0	/m/09cbbf
+e	yahoo-382_3	svet plus
+e	yahoo-383_1	fiscal cliff
+e	yahoo-383_2	detroit news	detroit news	<dbpedia:The_Detroit_News>	0	/m/038r10
+e	yahoo-383_3	diabetes
+e	yahoo-384_1	philippine daily inquirer	philippine daily inquirer	<dbpedia:Philippine_Daily_Inquirer>	0	/m/05hhyw
+e	yahoo-385_1	dominos pizzas	dominos pizzas	<dbpedia:Domino's_Pizza>	0	/m/03clwm
+e	yahoo-385_10	papa johns codes	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_11	papa johns coupon codes	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_12	papa johns coupon codes 2011	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_2	papa john	papa john	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_3	papa johns	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_4	papa joe's restaurant				
+e	yahoo-385_5	papa johns online	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_6	papa johns menus	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_7	papa johns promotion codes	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_8	papa johns c	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-385_9	papa johns co	papa johns	<dbpedia:Papa_John's_Pizza>	0	/m/020tvm
+e	yahoo-389_1	coaching speech
+e	yahoo-389_2	cs monitor	cs monitor	<dbpedia:The_Christian_Science_Monitor>	0	/m/01h5gh
+e	yahoo-390_1	midwives
+e	yahoo-390_2	candidate killed in storm
+e	yahoo-392_1	samsung	samsung	<dbpedia:Samsung>	0	/m/07gv72
+e	yahoo-393_2	sears	sears	<dbpedia:Sears>	0	/m/01pkvx
+e	yahoo-394_1	dam west campground carlyle illinois	carlyle illinois	<dbpedia:Carlyle,_Illinois>	0	/m/0s47y
+e	yahoo-394_2	google youtube	google	<dbpedia:Google>	0	/m/045c7b
+e	yahoo-394_2	google youtube	youtube	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-395_1	sasha and malia
+e	yahoo-395_2	darrell royal dies	darrell royal	<dbpedia:Darrell_Royal>	0	/m/02v0hy
+e	yahoo-395_3	diane sawyer slurring	diane sawyer	<dbpedia:Diane_Sawyer>	0	/m/02dh86
+e	yahoo-395_4	Diane Sawyer slurring
+e	yahoo-395_5	eva longoria in tears	eva longoria	<dbpedia:Eva_Longoria>	0	/m/03lt8g
+e	yahoo-397_1	www.cnn news	www.cnn news	<dbpedia:CNN>	0	/m/0gsgr
+e	yahoo-398_1	girl chained to dresser dies
+e	yahoo-398_2	Girl chained to dresser dies
+e	yahoo-398_3	clinton falls asleep	clinton	<dbpedia:Hillary_Rodham_Clinton>	0	/m/0d06m5
+e	yahoo-398_4	mayim bialik divorce	mayim bialik	<dbpedia:Mayim_Bialik>	0	/m/035grg
+e	yahoo-39_1	zig ziglar dies	zig ziglar	<dbpedia:Zig_Ziglar>	0	/m/04vvlw
+e	yahoo-3_1	nordstrom	nordstrom	<dbpedia:Nordstrom>	0	/m/01fc_q
+e	yahoo-400_1	bdubs menu	bdubs	<dbpedia:Buffalo_Wild_Wings>	0	/m/093d_8
+e	yahoo-400_2	how soon can you feel pregnancy symptoms
+e	yahoo-400_3	getting pregnant while on mirena
+e	yahoo-400_4	modern payments website				
+e	yahoo-402_1	downtown san antonio map	downtown san antonio	<dbpedia:Downtown_San_Antonio>	0	/m/05_5q04
+e	yahoo-405_1	cal dmv	cal dmv	<dbpedia:California_Department_of_Motor_Vehicles>	0	/m/02r4dr3
+e	yahoo-405_2	eden's edge	eden's edge	<dbpedia:Edens_Edge>	0	/m/0glnw2j
+e	yahoo-405_4	nook	nook	<dbpedia:Barnes_&_Noble_Nook>	0	/m/080dlpk
+m	yahoo-405_6	yahoo! news	yahoo! news	<dbpedia:Yahoo!_News>	0	/m/05bd08
+e	yahoo-407_1	bobby hebert booted	bobby hebert	<dbpedia:Bobby_Hebert>	0	/m/07vw6l
+e	yahoo-407_2	loretta swit turns 75	loretta swit	<dbpedia:Loretta_Swit>	0	/m/0mbzf
+e	yahoo-407_3	mariano rivera decision	mariano rivera	<dbpedia:Mariano_Rivera>	0	/m/01y5kh
+e	yahoo-408_1	rangoli designs
+e	yahoo-409_1	allspice berries
+e	yahoo-409_2	cloves spice
+e	yahoo-409_3	kohls	kohls	<dbpedia:Kohl's>	0	/m/037x4r
+e	yahoo-409_4	cranberry sauce
+e	yahoo-409_5	turkey breast recipes
+e	yahoo-409_6	youtub				
+e	yahoo-40_1	jpac	jpac	<dbpedia:Joint_POW/MIA_Accounting_Command>	0	/m/0268cx6
+e	yahoo-410_1	urinary tract infection treatment
+e	yahoo-411_1	charlie sheen lohan	charlie sheen	<dbpedia:Charlie_Sheen>	0	/m/01pllx
+e	yahoo-411_1	charlie sheen lohan	lohan	<dbpedia:Lindsay_Lohan>	0	/m/01pgzn_
+e	yahoo-413_1	john elway dodge greeley	greeley	<dbpedia:Greeley,_Colorado>	0	/m/0rczx
+e	yahoo-415_1	google translate	google translate	<dbpedia:Google_Translate>	0	/m/025sndk
+h	yahoo-416_1	site	site	<dbpedia:Website>	0	/m/085n4
+e	yahoo-417_1	notebook
+e	yahoo-418_1	stigma
+e	yahoo-418_2	uis	uis	<dbpedia:University_of_Illinois_at_Springfield>	0	/m/024818
+e	yahoo-420_1	lance armstrong in effigy	lance armstrong	<dbpedia:Lance_Armstrong>	0	/m/0hfwb
+e	yahoo-421_1	shackelford funeral directors
+e	yahoo-422_2	tufts.edu	tufts.edu	<dbpedia:Tufts_University>	0	/m/0lfgr
+e	yahoo-422_3	ideas for college care packages
+e	yahoo-425_1	miley cyrus wedding planning	miley cyrus	<dbpedia:Miley_Cyrus>	0	/m/0bdxs5
+e	yahoo-425_10	statins
+e	yahoo-425_2	Miley Cyrus wedding planning
+e	yahoo-425_3	brooke burke thyroid cancer
+e	yahoo-425_4	ted nugent on election	ted nugent	<dbpedia:Ted_Nugent>	0	/m/013w8h
+e	yahoo-425_5	top gun sequel	top gun	<dbpedia:Top_Gun>	0	/m/018js4
+e	yahoo-425_6	ellen douglas dies	ellen douglas	<dbpedia:Ellen_Douglas>	0	/m/0gh652j
+e	yahoo-425_8	mile-wide asteroid
+e	yahoo-425_9	victoria jackson	victoria jackson	<dbpedia:Victoria_Jackson>	0	/m/01rqqff
+e	yahoo-426_1	patio furiture
+e	yahoo-426_2	best cameras for concerts
+e	yahoo-426_3	best cameras for photography
+e	yahoo-426_4	jcpennys	jcpennys	<dbpedia:J._C._Penney>	0	/m/026h1w
+e	yahoo-426_5	cavenders boot town	cavenders	<dbpedia:Cavenders>	0	/m/065zbw4
+e	yahoo-426_6	fat head sports	fat head	<dbpedia:Fathead_(brand)>	0	/m/0d4zbk
+e	yahoo-427_1	papaqui soccer
+e	yahoo-428_1	aol mail login	aol mail login	<dbpedia:AOL_Mail>	0	/m/07bp97
+e	yahoo-42_1	www.jetairways.com	www.jetairways.com	<dbpedia:Jet_Airways>	0	/m/02sdpw
+e	yahoo-430_2	proposition 30 california 2012
+e	yahoo-431_1	langham creek high school	langham creek high school	<dbpedia:Langham_Creek_High_School>	0	/m/08trcl
+e	yahoo-432_1	iron sky dvd	iron sky	<dbpedia:Iron_Sky>	0	/m/02qyv3h
+e	yahoo-433_1	girl slept for 64 days
+e	yahoo-433_2	selena in emergency room	selena	<dbpedia:Selena_Gomez>	0	/m/0gs6vr
+e	yahoo-435_1	seven robbers shot dead
+e	yahoo-435_2	hotmail log in email
+e	yahoo-435_4	vicious dog bites trumpeter
+e	yahoo-435_5	Vicious dog bites trumpeter
+e	yahoo-435_6	bjork surgery	bjork	<dbpedia:Bj%C3%B6rk>	0	/m/01vrqtm
+e	yahoo-436_1	kmart	kmart	<dbpedia:Kmart>	0	/m/01k3wp
+e	yahoo-436_3	best but				
+e	yahoo-436_4	best but black friday	black Friday	<dbpedia:Black_Friday_(shopping)>	0	/m/0200gn
+e	yahoo-436_5	best but laptops				
+e	yahoo-436_6	walmart layaway	walmart	<dbpedia:Walmart>	0	/m/0841v
+e	yahoo-436_7	target layaway	target	<dbpedia:Target_Corporation>	0	/m/01b39j
+e	yahoo-436_8	stores with layaway
+e	yahoo-436_9	walmart	walmart	<dbpedia:Walmart>	0	/m/0841v
+e	yahoo-437_1	home depot center
+e	yahoo-438_1	42 years in a coma				
+e	yahoo-439_1	pacific mailorder christchurch	christchurch	<dbpedia:Christchurch>	0	/m/02yc5b
+e	yahoo-43_1	craigslist dfw classifieds	craigslist	<dbpedia:Craigslist>	0	/m/018c71
+e	yahoo-43_1	craigslist dfw classifieds	dfw	<dbpedia:Dallas%E2%80%93Fort_Worth_metroplex>	0	/m/01wjf0
+e	yahoo-43_2	craigslist	craigslist	<dbpedia:Craigslist>	0	/m/018c71
+e	yahoo-43_3	yahoo! calendar	yahoo! calendar	<dbpedia:Yahoo!_Calendar>	0	/m/09bklj
+e	yahoo-43_4	jim durham dies	jim durham	<dbpedia:Jim_Durham>	0	/m/0h6m_0
+e	yahoo-43_5	luxembourg wedding	luxembourg	<dbpedia:Luxembourg>	0	/m/04g61
+m	yahoo-441_1	liverpool news	liverpool news	<dbpedia:Liverpool_Echo>	0	/m/025tg8y
+m	yahoo-441_2	liverpool news now	liverpool news	<dbpedia:Liverpool_Echo>	0	/m/025tg8y
+e	yahoo-443_1	ner	ner	<dbpedia:Ner>	0	/m/0cv1r2
+e	yahoo-447_1	positive ana
+e	yahoo-448_1	nbc sabong live	nbc	<dbpedia:NBC>	0	/m/05gnf
+e	yahoo-448_2	facebook yahoo.com	facebook	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-448_2	facebook yahoo.com	yahoo.com	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-44_1	lunette menstrual cup
+e	yahoo-44_2	laxatives
+e	yahoo-450_1	you tube video	you tube	<dbpedia:YouTube>	0	/m/09jcvs
+h	yahoo-452_1	dora games	dora	<dbpedia:Dora_the_Explorer>	0	/m/01z_mj
+e	yahoo-452_2	free dora games
+e	yahoo-452_3	free dora games online
+e	yahoo-454_1	dick clark	dick clark	<dbpedia:Dick_Clark>	0	/m/01zlh5
+e	yahoo-455_1	davenport lyons	davenport lyons	<dbpedia:Davenport_Lyons>	0	/m/04lgbvx
+e	yahoo-455_2	bradley cooper	bradley cooper	<dbpedia:Bradley_Cooper>	0	/m/01_xtx
+e	yahoo-455_3	copa airlines	copa airlines	<dbpedia:Copa_Airlines>	0	/m/01rm_v
+e	yahoo-455_4	united airlines	united airlines	<dbpedia:United_Airlines>	0	/m/07y2s
+e	yahoo-456_2	montana lottery
+e	yahoo-456_3	fargo forum	fargo forum	<dbpedia:The_Forum_of_Fargo-Moorhead>	0	/m/035pt2
+e	yahoo-456_4	grand forks herald	grand forks herald	<dbpedia:Grand_Forks_Herald>	0	/m/02zxgs
+e	yahoo-456_6	billings gazette online	billings gazette	<dbpedia:Billings_Gazette>	0	/m/05c8jg
+e	yahoo-458_1	best online shopping sites				
+e	yahoo-458_2	liz claiborne outlet	liz claiborne	<dbpedia:Liz_Claiborne>	0	/m/02p7629
+e	yahoo-458_3	kohl's	kohl's	<dbpedia:Kohl's>	0	/m/037x4r
+e	yahoo-458_4	bed bath and beyond	bed bath and beyond	<dbpedia:Bed_Bath_&_Beyond>	0	/m/02kpnw
+e	yahoo-458_6	snopes	snopes	<dbpedia:Snopes.com>	0	/m/02dkt6
+e	yahoo-458_8	chase bank	chase bank	<dbpedia:Chase_(bank)>	0	/m/0221wv
+e	yahoo-458_9	second reformed church	second reformed church	<dbpedia:Second_Reformed_Dutch_Church_of_Kingston>	0	/m/04f5785
+e	yahoo-459_1	occitaine				
+e	yahoo-45_1	orbitz airline tickets expedia	expedia	<dbpedia:Expedia>	0	/m/025ypk
+e	yahoo-45_1	orbitz airline tickets expedia	orbitz	<dbpedia:Orbitz>	0	/m/039gfz
+e	yahoo-45_2	aarp travel discounts	aarp	<dbpedia:AARP>	0	/m/023_22
+e	yahoo-461_10	south padre island	south padre island	<dbpedia:South_Padre_Island>	0	/m/02188gd
+e	yahoo-461_11	south park	south park	<dbpedia:South_Park>	0	/m/06y_n
+e	yahoo-461_2	porters	porters	<dbpedia:Porter_Hardware>	0	/m/08xvzp
+e	yahoo-461_3	porters hardware	porters hardware	<dbpedia:Porter_Hardware>	0	/m/08xvzp
+e	yahoo-461_6	jennifer lawrence	jennifer lawrence	<dbpedia:Jennifer_Lawrence>	0	/m/02x0dzw
+e	yahoo-461_7	spa dolly
+e	yahoo-461_8	spa moving equipment
+e	yahoo-461_9	hot tub dolly rental
+e	yahoo-462_1	perez hilton	perez hilton	<dbpedia:Perez_Hilton>	0	/m/0dzsp8
+e	yahoo-462_3	rihanna and chris brown	chris brown	<dbpedia:Chris_Brown_(American_entertainer)>	0	/m/07ss8_
+e	yahoo-462_3	rihanna and chris brown	rihanna	<dbpedia:Rihanna>	0	/m/06mt91
+e	yahoo-462_4	monica potter	monica potter	<dbpedia:Monica_Potter>	0	/m/03w2f5
+e	yahoo-463_1	trans siberian orchestra	trans siberian orchestra	<dbpedia:Trans-Siberian_Orchestra>	0	/m/0252np
+e	yahoo-463_2	baker and bonningson auctions
+e	yahoo-463_3	subaru	subaru	<dbpedia:Subaru>	0	/m/01j_h3
+e	yahoo-463_4	bass pro shop	bass pro shop	<dbpedia:Bass_Pro_Shops>	0	/m/04d1d1
+e	yahoo-464_1	price is right model
+e	yahoo-465_1	autozone	autozone	<dbpedia:AutoZone>	0	/m/02z6wl
+e	yahoo-465_2	autozone locations	autozone locations	<dbpedia:AutoZone>	0	/m/02z6wl
+e	yahoo-466_1	highland bakery buckhead	buckhead	<dbpedia:Buckhead_(Atlanta)>	0	/m/03jt93
+e	yahoo-467_1	backdoor
+e	yahoo-467_2	backdoor games
+e	yahoo-468_1	branson airport	branson airport	<dbpedia:Branson_Airport>	0	/m/04jpl99
+e	yahoo-468_10	tire chains
+e	yahoo-468_11	snow chains
+e	yahoo-468_2	homedepot	homedepot	<dbpedia:The_Home_Depot>	0	/m/01zj1t
+e	yahoo-468_3	wal-mart	wal-mart	<dbpedia:Walmart>	0	/m/0841v
+e	yahoo-468_4	kindle fire	kindle fire	<dbpedia:Kindle_Fire>	0	/m/0h65vcz
+e	yahoo-468_5	bass pro	bass pro	<dbpedia:Bass_Pro_Shops>	0	/m/04d1d1
+e	yahoo-468_6	cabelas	cabelas	<dbpedia:Cabela's>	0	/m/06d7g1
+e	yahoo-468_7	wilson leather	wilson leather	<dbpedia:Wilsons_Leather>	0	/m/03p3jdl
+e	yahoo-468_8	gift ideas for college students
+e	yahoo-468_9	slumber party
+e	yahoo-470_1	hotmail
+e	yahoo-470_2	hot
+e	yahoo-470_3	merrill
+e	yahoo-470_4	merrill lynch online	merrill lynch	<dbpedia:Merrill_Lynch>	0	/m/01kb4x
+e	yahoo-471_1	norfolk county registry of deeds	norfolk county	<dbpedia:Norfolk_County,_Massachusetts>	0	/m/0k3kg
+e	yahoo-474_1	noaa	noaa	<dbpedia:National_Oceanic_and_Atmospheric_Administration>	0	/m/09fyq
+e	yahoo-474_10	yahoo maps	yahoo maps	<dbpedia:Yahoo!_Maps>	0	/m/05qx9w
+e	yahoo-474_2	NOAA
+e	yahoo-474_3	bing	bing	<dbpedia:Bing>	0	/m/0bx7rw
+e	yahoo-474_5	mapquest directions driving directions	mapquest	<dbpedia:MapQuest>	0	/m/01t7l5
+h	yahoo-474_6	yahoo mapquest directions driving directions	mapquest	<dbpedia:MapQuest>	0	/m/01t7l5
+h	yahoo-474_6	yahoo mapquest directions driving directions	yahoo	<dbpedia:Yahoo!>	0	/m/019rl6
+h	yahoo-474_7	yahoo mapquest directions driving directions classic	mapquest	<dbpedia:MapQuest>	0	/m/01t7l5
+h	yahoo-474_7	yahoo mapquest directions driving directions classic	yahoo	<dbpedia:Yahoo!>	0	/m/019rl6
+h	yahoo-474_8	yahoo mapquest	mapquest	<dbpedia:MapQuest>	0	/m/01t7l5
+h	yahoo-474_8	yahoo mapquest	yahoo	<dbpedia:Yahoo!>	0	/m/019rl6
+e	yahoo-475_1	cameras
+e	yahoo-475_2	qvc	qvc	<dbpedia:QVC>	0	/m/02c6k_
+h	yahoo-475_3	pittsburgh paints	pittsburgh paints	<dbpedia:PPG_Industries>	0	/m/03nnxj
+e	yahoo-475_4	mohawk carpet	mohawk	<dbpedia:Mohawk_Industries>	0	/m/0c8yk7
+e	yahoo-477_1	faceboom				
+e	yahoo-479_2	$300k in gold dust found
+e	yahoo-479_3	emily squires dies	emily squires	<dbpedia:Emily_Squires>	0	/m/04jc8mr
+h	yahoo-47_1	la grange	la grange	<dbpedia:La_Grange,_Texas>	0	/m/010146
+e	yahoo-47_2	la grange tx	la grange tx	<dbpedia:La_Grange,_Texas>	0	/m/010146
+e	yahoo-47_3	la grange tx funeral homes	la grange tx	<dbpedia:La_Grange,_Texas>	0	/m/010146
+m	yahoo-482_1	area code 309 illinois	area code 309	<dbpedia:Area_code_309>	0	/m/0fbbrt
+m	yahoo-482_1	area code 309 illinois	illinois	<dbpedia:Illinois>	0	/m/03v0t
+e	yahoo-482_2	you
+e	yahoo-483_2	dial-a-smoke crackdown
+e	yahoo-485_2	state of decay	state of decay	<dbpedia:State_of_Decay_(video_game)>	0	/m/0j7mhl5
+e	yahoo-486_1	chamber of commerce charleston sc	charleston sc	<dbpedia:Charleston,_South_Carolina>	0	/m/0gkgp
+e	yahoo-486_2	jicama
+e	yahoo-486_3	sumac
+e	yahoo-487_1	www.nakedjuice.com	www.nakedjuice.com	<dbpedia:Naked_Juice>	0	/m/0cx6n9
+e	yahoo-488_1	freshman player dies
+e	yahoo-489_1	breakdown
+e	yahoo-489_2	demo
+e	yahoo-489_3	demo reel
+e	yahoo-489_5	demo reel music
+e	yahoo-489_6	quicktime pro
+e	yahoo-48_1	amlodipine besylate
+e	yahoo-48_2	amlodipine besylate 5mg
+e	yahoo-490_1	movie theaters kalamazoo mi	kalamazoo mi	<dbpedia:Kalamazoo,_Michigan>	0	/m/0f67f
+m	yahoo-490_2	portage ymca	portage	<dbpedia:Portage,_Michigan>	0	/m/0v9bs
+m	yahoo-490_2	portage ymca	ymca	<dbpedia:YMCA>	0	/m/0lzg7
+e	yahoo-490_3	intersection grand rapids	grand rapids	<dbpedia:Grand_Rapids,_Michigan>	0	/m/0v9qg
+e	yahoo-490_4	jw marriott grand rapids	jw marriott grand rapids	<dbpedia:JW_Marriott_Grand_Rapids>	0	/m/0bs5_29
+e	yahoo-490_5	gagie school kalamazoo	kalamazoo	<dbpedia:Kalamazoo,_Michigan>	0	/m/0f67f
+e	yahoo-490_6	bruno mars treasure	bruno mars	<dbpedia:Bruno_Mars>	0	/m/0bs1g5r
+e	yahoo-490_7	all recipes	all recipes	<dbpedia:Allrecipes.com>	0	/m/0h7qm2l
+e	yahoo-490_8	all recipes lasagna	all recipes	<dbpedia:Allrecipes.com>	0	/m/0h7qm2l
+e	yahoo-490_9	lumineers stubborn love video	lumineers	<dbpedia:The_Lumineers>	0	/m/0jt6vts
+e	yahoo-491_1	king of new york	king of new york	<dbpedia:King_of_New_York>	0	/m/03flsn
+e	yahoo-491_10	moonshiners tv show season 3	moonshiners tv show	<dbpedia:Moonshiners_(TV_series)>	0	/m/0hr02cl
+e	yahoo-491_2	game of thrones	game of thrones	<dbpedia:Game_of_Thrones>	0	/m/0524b41
+e	yahoo-491_3	game of thrones season 3	game of thrones season 3	<dbpedia:Game_of_Thrones_(season_3)>	0	/m/0j9p4b7
+e	yahoo-491_4	ironman coeur d alene
+e	yahoo-491_5	gregg allman	gregg allman	<dbpedia:Gregg_Allman>	0	/m/02jg92
+e	yahoo-491_6	lake hope state park	lake hope state park	<dbpedia:Lake_Hope_State_Park>	0	/m/03c29tn
+e	yahoo-491_7	flipping out	flipping out	<dbpedia:Flipping_Out>	0	/m/02x0j3z
+e	yahoo-491_8	flipping out season 7	flipping out	<dbpedia:Flipping_Out>	0	/m/02x0j3z
+e	yahoo-491_9	moonshiners tv show	moonshiners tv show	<dbpedia:Moonshiners_(TV_series)>	0	/m/0hr02cl
+h	yahoo-492_1	ea ncaa football 2014	ea	<dbpedia:Electronic_Arts>	0	/m/01n073
+h	yahoo-492_1	ea ncaa football 2014	ncaa football	<dbpedia:NCAA_Football_series>	0	/m/08zf1f
+e	yahoo-492_2	perfect pitch	perfect pitch	<dbpedia:Pitch_Perfect>	0	/m/0hr6d1j
+e	yahoo-492_3	superman tv show	superman	<dbpedia:Superman_(TV_series)>	0	/m/0gmp26
+e	yahoo-492_4	dean cain	dean cain	<dbpedia:Dean_Cain>	0	/m/02qjj7
+m	yahoo-492_5	atlanta zoo	atlanta zoo	<dbpedia:Zoo_Atlanta>	0	/m/03q1hw
+e	yahoo-492_6	mark sanchez	mark sanchez	<dbpedia:Mark_Sanchez>	0	/m/0ctxdn
+e	yahoo-492_7	mark sanchez buttfumble video	mark sanchez	<dbpedia:Mark_Sanchez>	0	/m/0ctxdn
+e	yahoo-493_1	ryan gosling	ryan gosling	<dbpedia:Ryan_Gosling>	0	/m/03m6_z
+e	yahoo-493_10	2014 nfl mock draft	nfl	<dbpedia:National_Football_League>	0	/m/059yj
+e	yahoo-493_11	ohio state football recruiting	ohio state	<dbpedia:Ohio_State_University>	0	/m/05krk
+e	yahoo-493_12	okcupid	okcupid	<dbpedia:OkCupid>	0	/m/05rbwm
+e	yahoo-493_13	collegeboard	collegeboard	<dbpedia:College_Board>	0	/m/02spjl
+e	yahoo-493_14	sarah jessica parker	sarah jessica parker	<dbpedia:Sarah_Jessica_Parker>	0	/m/0m66w
+e	yahoo-493_15	milan lucic	milan lucic	<dbpedia:Milan_Lucic>	0	/m/02qnp8b
+e	yahoo-493_16	milan lucic girlfriend	milan lucic	<dbpedia:Milan_Lucic>	0	/m/02qnp8b
+e	yahoo-493_17	carolina panthers schedule	carolina panthers	<dbpedia:Carolina_Panthers>	0	/m/01y3c
+e	yahoo-493_18	concerts in charlotte nc	charlotte nc	<dbpedia:Charlotte,_North_Carolina>	0	/m/0fsb8
+e	yahoo-493_19	timeflies tour	timeflies	<dbpedia:Timeflies>	0	/m/0h_c2z2
+e	yahoo-493_2	channing tatum	channing tatum	<dbpedia:Channing_Tatum>	0	/m/06lvlf
+e	yahoo-493_20	how to reactivate facebook	facebook	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-493_21	back workouts
+e	yahoo-493_3	channing tatum height	channing tatum	<dbpedia:Channing_Tatum>	0	/m/06lvlf
+e	yahoo-493_4	ryan gosling height	ryan gosling	<dbpedia:Ryan_Gosling>	0	/m/03m6_z
+e	yahoo-493_5	ryan reynolds wife	ryan reynolds	<dbpedia:Ryan_Reynolds>	0	/m/036hf4
+e	yahoo-493_6	ryan reynolds height	ryan reynolds	<dbpedia:Ryan_Reynolds>	0	/m/036hf4
+e	yahoo-493_7	snowden girlfriend
+e	yahoo-493_8	sloan entourage	entourage	<dbpedia:Entourage_(TV_series)>	0	/m/03nt59
+e	yahoo-493_9	cascada	cascada	<dbpedia:Cascada>	0	/m/01msxyd
+h	yahoo-494_1	zoomcare portland	portland	<dbpedia:Portland,_Oregon>	0	/m/02frhbc
+e	yahoo-494_10	crate and barrel	crate and barrel	<dbpedia:Crate_&_Barrel>	0	/m/06mcv7
+e	yahoo-494_11	furniture
+e	yahoo-494_2	imdb nashville	nashville	<dbpedia:Nashville_(2012_TV_series)>	0	/m/0j64zb0
+e	yahoo-494_3	connie britton	connie britton	<dbpedia:Connie_Britton>	0	/m/06x0z8
+e	yahoo-494_4	abc.com	abc.com	<dbpedia:American_Broadcasting_Company>	0	/m/0gsg7
+e	yahoo-494_5	celebrity hairstyles
+e	yahoo-494_6	amanda bynes	amanda bynes	<dbpedia:Amanda_Bynes>	0	/m/01cwkq
+e	yahoo-494_7	portland crime map	portland	<dbpedia:Portland,_Oregon>	0	/m/02frhbc
+e	yahoo-494_8	address numerology
+e	yahoo-494_9	atrophy
+e	yahoo-495_1	body wrap weight loss
+e	yahoo-495_10	virago nashville	nashville	<dbpedia:Nashville,_Tennessee>	0	/m/05jbn
+e	yahoo-495_11	chocolate chip cookie recipe
+e	yahoo-495_12	miley cyrus drugs	miley cyrus	<dbpedia:Miley_Cyrus>	0	/m/0bdxs5
+e	yahoo-495_13	elmington park nashville	nashville	<dbpedia:Nashville,_Tennessee>	0	/m/05jbn
+e	yahoo-495_14	nashville catholic churches	nashville	<dbpedia:Nashville,_Tennessee>	0	/m/05jbn
+h	yahoo-495_2	nashville thrift stores	nashville	<dbpedia:Nashville,_Tennessee>	0	/m/05jbn
+h	yahoo-495_2	nashville thrift stores	thrift stores	<dbpedia:Charity_shop>	0	/m/02mpwc
+m	yahoo-495_3	nashville goodwill	goodwill	<dbpedia:Goodwill_Industries>	0	/m/01zthy
+m	yahoo-495_3	nashville goodwill	nashville	<dbpedia:Nashville,_Tennessee>	0	/m/05jbn
+e	yahoo-495_4	nashville skyline	nashville	<dbpedia:Nashville,_Tennessee>	0	/m/05jbn
+e	yahoo-495_5	benefits of earl grey tea
+e	yahoo-495_6	whiskey kitchen nashville	nashville	<dbpedia:Nashville,_Tennessee>	0	/m/05jbn
+e	yahoo-495_7	doma supreme court
+e	yahoo-495_8	nikki moore	nikki moore	<dbpedia:Nikki_Danielle_Moore>	0	/m/0g376f
+e	yahoo-495_9	the bling ring true story
+e	yahoo-496_2	century theaters	century theaters	<dbpedia:Century_Theatres>	0	/m/04t8s2
+m	yahoo-496_3	century theaters san francisco	century theaters	<dbpedia:Century_Theatres>	0	/m/04t8s2
+m	yahoo-496_3	century theaters san francisco	san francisco	<dbpedia:San_Francisco>	0	/m/0d6lp
+e	yahoo-496_4	century 9 san francisco	san francisco	<dbpedia:San_Francisco>	0	/m/0d6lp
+e	yahoo-498_1	rotten tomatoes	rotten tomatoes	<dbpedia:Rotten_Tomatoes>	0	/m/03fkcw
+e	yahoo-499_1	the bachelor	the bachelor	<dbpedia:The_Bachelor_(U.S._TV_series)>	0	/m/017mtb
+e	yahoo-499_2	the east	the east	<dbpedia:The_East_(film)>	0	/m/0hzr9h0
+e	yahoo-499_4	tool	tool	<dbpedia:Tool_(band)>	0	/m/07m7k
+e	yahoo-499_5	steve guttenberg	steve guttenberg	<dbpedia:Steve_Guttenberg>	0	/m/035wq7
+e	yahoo-499_6	redbox	redbox	<dbpedia:Redbox>	0	/m/04d75z
+m	yahoo-499_7	caddo lake texas	caddo lake	<dbpedia:Caddo_Lake>	0	/m/025t0k
+m	yahoo-499_7	caddo lake texas	texas	<dbpedia:Texas>	0	/m/07b_l
+e	yahoo-49_1	webmail
+e	yahoo-4_1	reverbnation	reverbnation	<dbpedia:ReverbNation>	0	/m/047m2fd
+e	yahoo-500_1	clarity nails salem nh	salem nh	<dbpedia:Salem,_New_Hampshire>	0	/m/0xk0j
+e	yahoo-500_2	white house down movie	white house down	<dbpedia:White_House_Down>	0	/m/0n4blqr
+e	yahoo-500_3	loews theater methuen ma	loews theater	<dbpedia:Loews_Cineplex_Entertainment>	0	/m/01zrgc
+e	yahoo-500_3	loews theater methuen ma	methuen ma	<dbpedia:Methuen,_Massachusetts>	0	/m/0tz30
+m	yahoo-500_4	lawrence movie theaters	lawrence	<dbpedia:Lawrence,_Massachusetts>	0	/m/0tz1j
+e	yahoo-500_5	reliefs inn lawrence ma	lawrence ma	<dbpedia:Lawrence,_Massachusetts>	0	/m/0tz1j
+e	yahoo-501_1	is lean cuisine healthy	lean cuisine	<dbpedia:Lean_Cuisine>	0	/m/0fj04x
+e	yahoo-501_10	danielle bradberry bio
+e	yahoo-501_11	the bling ring	the bling ring	<dbpedia:The_Bling_Ring>	0	/m/0kbj11v
+e	yahoo-501_12	white bean chicken chili
+e	yahoo-501_13	met rx protein plus
+e	yahoo-501_14	gnc health store	gnc	<dbpedia:GNC_(store)>	0	/m/060ccp
+e	yahoo-501_15	netflix	netflix	<dbpedia:Netflix>	0	/m/017rf_
+e	yahoo-501_16	movie phone	movie phone	<dbpedia:Moviefone>	0	/m/0bnx7c
+e	yahoo-501_2	tilapia recipes
+e	yahoo-501_3	flat iron steak recipes
+e	yahoo-501_4	hornet
+e	yahoo-501_5	stafflinq login
+e	yahoo-501_6	paula deen	paula deen	<dbpedia:Paula_Deen>	0	/m/05dpch
+e	yahoo-501_7	actress in girl with the dragon tattoo	girl with the dragon tattoo	<dbpedia:The_Girl_with_the_Dragon_Tattoo_(2011_film)>	0	/m/0dgq_kn
+e	yahoo-501_8	rooney mara images	rooney mara	<dbpedia:Rooney_Mara>	0	/m/047cqf3
+e	yahoo-501_9	winner of the voice 2013	the voice 2013	<dbpedia:The_Voice_(U.S._season_4)>	0	/m/0p7kxqj
+m	yahoo-502_1	clearview cinema morristown	clearview cinema	<dbpedia:Clearview_Cinemas>	0	/m/05ztg98
+m	yahoo-502_1	clearview cinema morristown	morristown	<dbpedia:Morristown,_New_Jersey>	0	/m/0xr0t
+e	yahoo-502_10	fernando torres chelsea	chelsea	<dbpedia:Chelsea_F.C.>	0	/m/023fb
+e	yahoo-502_10	fernando torres chelsea	fernando torres	<dbpedia:Fernando_Torres>	0	/m/047kk6
+e	yahoo-502_11	fernando torres	fernando torres	<dbpedia:Fernando_Torres>	0	/m/047kk6
+e	yahoo-502_12	michael essien	michael essien	<dbpedia:Michael_Essien>	0	/m/076fdt
+e	yahoo-502_13	modric	modric	<dbpedia:Luka_Modri%C4%87>	0	/m/08p1qm
+e	yahoo-502_14	soccer transfers
+e	yahoo-502_15	david beckham	david beckham	<dbpedia:David_Beckham>	0	/m/02d9k
+e	yahoo-502_16	jack wilshere	jack wilshere	<dbpedia:Jack_Wilshere>	0	/m/043lbjr
+e	yahoo-502_17	theo walcott	theo walcott	<dbpedia:Theo_Walcott>	0	/m/088nzc
+e	yahoo-502_18	tanio				
+e	yahoo-502_19	tainio	tainio	<dbpedia:Teemu_Tainio>	0	/m/079d39
+e	yahoo-502_2	madison theater	madison	<dbpedia:Madison,_New_Jersey>	0	/m/0xqxl
+e	yahoo-502_3	54 main madison nj	madison nj	<dbpedia:Madison,_New_Jersey>	0	/m/0xqxl
+e	yahoo-502_4	msn news	msn	<dbpedia:MSN>	0	/m/0198jf
+e	yahoo-502_5	salerno gmc	gmc	<dbpedia:GMC_(automobile)>	0	/m/01wxjd
+e	yahoo-502_6	didier drogba	didier drogba	<dbpedia:Didier_Drogba>	0	/m/03_y2f
+e	yahoo-502_7	neymar	neymar	<dbpedia:Neymar>	0	/m/03m5111
+e	yahoo-502_8	santos soccer club	santos soccer club	<dbpedia:Santos_FC>	0	/m/019lxm
+e	yahoo-502_9	wikipedia	wikipedia	<dbpedia:Wikipedia>	0	/m/0d07ph
+e	yahoo-503_1	sodexo email	sodexo	<dbpedia:Sodexo>	0	/m/042phq
+e	yahoo-503_2	subaru forester 2014	subaru forester	<dbpedia:Subaru_Forester>	0	/m/0780p
+e	yahoo-503_3	houstonzoo.org	houstonzoo.org	<dbpedia:Houston_Zoo>	0	/m/01_nc_
+e	yahoo-503_4	yahoo finance search	yahoo finance	<dbpedia:Yahoo!_Finance>	0	/m/02r91ln
+e	yahoo-504_1	stuhrling watches
+e	yahoo-504_2	ebooks
+e	yahoo-504_3	inside out movie	inside out	<dbpedia:Inside_Out_(2011_film)>	0	/m/0h1z21s
+e	yahoo-505_1	carmike cinemas	carmike cinemas	<dbpedia:Carmike_Cinemas>	0	/m/07hfc1
+e	yahoo-506_1	ed begley jr	ed begley jr	<dbpedia:Ed_Begley,_Jr.>	0	/m/03n52j
+e	yahoo-506_2	yossi dina
+e	yahoo-507_1	little rascals cast	little rascals	<dbpedia:The_Little_Rascals_(film)>	0	/m/04hjd4
+e	yahoo-507_10	towers
+e	yahoo-507_12	job search
+e	yahoo-507_13	quotes about life
+e	yahoo-507_14	metro blue line schedule
+e	yahoo-507_15	blue line schedule
+e	yahoo-507_16	los angeles blue line schedule
+e	yahoo-507_18	metro
+e	yahoo-507_19	happy b day cards e-card
+e	yahoo-507_2	comadre	comadre	<dbpedia:Comadre_(band)>	0	/m/01sh6yh
+e	yahoo-507_20	gay marriage
+e	yahoo-507_21	sunset
+e	yahoo-507_22	broken heart quotes
+h	yahoo-507_23	mothers beach in long beach	long beach	<dbpedia:Long_Beach,_California>	0	/m/0nbwf
+e	yahoo-507_24	gmail sign in account	gmail	<dbpedia:Gmail>	0	/m/02q_bk
+e	yahoo-507_3	club pictures
+m	yahoo-507_5	los angeles national forest	angeles national forest	<dbpedia:Angeles_National_Forest>	0	/m/03lx_g
+e	yahoo-507_6	macana
+e	yahoo-507_7	police stick
+e	yahoo-507_8	holding breath underwater
+e	yahoo-507_9	baby cow
+e	yahoo-508_1	cocker spaniel
+e	yahoo-508_2	masters 7 cinemas
+e	yahoo-508_3	under the dome	under the dome	<dbpedia:Under_the_Dome_(TV_series)>	0	/m/0p8zl9g
+e	yahoo-508_4	goodwin games	goodwin games	<dbpedia:The_Goodwin_Games>	0	/m/0jt1gg8
+e	yahoo-508_5	diamantopoulos	diamantopoulos	<dbpedia:Chris_Diamantopoulos>	0	/m/08m6w_
+e	yahoo-508_6	into the woods	into the woods	<dbpedia:Into_the_Woods>	0	/m/03ytw
+e	yahoo-508_7	jackson hurst	jackson hurst	<dbpedia:Jackson_Hurst>	0	/m/07kgbgl
+e	yahoo-509_1	775 area code	775 area code	<dbpedia:Area_code_775>	0	/m/04zdgh
+e	yahoo-509_2	hsv 2
+m	yahoo-509_3	wet n wild anthony	anthony	<dbpedia:Anthony,_Texas>	0	/m/020ydmq
+m	yahoo-509_3	wet n wild anthony	wet n wild	<dbpedia:Wet_N'_Wild_Waterworld>	0	/m/064kyqh
+e	yahoo-509_4	el paso outlet mall	el paso	<dbpedia:El_Paso,_Texas>	0	/m/0100mt
+e	yahoo-509_5	el paso malls	el paso	<dbpedia:El_Paso,_Texas>	0	/m/0100mt
+h	yahoo-509_6	spanish province				
+e	yahoo-509_7	blaze you out trailer
+e	yahoo-509_8	gloating
+e	yahoo-510_1	glock green laser	glock	<dbpedia:Glock>	0	/m/03gscpb
+h	yahoo-510_12	gas grills				
+e	yahoo-510_13	big kahuna beach chair
+e	yahoo-510_14	beach chair
+e	yahoo-510_15	rio beach chair
+e	yahoo-510_16	hautelook	hautelook	<dbpedia:HauteLook>	0	/m/0j3gtvz
+e	yahoo-510_17	expedia	expedia	<dbpedia:Expedia>	0	/m/025ypk
+e	yahoo-510_19	disney store	disney store	<dbpedia:Disney_Store>	0	/m/04503b
+e	yahoo-510_2	new release dvd
+e	yahoo-510_20	sephora	sephora	<dbpedia:Sephora>	0	/m/05nn45
+e	yahoo-510_21	ulta
+e	yahoo-510_4	sirius xm	sirius xm	<dbpedia:Sirius_XM_Radio>	0	/m/02pljbm
+e	yahoo-510_6	paypal	paypal	<dbpedia:PayPal>	0	/m/01btsf
+e	yahoo-510_7	burger king	burger king	<dbpedia:Burger_King>	0	/m/01601q
+e	yahoo-510_8	victoria s secret	victoria s secret	<dbpedia:Victoria's_Secret>	0	/m/02pvjn
+e	yahoo-511_1	google images	google images	<dbpedia:Google_Images>	0	/m/0dj30p
+e	yahoo-511_3	moviefone	moviefone	<dbpedia:Moviefone>	0	/m/0bnx7c
+e	yahoo-512_1	lancaster movie showtimes	lancaster	<dbpedia:Lancaster,_California>	0	/m/0r0jv
+e	yahoo-512_2	homes for sale lancaster ca	lancaster ca	<dbpedia:Lancaster,_California>	0	/m/0r0jv
+e	yahoo-513_1	target stores	target stores	<dbpedia:Target_Corporation>	0	/m/01b39j
+e	yahoo-513_2	roku remote not working	roku	<dbpedia:Roku>	0	/m/084s0s
+e	yahoo-513_3	amc stubs promo code	amc	<dbpedia:AMC_Theatres>	0	/m/02qffj
+e	yahoo-513_4	man of steel 2013	man of steel	<dbpedia:Man_of_Steel_(film)>	0	/m/0gjc4d3
+e	yahoo-513_5	man of steel shirtless	man of steel shirtless	<dbpedia:Man_of_Steel_(film)>	0	/m/0gjc4d3
+e	yahoo-514_1	la criada bien criada	la criada bien criada	<dbpedia:La_criada_bien_criada>	0	/m/09g71pl
+e	yahoo-514_2	female reproductive system
+e	yahoo-514_3	confederations cup 2013
+e	yahoo-514_4	beluga whale
+e	yahoo-515_1	premium rush	premium rush	<dbpedia:Premium_Rush>	0	/m/0cnx_5j
+e	yahoo-516_10	water gardens cinema 6
+e	yahoo-516_11	gi joe retaliation	gi joe retaliation	<dbpedia:G.I._Joe:_Retaliation>	0	/m/0gwlfnb
+e	yahoo-516_12	pb teen pottery barn	pottery barn	<dbpedia:Pottery_Barn>	0	/m/04502n
+e	yahoo-516_13	gymboree play and music	gymboree	<dbpedia:Gymboree>	0	/m/09cv4d
+e	yahoo-516_14	gymboree baby clothes	gymboree	<dbpedia:Gymboree>	0	/m/09cv4d
+e	yahoo-516_15	boh.com	boh.com	<dbpedia:Bank_of_Hawaii>	0	/m/072x4y
+e	yahoo-516_16	wells fargo	wells fargo	<dbpedia:Wells_Fargo>	0	/m/01kdws
+e	yahoo-516_19	hawaiian electric	hawaiian electric	<dbpedia:Hawaiian_Electric_Industries>	0	/m/03p29j1
+m	yahoo-516_2	longs hawaii kai	hawaii kai	<dbpedia:Hawaii_Kai,_Hawaii>	0	/m/02lz3v
+m	yahoo-516_2	longs hawaii kai	longs	<dbpedia:Longs_Drugs>	0	/m/087rmw
+e	yahoo-516_20	exxon gas station	exxon	<dbpedia:Exxon>	0	/m/02s6k
+e	yahoo-516_24	hgea union
+e	yahoo-516_3	waimanalo feed supply	waimanalo	<dbpedia:Waim%C4%81nalo,_Hawaii>	0	/m/0s03l
+e	yahoo-516_4	dinar trade
+e	yahoo-516_5	keolu theaters
+e	yahoo-516_6	fandango movies times	fandango	<dbpedia:Fandango_(ticket_service)>	0	/m/02slcx
+e	yahoo-516_7	kahala theaters	kahala	<dbpedia:K%C4%81hala,_Hawaii>	0	/m/0f83rj
+e	yahoo-516_8	fandango.com	fandango.com	<dbpedia:Fandango_(ticket_service)>	0	/m/02slcx
+e	yahoo-516_9	kaneohe theaters	kaneohe	<dbpedia:Kaneohe,_Hawaii>	0	/m/0r_xc
+e	yahoo-517_1	yahoo movies	yahoo movies	<dbpedia:Yahoo!_Movies>	0	/m/02p37dr
+e	yahoo-517_2	mom movie reviews
+e	yahoo-517_3	epicurious	epicurious	<dbpedia:Epicurious>	0	/m/025y7vc
+h	yahoo-517_4	epic	epic	<dbpedia:Epic_(film)>	0	/m/0hhgh69
+e	yahoo-517_5	dr. ben carson	dr. ben carson	<dbpedia:Ben_Carson>	0	/m/03znkl
+e	yahoo-518_2	roku purple screen	roku	<dbpedia:Roku>	0	/m/084s0s
+e	yahoo-518_3	angel porrino	angel porrino	<dbpedia:Angel_Porrino>	0	/m/0dgnd21
+e	yahoo-518_4	best flea bomb
+e	yahoo-518_5	peanut butter cookies without brown sugar
+e	yahoo-518_6	how many teaspoons in 1 4 cup
+e	yahoo-518_7	the glades season 3	the glades	<dbpedia:The_Glades_(TV_series)>	0	/m/0ch2l5_
+e	yahoo-518_8	kristen renton	kristen renton	<dbpedia:Kristen_Renton>	0	/m/04112n9
+e	yahoo-519_1	tron actress	tron	<dbpedia:Tron:_Legacy>	0	/m/05zy2cy
+e	yahoo-519_2	olivia wilde	olivia wilde	<dbpedia:Olivia_Wilde>	0	/m/04x1_w
+e	yahoo-519_3	heat vs pacers 2013 game 6	heat	<dbpedia:Miami_Heat>	0	/m/0jm2v
+e	yahoo-519_3	heat vs pacers 2013 game 6	pacers	<dbpedia:Indiana_Pacers>	0	/m/0jm9w
+e	yahoo-519_4	hydrocodone chlorphen er suspension
+e	yahoo-519_5	amox tr-k clv
+e	yahoo-519_6	pat riley	pat riley	<dbpedia:Pat_Riley>	0	/m/01zdkg
+e	yahoo-519_7	xanax
+e	yahoo-519_8	buy lunesta
+e	yahoo-51_1	best penpal sites				
+e	yahoo-521_1	half price books	half price books	<dbpedia:Half_Price_Books>	0	/m/08gfjk
+e	yahoo-521_2	imdb	imdb	<dbpedia:Internet_Movie_Database>	0	/m/0873c4
+h	yahoo-521_3	little treasures sale louisville ky	little treasures	<dbpedia:Little_Treasure>	0	/m/0gg62d9
+h	yahoo-521_3	little treasures sale louisville ky	louisville ky	<dbpedia:Louisville,_Kentucky>	0	/m/0f__1
+e	yahoo-521_4	baby boy names
+e	yahoo-523_1	rocky balboa	rocky balboa	<dbpedia:Rocky_Balboa>	0	/m/0c9qty
+e	yahoo-523_10	m.i.a	m.i.a	<dbpedia:M.I.A._(artist)>	0	/m/01vt5c_
+e	yahoo-523_11	christine o donnell	christine o donnell	<dbpedia:Christine_O'Donnell>	0	/m/04mxh0p
+e	yahoo-523_12	best snl hosts	snl	<dbpedia:Saturday_Night_Live>	0	/m/039cq4
+h	yahoo-523_13	new york governor patterson	new york	<dbpedia:New_York>	0	/m/059rby
+e	yahoo-523_14	the moon titan
+e	yahoo-523_15	what is the longest running tv show
+e	yahoo-523_17	taboo black eye peas	black eye peas	<dbpedia:The_Black_Eyed_Peas>	0	/m/01dwrc
+e	yahoo-523_17	taboo black eye peas	taboo	<dbpedia:Taboo_(rapper)>	0	/m/07p706
+e	yahoo-523_18	vanessa bayer	vanessa bayer	<dbpedia:Vanessa_Bayer>	0	/m/0czb5nf
+e	yahoo-523_19	scarlett johansson	scarlett johansson	<dbpedia:Scarlett_Johansson>	0	/m/02114t
+e	yahoo-523_2	timothy mcveigh	timothy mcveigh	<dbpedia:Timothy_McVeigh>	0	/m/07rp8
+e	yahoo-523_20	example reference page
+e	yahoo-523_21	example reference page for resume
+e	yahoo-523_22	how many references on a resume
+e	yahoo-523_23	concord nc zip code	concord nc	<dbpedia:Concord,_North_Carolina>	0	/m/0ydxr
+e	yahoo-523_24	capitalone.com	capitalone.com	<dbpedia:Capital_One>	0	/m/04c_q_
+e	yahoo-523_25	subway menu	subway	<dbpedia:Subway_(restaurant)>	0	/m/0f7q4
+m	yahoo-523_26	bbc sherlock episodes	bbc	<dbpedia:BBC_One>	0	/m/01f2w0
+m	yahoo-523_26	bbc sherlock episodes	sherlock	<dbpedia:Sherlock_(TV_series)>	0	/m/053x8hr
+e	yahoo-523_3	terry nichols	terry nichols	<dbpedia:Terry_Nichols>	0	/m/022wmh
+e	yahoo-523_4	dan rather	dan rather	<dbpedia:Dan_Rather>	0	/m/0pykc
+e	yahoo-523_5	connie chung	connie chung	<dbpedia:Connie_Chung>	0	/m/011zfz
+e	yahoo-523_6	ellen degeneres	ellen degeneres	<dbpedia:Ellen_DeGeneres>	0	/m/01gbbz
+e	yahoo-523_7	louise lasser	louise lasser	<dbpedia:Louise_Lasser>	0	/m/06v76c
+e	yahoo-523_8	kristen wiig	kristen wiig	<dbpedia:Kristen_Wiig>	0	/m/08vr94
+e	yahoo-523_9	lmfao	lmfao	<dbpedia:LMFAO>	0	/m/05mw66v
+m	yahoo-524_1	yukon, ok	yukon, ok	<dbpedia:Yukon,_Oklahoma>	0	/m/0z4ky
+e	yahoo-524_2	oklahoma city, ok	oklahoma city, ok	<dbpedia:Oklahoma_City>	0	/m/0fvzg
+e	yahoo-524_4	amanda bynes google	amanda bynes	<dbpedia:Amanda_Bynes>	0	/m/01cwkq
+e	yahoo-524_5	part of leg
+e	yahoo-524_6	the silver linings playbook	silver linings playbook	<dbpedia:Silver_Linings_Playbook>	0	/m/0h95927
+e	yahoo-525_1	hot tug
+e	yahoo-525_2	now you see me	now you see me	<dbpedia:Now_You_See_Me_(film)>	0	/m/0h8860l
+e	yahoo-525_3	world war z movie	world war z	<dbpedia:World_War_Z_(film)>	0	/m/0gyvj60
+e	yahoo-525_4	now you see me rotten tomatoes	now you see me	<dbpedia:Now_You_See_Me_(film)>	0	/m/0h8860l
+e	yahoo-525_5	world war z movie review	world war z	<dbpedia:World_War_Z_(film)>	0	/m/0gyvj60
+e	yahoo-526_1	portland	portland	<dbpedia:Portland,_Oregon>	0	/m/02frhbc
+e	yahoo-52_1	sheen offers role	sheen	<dbpedia:Charlie_Sheen>	0	/m/01pllx
+e	yahoo-53_1	facebook	facebook	<dbpedia:Facebook>	0	/m/02y1vz
+e	yahoo-55_1	amazon black friday 2012	amazon	<dbpedia:Amazon.com>	0	/m/0mgkg
+e	yahoo-55_1	amazon black friday 2012	black friday	<dbpedia:Black_Friday_(shopping)>	0	/m/0200gn
+m	yahoo-59_1	craigslist n ms	craigslist	<dbpedia:Craigslist>	0	/m/018c71
+m	yahoo-59_1	craigslist n ms	ms	<dbpedia:Mississippi>	0	/m/04tgp
+e	yahoo-5_1	skype	skype	<dbpedia:Skype>	0	/m/026wfg
+e	yahoo-5_2	skype for mac	mac	<dbpedia:Mac_OS>	0	/m/0511f
+e	yahoo-5_2	skype for mac	skype	<dbpedia:Skype>	0	/m/026wfg
+e	yahoo-64_1	lolo jones world cup	lolo jones	<dbpedia:Lolo_Jones>	0	/m/02ph3kq
+e	yahoo-66_1	sunbeam mixmaster	sunbeam	<dbpedia:Sunbeam_Products>	0	/m/067m_y
+e	yahoo-67_1	cyndi lauper lyrics	cyndi lauper	<dbpedia:Cyndi_Lauper>	0	/m/01wf86y
+e	yahoo-67_2	cyndi lauper all through the night	cyndi lauper	<dbpedia:Cyndi_Lauper>	0	/m/01wf86y
+e	yahoo-67_3	macy cyber monday	macy	<dbpedia:Macy's>	0	/m/01pkxd
+e	yahoo-67_4	she's always a woman lyrics
+e	yahoo-67_5	always something there to remind me lyrics
+e	yahoo-68_2	faqcebooklogin				
+e	yahoo-69_1	alumni
+m	yahoo-6_1	louisville courier journal	courier journal	<dbpedia:The_Courier-Journal>	0	/m/03qyz_
+m	yahoo-6_1	louisville courier journal	louisville	<dbpedia:Louisville,_Kentucky>	0	/m/0f__1
+e	yahoo-6_10	atlantic coast conference	atlantic coast conference	<dbpedia:Atlantic_Coast_Conference>	0	/m/0kdtf
+e	yahoo-6_11	big east	big east	<dbpedia:Big_East_Conference_(1979%E2%80%932013)>	0	/m/0kdtw
+e	yahoo-6_2	ncaa football scores	ncaa football	<dbpedia:College_football>	0	/m/01zff
+e	yahoo-6_3	syracuse.com	syracuse.com	<dbpedia:The_Post-Standard>	0	/m/03sg_q
+e	yahoo-6_4	rochester democrat and chronicle	democrat and chronicle	<dbpedia:Democrat_and_Chronicle>	0	/m/03364q
+e	yahoo-6_4	rochester democrat and chronicle	rochester	<dbpedia:Rochester,_New_York>	0	/m/0y1rf
+e	yahoo-6_5	onondaga community college	onondaga community college	<dbpedia:Onondaga_Community_College>	0	/m/02wc3d
+e	yahoo-6_6	american hockey league	american hockey league	<dbpedia:American_Hockey_League>	0	/m/01ddbl
+e	yahoo-6_7	albany times union	albany times union	<dbpedia:Times_Union_(Albany)>	0	/m/082rlw
+h	yahoo-6_8	minneapolis star tribune	minneapolis	<dbpedia:Minneapolis>	0	/m/0fpzwf
+h	yahoo-6_8	minneapolis star tribune	star tribune	<dbpedia:Star_Tribune>	0	/m/01nf4f
+e	yahoo-6_9	southeast conference	southeast conference	<dbpedia:Southeastern_Conference>	0	/m/0kml_
+e	yahoo-70_1	philadelphia eagles	philadelphia eagles	<dbpedia:Philadelphia_Eagles>	0	/m/05tg3
+e	yahoo-70_2	cowboys fans petition obama	cowboys	<dbpedia:Dallas_Cowboys>	0	/m/02896
+e	yahoo-70_2	cowboys fans petition obama	obama	<dbpedia:Barack_Obama>	0	/m/02mjmr
+e	yahoo-71_1	mail
+e	yahoo-71_2	eithad				
+e	yahoo-72_1	msn	msn	<dbpedia:MSN>	0	/m/0198jf
+e	yahoo-72_3	3riversfcu credit union
+e	yahoo-73_1	www.capitalonebank.com	www.capitalonebank.com	<dbpedia:Capital_One>	0	/m/04c_q_
+e	yahoo-73_2	dolly parton shoots down nickname	dolly parton	<dbpedia:Dolly_Parton>	0	/m/02f1c
+e	yahoo-73_3	Dolly Parton shoots down nickname
+e	yahoo-73_4	capital one	capital one	<dbpedia:Capital_One>	0	/m/04c_q_
+e	yahoo-74_1	dick morris	dick morris	<dbpedia:Dick_Morris>	0	/m/0435d4
+e	yahoo-74_2	breitbart
+e	yahoo-74_3	swv	swv	<dbpedia:SWV>	0	/m/02fljs
+e	yahoo-74_4	home depot	home depot	<dbpedia:The_Home_Depot>	0	/m/01zj1t
+e	yahoo-74_5	homemade halloween costumes	halloween	<dbpedia:Halloween>	0	/m/03lq2
+e	yahoo-74_6	homemade pizza recipes
+e	yahoo-74_7	homemade potato chips
+e	yahoo-74_8	homemade pork sausage
+e	yahoo-77_1	asthma
+e	yahoo-78_1	genting awana hotel	genting	<dbpedia:Genting_Highlands>	0	/m/02d4tc
+h	yahoo-78_10	adobe pdf converter free download	adobe pdf	<dbpedia:Adobe_Acrobat>	0	/m/01cyrg
+h	yahoo-78_11	adobe pdf converter driver	adobe pdf	<dbpedia:Adobe_Acrobat>	0	/m/01cyrg
+h	yahoo-78_12	adobe pdf converter to word	adobe pdf	<dbpedia:Adobe_Acrobat>	0	/m/01cyrg
+h	yahoo-78_12	adobe pdf converter to word	word	<dbpedia:Microsoft_Word>	0	/m/052yv
+e	yahoo-78_13	google	google	<dbpedia:Google>	0	/m/045c7b
+e	yahoo-78_14	google maps	google maps	<dbpedia:Google_Maps>	0	/m/055t58
+e	yahoo-78_15	google search	google search	<dbpedia:Google_Search>	0	/m/0387r
+e	yahoo-78_16	google map	google map	<dbpedia:Google_Maps>	0	/m/055t58
+e	yahoo-78_17	paradigm mall kelana jaya	kelana jaya	<dbpedia:Kelana_Jaya>	0	/m/0d449n
+e	yahoo-78_18	paradigm mall facebook				
+e	yahoo-78_19	paradigm mall gsc	gsc	<dbpedia:Golden_Screen_Cinemas>	0	/m/0d85ms
+e	yahoo-78_2	bus
+e	yahoo-78_20	paradigm mall kuala lumpur	kuala lumpur	<dbpedia:Kuala_Lumpur>	0	/m/049d1
+e	yahoo-78_21	paradigm mall malaysia	malaysia	<dbpedia:Malaysia>	0	/m/09pmkv
+e	yahoo-78_22	gsc	gsc	<dbpedia:Golden_Screen_Cinemas>	0	/m/0d85ms
+e	yahoo-78_3	pdf converter
+e	yahoo-78_4	pdf converter online
+h	yahoo-78_5	adobe pdf converter	adobe pdf	<dbpedia:Adobe_Acrobat>	0	/m/01cyrg
+h	yahoo-78_6	adobe pdf converter printer	adobe pdf	<dbpedia:Adobe_Acrobat>	0	/m/01cyrg
+h	yahoo-78_7	adobe pdf converter downloads	adobe pdf	<dbpedia:Adobe_Acrobat>	0	/m/01cyrg
+h	yahoo-78_8	free adobe pdf converter	adobe pdf	<dbpedia:Adobe_Acrobat>	0	/m/01cyrg
+h	yahoo-78_9	free adobe pdf converter downloads	adobe pdf	<dbpedia:Adobe_Acrobat>	0	/m/01cyrg
+e	yahoo-79_1	jay cutler injury	jay cutler	<dbpedia:Jay_Cutler_(American_football)>	0	/m/097hft
+e	yahoo-79_2	led zeppelin	led zeppelin	<dbpedia:Led_Zeppelin>	0	/m/04k05
+e	yahoo-80_1	rover's big discovery
+e	yahoo-81_1	mlive	mlive	<dbpedia:Booth_Newspapers>	0	/m/06q761
+m	yahoo-83_1	switch back to classic mail				
+m	yahoo-83_2	how to switch back to classic mail				
+e	yahoo-84_1	cartoon
+e	yahoo-84_2	deals and steals	deals and steals	<dbpedia:Steals_and_Deals>	0	/m/02vpgy5
+e	yahoo-84_3	tim tebow rb	tim tebow	<dbpedia:Tim_Tebow>	0	/m/0g7km1
+e	yahoo-84_4	yahoo! travel	yahoo! travel	<dbpedia:Yahoo!_Travel>	0	/m/0j9ngyj
+e	yahoo-84_5	tim burton	tim burton	<dbpedia:Tim_Burton>	0	/m/07rd7
+e	yahoo-84_6	tim burton characters	tim burton	<dbpedia:Tim_Burton>	0	/m/07rd7
+e	yahoo-84_7	tim burton corpse bride	corpse bride	<dbpedia:Corpse_Bride>	0	/m/050xxm
+e	yahoo-84_7	tim burton corpse bride	tim burton	<dbpedia:Tim_Burton>	0	/m/07rd7
+e	yahoo-84_8	tim burton movies	tim burton	<dbpedia:Tim_Burton>	0	/m/07rd7
+e	yahoo-85_1	earthquake hits japan	japan	<dbpedia:Japan>	0	/m/03_3d
+e	yahoo-86_1	power bright inverters
+e	yahoo-86_2	natural gas bbq conversion
+e	yahoo-88_1	trendy short hairstyles 2012
+e	yahoo-88_2	trendy hairstyles 2012
+e	yahoo-89_1	google interpreter english to spanish	google interpreter	<dbpedia:Google_Translate>	0	/m/025sndk
+e	yahoo-89_2	google translation english to spanish	google translation	<dbpedia:Google_Translate>	0	/m/025sndk
+e	yahoo-8_1	yahoo mail	yahoo mail	<dbpedia:Yahoo!_Mail>	0	/m/02_7q2
+e	yahoo-90_1	thepost				
+e	yahoo-90_2	cvs	cvs	<dbpedia:CVS_Pharmacy>	0	/m/02rx13
+e	yahoo-91_2	latest lakers rumors	lakers	<dbpedia:Los_Angeles_Lakers>	0	/m/0jmk7
+e	yahoo-91_3	cal lottery
+e	yahoo-92_1	youtube	youtube	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-93_10	citicards sign on page	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_11	citicards credit cards	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_12	citicards click to pay	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_13	citicards online bill pay	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_14	citicards online login	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_15	citicards thank you points	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_16	citicards thank you rewards	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_17	ap poll top 25
+e	yahoo-93_18	china aircraft carrier
+e	yahoo-93_2	bangladesh	bangladesh	<dbpedia:Bangladesh>	0	/m/0162b
+e	yahoo-93_21	youtube broadcast yourself	youtube	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-93_22	youtube downloader	youtube	<dbpedia:YouTube>	0	/m/09jcvs
+e	yahoo-93_4	circuit city	circuit city	<dbpedia:Circuit_City>	0	/m/03rtqs
+e	yahoo-93_5	citibank	citibank	<dbpedia:Citibank>	0	/m/01hlzm
+e	yahoo-93_6	citi	citi	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_7	citicards	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-93_8	citizens bank	citizens bank	<dbpedia:Citizens_Republic_Bancorp>	0	/m/0c9jz4
+e	yahoo-93_9	citicards sign on	citicards	<dbpedia:Citigroup>	0	/m/01dfb6
+e	yahoo-94_1	southeast sun
+h	yahoo-95_1	virginia tattoos	virginia tattoos	<dbpedia:Virginia_International_Tattoo>	0	/m/03c9q4m
+m	yahoo-96_1	word 2007 to 2003 converter	word	<dbpedia:Microsoft_Word>	0	/m/052yv
+e	yahoo-96_2	nokia lumia 920	nokia lumia 920	<dbpedia:Nokia_Lumia_920>	0	/m/0m0mdcm
+e	yahoo-97_1	usps.com	usps.com	<dbpedia:United_States_Postal_Service>	0	/m/0dcms
+e	yahoo-99_1	honda pilot 2014	honda pilot	<dbpedia:Honda_Pilot>	0	/m/04grkv
+e	yahoo-99_2	future honda pilot 2014	honda pilot	<dbpedia:Honda_Pilot>	0	/m/04grkv
+e	yahoo-99_3	future honda pilot	honda pilot	<dbpedia:Honda_Pilot>	0	/m/04grkv
+e	yahoo-9_1	google,com	google,com	<dbpedia:Google>	0	/m/045c7b
