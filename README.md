@@ -51,7 +51,7 @@ Qrel files are categorised into two groups:
 - *Set-based* under ``qrels/IF/``: The qrels are used to evaluate interpretation finding using set-based metrics. The format is compatible with the evaluation scripts and used for results presented in Tables 5 and 6 of the paper.
 
 
-## Baseline runs
+## Runs
 
 The baseline runs are categorised into three groups:
 
