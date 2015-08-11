@@ -33,7 +33,7 @@ The test collection is under ``Y-ERD/`` and contains the following files:
 - ``common_queries_with_ERD.txt``: Queries that are in common between Y-ERD and ERD-dev/test. These queries are removed from Y-ERD to make it possible to train systems using Y-ERD and evaluate them using ERD-dev/test.
 
 
-*Note:* All files are tab-delimited. The tsv files include a header line, which labels each field.
+*Note:* All files are tab-delimited. The .tsv files contain a header line, which labels each field.
 
 
 ## Evaluation scripts
@@ -47,7 +47,7 @@ The test collection is under ``Y-ERD/`` and contains the following files:
 
 Qrel files are categorised into two groups:
 
-- *Rank-based* under ``qrels/SM/``: The qrels are meant for evaluation semantic mapping using rank-based metrics. They are in standard TREC format. Specifically, the results of Table 4 in the paper are evaluated against ``qrels_SM_YSQLE.txt``.
+- *Rank-based* under ``qrels/SM/``: The qrels are meant for evaluating semantic mapping using rank-based metrics. They are in standard TREC format. Specifically, the results of Table 4 in the paper are evaluated against ``qrels_SM_YSQLE.txt``.
 - *Set-based* under ``qrels/IF/``: The qrels are used to evaluate interpretation finding using set-based metrics. The format is compatible with the evaluation scripts and used for results presented in Tables 5 and 6 of the paper.
 
 
