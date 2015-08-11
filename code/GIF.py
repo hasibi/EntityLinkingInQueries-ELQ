@@ -30,7 +30,6 @@ Notes:
 from __future__ import division
 import argparse
 import csv
-from nordlys.erd.ml.cer_instances import CERInstances
 
 
 class GIF(object):
@@ -39,7 +38,6 @@ class GIF(object):
         score_th: score threshold
         query_annots: candidate entity ranking annotations for a query.
     """
-    DEBUG = 0
 
     def __init__(self, score_th, query_annots):
         self.score_th = score_th
@@ -53,8 +51,6 @@ class GIF(object):
         """
         self.prune()
         self.del_containment_mentions()
-        if self.DEBUG:
-            print self.query_annots
         interpretations = self.form_interpretations()
         return interpretations
 
@@ -71,7 +67,7 @@ class GIF(object):
         """Deletes containment mentions, if they have lower score."""
         valid_annots = dict()
         valid_mens = set()
-        for (men, en), score in sorted(self.query_annots.items(), key=lambda item: (item[1], len(item[0][0])), reverse=True):
+        for (men, en), score in sorted(self.query_annots.items(), key=lambda item: item[1], reverse=True):
             containment = False
             for valid_men in valid_mens:    
                 if (men in valid_men) or (valid_men in men):
@@ -120,7 +116,7 @@ class GIF(object):
             return True
 
 
-def to_evaluation_foramt(interprets):
+def to_evaluation_format(interprets):
     """
     Converts interpretations to the proper format for evaluation scripts.
 
@@ -174,7 +170,7 @@ def main():
         interprets[qid] = GIF(args.threshold, query_annots).process_query()
 
     # Converts query interpretations to the proper format for evaluation scripts.
-    eval_str = to_evaluation_foramt(interprets)
+    eval_str = to_evaluation_format(interprets)
     output_file = args.input[:args.input.rfind(".")] + "-GIF-th" + str(args.threshold) + ".txt"
     open(output_file, "w").write(eval_str)
     print "Output file:", output_file

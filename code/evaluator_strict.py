@@ -1,6 +1,6 @@
 """
 =============================================================================
-This script evaluates query interpretations based on Sctrict evaluation metrics;
+This script evaluates query interpretations based on the strict evaluation metrics;
 macro averaging of precision, recall and F-measure.
 
 For detailed information see:
@@ -16,12 +16,12 @@ e.g.
 =============================================================================
 
 Notes:
-1. Qrel and Result files are in the same format:
+1. Qrel and result files are in the same format:
      - Tab-separated file, where each line indicates an interpretation set:
          qid    confidence_score   en1 en2 ...
 
 2. Qrel file contains all queries, even the ones without any annotation.
-    Qrel files can be found under: qrels/set_based/
+    Qrel files can be found under: qrels/IF/
 
 2. Results files of our experiments can be found under: runs/IF/
 
@@ -51,7 +51,7 @@ class Evaluator(object):
         Groups the lines by query id.
 
         :param file_lines: list of lines [[qid, label, en_id, ...], ...]
-        :return: {qid: [iset0, iset1, ..], ..}; isets are sets of entity ids.
+        :return: {qid: [iset0, iset1, ..], ..}; isets are sets of entity ids
         """
         grouped_inters = defaultdict(list)
         for cols in file_lines:
@@ -75,7 +75,8 @@ class Evaluator(object):
         """
         Evaluates all queries and calculates total precision, recall and F1 (macro averaging).
 
-        :return  Total precision, recall, and F1 for all queries.
+        :param eval_query_func: A function that takes qrel and results for a query and returns evaluation metrics
+        :return  Total precision, recall, and F1 for all queries
         """
         queries_eval = {}
         total_prec, total_rec, total_f = 0, 0, 0
@@ -107,7 +108,7 @@ def erd_eval_query(query_qrels, query_results):
 
     :param query_qrels: Query interpretations from Qrel [{en1, en2, ..}, ..]
     :param query_results: Query interpretations from result file [{en1, en2, ..}, ..]
-    :return: precision, recall, and F1 for a query.
+    :return: precision, recall, and F1 for a query
     """
     tp = 0  # correct
     fn = 0  # missed
@@ -142,7 +143,7 @@ def find_item(item_to_find, items_list):
     """
     Returns True if an item is found in the item list.
 
-    :param item_to_find: item to find
+    :param item_to_find: item to be found
     :param items_list: list of items to search in
     :return boolean
     """
@@ -159,6 +160,7 @@ def parse_file(file_name):
     """
     Parses file and returns the positive instances for each query.
 
+    :param file_name: Name of file to be parsed
     :return list of lines [[qid, label, en_id, ...], ...]
     """
     file_lines = []

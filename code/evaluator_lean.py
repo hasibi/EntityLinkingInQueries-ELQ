@@ -1,7 +1,7 @@
 """
 =============================================================================
 
-This script evaluates query interpretations based on Lean evaluation metrics;
+This script evaluates query interpretations based on the lean evaluation metrics;
 macro averaging of precision, recall and F-measure.
 
 Lean evaluation metrics are average of interpretation_based and entity-based metrics:
@@ -30,7 +30,7 @@ Notes:
          qid    confidence_score   en1 en2 ...
 
 2. Qrel file contains all queries, even the ones without any annotation.
-    Qrel files can be found under: qrels/set_based/
+    Qrel files can be found under: qrels/IF/
 
 2. Results files of our experiments can be found under: runs/IF/
 
@@ -41,7 +41,7 @@ Notes:
 
 from __future__ import division
 import sys
-from evaluator_erd import Evaluator, parse_file, erd_eval_query
+from evaluator_strict import Evaluator, parse_file, erd_eval_query
 
 
 def lean_eval_query(query_qrels, query_results):

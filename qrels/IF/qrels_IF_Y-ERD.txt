@@ -1,0 +1,2409 @@
+trec-2010-100_1
+trec-2010-100_2
+trec-2010-101_1	1	/m/0p4s9
+trec-2010-102_2	1	/m/02mjmr
+trec-2010-103_1
+trec-2010-103_2
+trec-2010-104_1	1	/m/0xn7b
+trec-2010-104_2	1	/m/0xn7b
+trec-2010-105_1	1	/m/0gyytc
+trec-2010-105_2	1	/m/0gyytc
+trec-2010-106_1
+trec-2010-106_2
+trec-2010-108_1
+trec-2010-109_1	1	/m/04r_8
+trec-2010-109_2	1	/m/04xd0g
+trec-2010-10_1
+trec-2010-10_2
+trec-2010-110_1
+trec-2010-110_2
+trec-2010-111_1	1	/m/02mjmr	/m/036vk_	/m/03bxbl6
+trec-2010-111_2	1	/m/036vk_
+trec-2010-112_1	1	/m/02_zt7
+trec-2010-112_2	1	/m/02_zt7
+trec-2010-113_2
+trec-2010-114_2
+trec-2010-115_1
+trec-2010-115_2
+trec-2010-117_1
+trec-2010-117_2
+trec-2010-118_2	1	/m/02mjmr
+trec-2010-119_1	1	/m/0xwj
+trec-2010-119_2	1	/m/0xwj
+trec-2010-11_1
+trec-2010-11_2
+trec-2010-120_1
+trec-2010-120_2
+trec-2010-121_1	1	/m/0p4s9
+trec-2010-121_2	1	/m/0p4s9
+trec-2010-122_1	1	/m/047b9vj
+trec-2010-122_2	1	/m/047lkx
+trec-2010-123_1
+trec-2010-123_2
+trec-2010-124_1	1	/m/07z1_0
+trec-2010-124_2	1	/m/01fmw0
+trec-2010-125_1
+trec-2010-125_2
+trec-2010-126_1	1	/m/03p231c
+trec-2010-127_1
+trec-2010-127_2
+trec-2010-128_1
+trec-2010-128_2
+trec-2010-129_1
+trec-2010-129_2
+trec-2010-12_1	1	/m/02y2g0
+trec-2010-12_2
+trec-2010-130_1
+trec-2010-130_2	1	/m/077w0b
+trec-2010-131_1
+trec-2010-131_2
+trec-2010-132_1	1	/m/02fzs
+trec-2010-132_2	1	/m/02fzs
+trec-2010-133_1
+trec-2010-133_2
+trec-2010-134_1
+trec-2010-134_2
+trec-2010-135_1
+trec-2010-135_2	1	/m/03p231c
+trec-2010-136_1
+trec-2010-136_2
+trec-2010-137_1
+trec-2010-137_2
+trec-2010-138_1
+trec-2010-138_2
+trec-2010-139_1
+trec-2010-139_2
+trec-2010-13_1
+trec-2010-13_2
+trec-2010-141_1
+trec-2010-141_2
+trec-2010-142_2	1	/m/04rrx
+trec-2010-143_2	1	/m/02mjmr
+trec-2010-144_1
+trec-2010-145_1	1	/m/04127bj
+trec-2010-145_2	1	/m/02y2g0
+trec-2010-146_1	1	/m/0xwj
+trec-2010-146_2	1	/m/01scmq
+trec-2010-147_1	1	/m/0jdd
+trec-2010-147_2	1	/m/0jdd
+trec-2010-148_1
+trec-2010-148_2	1	/m/0vmt
+trec-2010-149_2
+trec-2010-14_1
+trec-2010-14_2
+trec-2010-150_1
+trec-2010-150_2
+trec-2010-15_2	1	/m/02761b3
+trec-2010-16_1	1	/m/02fzs
+trec-2010-16_2	1	/m/02fzs
+trec-2010-17_1
+trec-2010-17_2
+trec-2010-18_1
+trec-2010-18_2
+trec-2010-19_1
+trec-2010-19_2
+trec-2010-1_1
+trec-2010-1_2
+trec-2010-20_2
+trec-2010-21_1	1	/m/01s73z
+trec-2010-21_2
+trec-2010-22_2	1	/m/0g5lhl7	/m/04gdn3
+trec-2010-23_2	1	/m/066kp
+trec-2010-24_1
+trec-2010-24_2
+trec-2010-25_1	1	/m/0gdjj
+trec-2010-25_2	1	/m/0gdjj
+trec-2010-26_1
+trec-2010-26_2
+trec-2010-27_1	1	/m/07yw2
+trec-2010-27_2	1	/m/036_ws
+trec-2010-28_1	1	/m/02z6wl
+trec-2010-29_1
+trec-2010-29_2
+trec-2010-2_1	1	/m/0xn7b
+trec-2010-2_2	1	/m/0xn7b
+trec-2010-30_1	1	/m/02j07k
+trec-2010-30_2	1	/m/02j07k
+trec-2010-31_1
+trec-2010-31_2
+trec-2010-32_1
+trec-2010-32_2
+trec-2010-33_1	1	/m/018c_r
+trec-2010-33_2	1	/m/018c_r
+trec-2010-34_1	1	/m/0kc6x	/m/05jvx
+trec-2010-34_2	1	/m/05jvx
+trec-2010-35_1
+trec-2010-35_2
+trec-2010-36_1	1	/m/0b6hk5f
+trec-2010-36_2	1	/m/0b6hk5f
+trec-2010-37_1
+trec-2010-37_2
+trec-2010-38_1
+trec-2010-38_2
+trec-2010-39_1
+trec-2010-39_2
+trec-2010-3_1
+trec-2010-40_1
+trec-2010-40_2
+trec-2010-41_1
+trec-2010-41_2	1	/m/0kqm10
+trec-2010-42_1	1	/m/0180mw
+trec-2010-42_2	1	/m/0180mw
+trec-2010-43_1
+trec-2010-43_2
+trec-2010-44_1	1	/m/01sbv9
+trec-2010-44_2
+trec-2010-45_1
+trec-2010-45_2
+trec-2010-46_1
+trec-2010-46_2
+trec-2010-47_1	1	/m/058ymm
+trec-2010-47_2	1	/m/058ymm
+trec-2010-48_1
+trec-2010-48_2
+trec-2010-49_1
+trec-2010-4_1	1	/m/0m2l9
+trec-2010-4_2	1	/m/0m2l9
+trec-2010-50_1
+trec-2010-50_2
+trec-2010-51_1
+trec-2010-51_2
+trec-2010-52_1	1	/m/036vk_	/m/03sd2z
+trec-2010-52_2	1	/m/02mjmr	/m/0bymv
+trec-2010-53_1	1	/m/047b9vj
+trec-2010-53_2
+trec-2010-54_1
+trec-2010-54_2
+trec-2010-55_1	1	/m/0172m8
+trec-2010-55_2	1	/m/0172m8
+trec-2010-56_1
+trec-2010-56_2	1	/m/0vmt
+trec-2010-57_2
+trec-2010-58_1
+trec-2010-58_2
+trec-2010-59_1	1	/m/02d9k
+trec-2010-59_2
+trec-2010-5_1
+trec-2010-5_2
+trec-2010-60_1
+trec-2010-60_2	1	/m/0gr8nj
+trec-2010-61_1
+trec-2010-61_2
+trec-2010-62_1
+trec-2010-62_2	1	/m/0chvn
+trec-2010-63_1	1	/m/0cv3w
+trec-2010-63_2	1	/m/0qlrh
+trec-2010-64_1	1	/m/03lz53
+trec-2010-64_2	1	/m/03lz53
+trec-2010-65_2
+trec-2010-66_1
+trec-2010-66_2
+trec-2010-67_1	1	/m/01832m
+trec-2010-67_2
+trec-2010-68_1
+trec-2010-68_2
+trec-2010-69_1
+trec-2010-69_2
+trec-2010-6_1	1	/m/027118l
+trec-2010-6_2	1	/m/027118l
+trec-2010-71_1	1	/m/02j07k
+trec-2010-71_2	1	/m/02j07k
+trec-2010-72_2
+trec-2010-73_2
+trec-2010-74_1	1	/m/0179dd
+trec-2010-75_1
+trec-2010-75_2	1	/m/04rrx
+trec-2010-76_1
+trec-2010-76_2
+trec-2010-77_1
+trec-2010-77_2	1	/m/081k8
+trec-2010-78_1	1	/m/04xd0g
+trec-2010-78_2	1	/m/04xd0g
+trec-2010-79_1
+trec-2010-79_2
+trec-2010-7_1
+trec-2010-7_2
+trec-2010-80_1
+trec-2010-80_2
+trec-2010-81_1
+trec-2010-81_2
+trec-2010-82_1
+trec-2010-82_2
+trec-2010-83_1
+trec-2010-83_2
+trec-2010-84_1	1	/m/0kc8y
+trec-2010-84_2
+trec-2010-85_1
+trec-2010-85_2
+trec-2010-86_1	1	/m/02j07k
+trec-2010-87_1
+trec-2010-87_2
+trec-2010-88_1	1	/m/036vk_
+trec-2010-88_2	1	/m/036vk_
+trec-2010-89_1
+trec-2010-89_2
+trec-2010-8_1	1	/m/02k4l6
+trec-2010-8_2	1	/m/02k4l6
+trec-2010-90_1
+trec-2010-90_2
+trec-2010-91_1	1	/m/02868rb
+trec-2010-91_2
+trec-2010-92_1	1	/m/09c7w0
+trec-2010-92_2	1	/m/09c7w0
+trec-2010-93_1	1	/m/0vmt
+trec-2010-93_2	1	/m/0vmt
+trec-2010-94_1	1	/m/02fzs
+trec-2010-94_2	1	/m/02fzs
+trec-2010-95_1
+trec-2010-95_2
+trec-2010-96_1	1	/m/04127bj
+trec-2010-96_2
+trec-2010-97_1
+trec-2010-97_2
+trec-2010-98_1	1	/m/06mv6
+trec-2010-98_2	1	/m/06r4f
+trec-2010-99_1	1	/m/036_ws
+trec-2010-99_2	1	/m/03v2c3
+trec-2010-9_1
+trec-2010-9_2
+trec-2011-10_1
+trec-2011-10_2
+trec-2011-10_3
+trec-2011-10_4
+trec-2011-11_1	1	/m/03gh4
+trec-2011-11_2	1	/m/03gh4
+trec-2011-11_3	1	/m/020ys5	/m/03gh4
+trec-2011-11_4	1	/m/020ys5	/m/03gh4
+trec-2011-12_1
+trec-2011-12_2
+trec-2011-12_3	1	/m/04rrd
+trec-2011-12_4
+trec-2011-13_1
+trec-2011-13_2
+trec-2011-13_3
+trec-2011-13_4
+trec-2011-14_1
+trec-2011-14_2
+trec-2011-14_3
+trec-2011-14_4
+trec-2011-14_5
+trec-2011-14_6
+trec-2011-14_7
+trec-2011-14_8
+trec-2011-15_1	1	/m/01k3k_
+trec-2011-15_2	1	/m/01k3k_
+trec-2011-15_3	1	/m/01k3k_
+trec-2011-16_2	1	/m/01k3k_
+trec-2011-17_1	1	/m/0cp9sx
+trec-2011-17_2	1	/m/0cp9sx
+trec-2011-17_3	1	/m/0cp9sx
+trec-2011-18_1
+trec-2011-18_2
+trec-2011-18_3
+trec-2011-19_1	1	/m/017twv
+trec-2011-19_2	1	/m/017twv
+trec-2011-19_3	1	/m/017twv
+trec-2011-1_1	1	/m/019574
+trec-2011-1_2	1	/m/019574
+trec-2011-1_3	1	/m/019574
+trec-2011-20_1	1	/m/097rdz
+trec-2011-20_2	1	/m/097rdz
+trec-2011-20_3	1	/m/097rdz
+trec-2011-21_1	1	/m/097rdz
+trec-2011-21_2	1	/m/097rdz
+trec-2011-21_3	1	/m/097rdz
+trec-2011-22_1
+trec-2011-22_2	1	/m/01fw9h
+trec-2011-23_1
+trec-2011-23_2	1	/m/01cp5q
+trec-2011-24_1	1	/m/01cp5q
+trec-2011-24_2	1	/m/01cp5q
+trec-2011-24_3	1	/m/01cp5q
+trec-2011-24_4
+trec-2011-25_1
+trec-2011-25_2
+trec-2011-25_3
+trec-2011-26_1
+trec-2011-26_2
+trec-2011-26_3
+trec-2011-27_1
+trec-2011-27_2
+trec-2011-28_1
+trec-2011-28_2
+trec-2011-28_3
+trec-2011-29_1
+trec-2011-29_3
+trec-2011-2_1
+trec-2011-2_2
+trec-2011-30_1
+trec-2011-30_2
+trec-2011-30_3
+trec-2011-31_1	1	/m/0xjvt	/m/059f4
+trec-2011-31_2	1	/m/0xjvt
+trec-2011-32_1	1	/m/0xjvt	/m/059f4
+trec-2011-32_3
+trec-2011-33_1
+trec-2011-33_2
+trec-2011-34_1
+trec-2011-34_2
+trec-2011-34_3
+trec-2011-34_4
+trec-2011-35_1	1	/m/06cvv4
+trec-2011-35_10	1	/m/06cvv4
+trec-2011-35_2
+trec-2011-35_3
+trec-2011-35_4	1	/m/06cvv4
+trec-2011-35_5	1	/m/06cvv4
+trec-2011-35_6	1	/m/06cvv4
+trec-2011-35_7	1	/m/06cvv4
+trec-2011-35_8	1	/m/0mlyw
+trec-2011-35_9	1	/m/06cvv4
+trec-2011-36_1
+trec-2011-36_2
+trec-2011-36_3
+trec-2011-37_1
+trec-2011-37_2
+trec-2011-37_3
+trec-2011-37_4
+trec-2011-37_5
+trec-2011-38_1
+trec-2011-38_2
+trec-2011-38_3
+trec-2011-39_1	1	/m/0343gr
+trec-2011-39_2	1	/m/0343gr
+trec-2011-3_1
+trec-2011-3_2
+trec-2011-40_1
+trec-2011-40_2	1	/m/0343gr
+trec-2011-40_3	1	/m/0343gr
+trec-2011-41_1	1	/m/01vw20h
+trec-2011-41_2	1	/m/01vw20h
+trec-2011-41_3	1	/m/01vw20h
+trec-2011-42_1
+trec-2011-42_2
+trec-2011-43_1	1	/m/055g9p
+trec-2011-43_2	1	/m/055g9p
+trec-2011-43_3	1	/m/055g9p	/m/02739p
+trec-2011-44_1	1	/m/01kb4x
+trec-2011-44_2	1	/m/01kb4x
+trec-2011-44_3	1	/m/01kb4x
+trec-2011-45_1	1	/m/01kb4x
+trec-2011-45_2	1	/m/01kb4x
+trec-2011-45_3	1	/m/01kb4x
+trec-2011-45_4	1	/m/01kb4x
+trec-2011-45_5	1	/m/01kb4x
+trec-2011-46_1
+trec-2011-46_2	1	/m/0980jl
+trec-2011-46_3	1	/m/0980jl
+trec-2011-47_1
+trec-2011-47_2
+trec-2011-47_3
+trec-2011-48_1	1	/m/0cyhq
+trec-2011-48_2	1	/m/0cyhq
+trec-2011-48_3	1	/m/0cyhq
+trec-2011-48_4	1	/m/0cyhq
+trec-2011-49_1	1	/m/0nlb2
+trec-2011-49_2	1	/m/01vbj5	/m/07ssc
+trec-2011-49_3	1	/m/0nlb2
+trec-2011-49_4	1	/m/0nlb2
+trec-2011-4_1
+trec-2011-4_2	1	/m/0bmbbmm
+trec-2011-4_3
+trec-2011-50_1	1	/m/031786
+trec-2011-50_1	1	/m/01m5g_
+trec-2011-50_2	1	/m/01m5g_
+trec-2011-50_3	1	/m/01m5g_
+trec-2011-50_4	1	/m/01m5g_
+trec-2011-51_1	1	/m/01b5sg
+trec-2011-51_2	1	/m/01b5sg
+trec-2011-51_3	1	/m/01b5sg	/m/047km3
+trec-2011-52_1	1	/m/0f2nzn
+trec-2011-52_2	1	/m/0f2nzn
+trec-2011-52_3	1	/m/0f2nzn
+trec-2011-52_4	1	/m/0f2nzn
+trec-2011-52_5	1	/m/0f2nzn
+trec-2011-53_1	1	/m/0f2nzn
+trec-2011-53_2
+trec-2011-53_3	1	/m/0f2nzn
+trec-2011-53_4	1	/m/0f2nzn	/m/012wgb
+trec-2011-53_5	1	/m/0f2nzn	/m/012wgb
+trec-2011-53_6	1	/m/0f2nzn
+trec-2011-53_7	1	/m/07ssc
+trec-2011-54_1	1	/m/09c7w0
+trec-2011-54_2
+trec-2011-54_3	1	/m/09c7w0
+trec-2011-54_4	1	/m/09c7w0
+trec-2011-55_1
+trec-2011-55_2
+trec-2011-55_3
+trec-2011-55_4
+trec-2011-55_5
+trec-2011-55_6
+trec-2011-55_7
+trec-2011-56_1	1	/m/036rkh
+trec-2011-56_2	1	/m/036rkh
+trec-2011-56_3	1	/m/036rkh
+trec-2011-56_4	1	/m/036rkh
+trec-2011-56_5	1	/m/036rkh
+trec-2011-56_6	1	/m/036rkh
+trec-2011-57_1
+trec-2011-57_2
+trec-2011-57_3
+trec-2011-58_1
+trec-2011-58_2
+trec-2011-58_4	1	/m/01trn4
+trec-2011-58_5	1	/m/01trn4
+trec-2011-58_6
+trec-2011-58_7
+trec-2011-59_1
+trec-2011-59_2	1	/m/0h1hgfy
+trec-2011-59_3
+trec-2011-5_1	1	/m/0fzh9
+trec-2011-5_2	1	/m/0fzh9
+trec-2011-60_1
+trec-2011-60_3
+trec-2011-60_4
+trec-2011-60_5
+trec-2011-60_6	1	/m/0chghy	/m/01_5lq
+trec-2011-60_8
+trec-2011-60_9	1	/m/0h1hgfy
+trec-2011-61_1	1	/m/015h4y
+trec-2011-61_2
+trec-2011-62_1
+trec-2011-62_2
+trec-2011-62_3
+trec-2011-63_1
+trec-2011-63_2
+trec-2011-63_3
+trec-2011-63_4
+trec-2011-63_5
+trec-2011-64_1
+trec-2011-64_2	1	/m/0chghy	/m/09c7w0
+trec-2011-64_3
+trec-2011-65_1
+trec-2011-65_2
+trec-2011-65_3
+trec-2011-65_4
+trec-2011-66_1
+trec-2011-66_2	1	/m/0chghy
+trec-2011-66_3	1	/m/0chghy	/m/09c7w0
+trec-2011-66_4	1	/m/0chghy
+trec-2011-66_5	1	/m/0chghy
+trec-2011-66_6
+trec-2011-67_1	1	/m/01bw1c
+trec-2011-67_3	1	/m/01bw1c
+trec-2011-68_1	1	/m/09fb5
+trec-2011-68_2	1	/m/09fb5
+trec-2011-68_3	1	/m/09fb5
+trec-2011-68_4	1	/m/09fb5
+trec-2011-68_5	1	/m/09fb5
+trec-2011-69_1
+trec-2011-69_2
+trec-2011-6_1	1	/m/05qd_
+trec-2011-6_2	1	/m/05qd_
+trec-2011-70_1
+trec-2011-70_2
+trec-2011-71_1
+trec-2011-71_2
+trec-2011-71_3
+trec-2011-72_1
+trec-2011-72_2
+trec-2011-73_1
+trec-2011-73_2
+trec-2011-74_1
+trec-2011-74_2
+trec-2011-75_1
+trec-2011-75_2
+trec-2011-75_3
+trec-2011-76_1
+trec-2011-76_3
+trec-2011-7_1
+trec-2011-7_2
+trec-2011-7_3
+trec-2011-8_1
+trec-2011-8_2
+trec-2011-8_3
+trec-2011-8_4
+trec-2011-8_5
+trec-2011-8_6
+trec-2011-8_7
+trec-2011-8_8
+trec-2011-9_1
+trec-2011-9_2
+trec-2011-9_3	1	/m/09c7w0
+trec-2012-10_1
+trec-2012-11_1
+trec-2012-11_2
+trec-2012-11_3
+trec-2012-11_4
+trec-2012-11_5
+trec-2012-11_6
+trec-2012-11_7
+trec-2012-11_8
+trec-2012-11_9
+trec-2012-12_1	1	/m/03jmb8	/m/0dkz0z
+trec-2012-12_2	1	/m/0dkz0z
+trec-2012-13_1
+trec-2012-13_2
+trec-2012-14_1
+trec-2012-14_2
+trec-2012-15_1
+trec-2012-15_2
+trec-2012-16_1	1	/m/0c0kk	/m/03jmb8
+trec-2012-16_2	1	/m/0c0kk	/m/03jmb8
+trec-2012-16_3	1	/m/0c0kk	/m/03jmb8
+trec-2012-17_1	1	/m/02pbmw	/m/013c6x
+trec-2012-17_2	1	/m/02pbmw	/m/013c6x
+trec-2012-18_1	1	/m/013c6x
+trec-2012-18_2	1	/m/013c6x
+trec-2012-18_3
+trec-2012-19_2
+trec-2012-1_1
+trec-2012-1_2
+trec-2012-20_1	1	/m/01nbg8
+trec-2012-20_2
+trec-2012-21_1
+trec-2012-21_2
+trec-2012-21_3
+trec-2012-21_4
+trec-2012-22_1	1	/m/0chghy
+trec-2012-22_2	1	/m/02xwkl	/m/01nbg8
+trec-2012-22_4
+trec-2012-22_5	1	/m/0chghy
+trec-2012-23_1	1	/m/02xwkl	/m/01nbg8
+trec-2012-23_2	1	/m/02xwkl	/m/01nbg8
+trec-2012-24_1	1	/m/030q7	/m/01l3vx
+trec-2012-24_2	1	/m/01l3vx
+trec-2012-24_3	1	/m/01352_	/m/01l3vx
+trec-2012-25_1	1	/m/0f8l9c
+trec-2012-25_2	1	/m/030q7	/m/01l3vx
+trec-2012-25_3	1	/m/030q7	/m/01l3vx
+trec-2012-25_4	1	/m/030q7	/m/01l3vx
+trec-2012-25_5	1	/m/01l3vx
+trec-2012-25_6	1	/m/030q7
+trec-2012-25_7	1	/m/030q7	/m/01l3vx
+trec-2012-26_1	1	/m/030q7	/m/0f8l9c
+trec-2012-26_1	1	/m/030q7	/m/01l3vx
+trec-2012-26_2	1	/m/030q7	/m/0f8l9c
+trec-2012-26_3	1	/m/030q7	/m/0f8l9c
+trec-2012-27_1
+trec-2012-27_2
+trec-2012-27_3	1	/m/030q7
+trec-2012-28_1	1	/m/030q7	/m/0f8l9c
+trec-2012-28_2	1	/m/030q7	/m/0f8l9c
+trec-2012-28_2	1	/m/030q7	/m/01l3vx
+trec-2012-28_3	1	/m/030q7	/m/0f8l9c
+trec-2012-28_3	1	/m/030q7	/m/01l3vx
+trec-2012-29_1
+trec-2012-29_2
+trec-2012-29_3	1	/m/0k049
+trec-2012-29_4
+trec-2012-29_5
+trec-2012-2_1
+trec-2012-2_2
+trec-2012-2_3
+trec-2012-2_4
+trec-2012-2_5
+trec-2012-30_1
+trec-2012-31_1
+trec-2012-31_2
+trec-2012-31_3
+trec-2012-32_2
+trec-2012-33_1
+trec-2012-33_2
+trec-2012-34_1
+trec-2012-34_2	1	/m/05drh
+trec-2012-35_1	1	/m/04f0xq
+trec-2012-35_2	1	/m/04f0xq
+trec-2012-35_3	1	/m/04f0xq
+trec-2012-35_4	1	/m/04f0xq
+trec-2012-36_1	1	/m/04f0xq
+trec-2012-36_2	1	/m/04f0xq
+trec-2012-36_3	1	/m/04f0xq
+trec-2012-37_1	1	/m/04f0xq
+trec-2012-37_2	1	/m/04f0xq	/m/09c7w0
+trec-2012-38_1	1	/m/0kft
+trec-2012-38_2	1	/m/0kft
+trec-2012-39_1	1	/m/0kft
+trec-2012-39_2	1	/m/0kft	/m/03rk0
+trec-2012-39_3	1	/m/0kft
+trec-2012-39_4	1	/m/0kft
+trec-2012-3_1
+trec-2012-3_2
+trec-2012-40_1
+trec-2012-40_2
+trec-2012-41_2
+trec-2012-41_3
+trec-2012-42_1
+trec-2012-42_2
+trec-2012-42_3
+trec-2012-42_4
+trec-2012-42_5
+trec-2012-42_6
+trec-2012-43_1
+trec-2012-43_2
+trec-2012-43_3
+trec-2012-44_1
+trec-2012-44_2
+trec-2012-44_3
+trec-2012-45_1
+trec-2012-45_2
+trec-2012-46_2
+trec-2012-47_1
+trec-2012-47_2
+trec-2012-47_3
+trec-2012-48_1
+trec-2012-48_2
+trec-2012-49_1
+trec-2012-49_2
+trec-2012-49_3
+trec-2012-4_1	1	/m/04f0jl
+trec-2012-4_2	1	/m/04f0jl
+trec-2012-4_3	1	/m/04f0jl
+trec-2012-4_4	1	/m/04f0jl
+trec-2012-50_2
+trec-2012-50_3
+trec-2012-50_4
+trec-2012-51_1
+trec-2012-51_2
+trec-2012-52_1
+trec-2012-52_2
+trec-2012-52_3
+trec-2012-52_4
+trec-2012-52_5
+trec-2012-52_6
+trec-2012-53_1
+trec-2012-53_2
+trec-2012-54_1
+trec-2012-54_2
+trec-2012-55_1
+trec-2012-55_2	1	/m/07ssc
+trec-2012-55_3	1	/m/07ssc
+trec-2012-55_4	1	/m/07ssc
+trec-2012-56_1
+trec-2012-56_2
+trec-2012-56_3
+trec-2012-56_4
+trec-2012-56_5
+trec-2012-56_6
+trec-2012-57_1
+trec-2012-57_2
+trec-2012-57_3	1	/m/07ssc
+trec-2012-57_4
+trec-2012-57_5	1	/m/07ssc
+trec-2012-58_1
+trec-2012-58_2
+trec-2012-59_1
+trec-2012-59_2
+trec-2012-5_1	1	/m/04f0jl
+trec-2012-5_2	1	/m/04f0jl
+trec-2012-5_3	1	/m/04f0jl
+trec-2012-60_1
+trec-2012-60_2
+trec-2012-61_1
+trec-2012-62_1
+trec-2012-62_2
+trec-2012-63_1
+trec-2012-63_2
+trec-2012-63_3
+trec-2012-64_1
+trec-2012-64_2
+trec-2012-64_3
+trec-2012-64_4
+trec-2012-64_5
+trec-2012-65_1
+trec-2012-65_2
+trec-2012-66_1
+trec-2012-66_2
+trec-2012-67_1
+trec-2012-67_2	1	/m/049f11
+trec-2012-68_1
+trec-2012-68_2
+trec-2012-6_1	1	/m/05tbn	/m/04f0jl
+trec-2012-6_10	1	/m/04f0jl
+trec-2012-6_2	1	/m/05tbn	/m/04f0jl
+trec-2012-6_3	1	/m/05tbn	/m/04f0jl
+trec-2012-6_4	1	/m/0bhbq9	/m/04f0jl
+trec-2012-6_5	1	/m/0bhbq9	/m/04f0jl
+trec-2012-6_6	1	/m/04f0jl
+trec-2012-6_7	1	/m/04f0jl
+trec-2012-6_8	1	/m/04f0jl
+trec-2012-6_9
+trec-2012-70_1
+trec-2012-70_2
+trec-2012-71_1
+trec-2012-71_2
+trec-2012-71_3
+trec-2012-71_4
+trec-2012-71_5	1	/m/07ssc
+trec-2012-72_1
+trec-2012-72_2
+trec-2012-73_2
+trec-2012-74_1
+trec-2012-74_2	1	/m/07ssc
+trec-2012-74_3
+trec-2012-75_1
+trec-2012-75_2	1	/m/07ssc
+trec-2012-76_1
+trec-2012-76_2
+trec-2012-77_1
+trec-2012-77_2	1	/m/07ssc
+trec-2012-78_1
+trec-2012-78_2
+trec-2012-79_1
+trec-2012-79_2
+trec-2012-7_1	1	/m/04f0jl
+trec-2012-7_2
+trec-2012-7_3	1	/m/0dclg
+trec-2012-80_1
+trec-2012-80_2	1	/m/019rg5	/m/05b2x_0
+trec-2012-81_1
+trec-2012-81_2	1	/m/019rg5
+trec-2012-82_1
+trec-2012-82_2	1	/m/019rg5
+trec-2012-83_1	1	/m/019rg5
+trec-2012-83_2	1	/m/019rg5	/m/05b2x_0
+trec-2012-83_3	1	/m/0h7qm2l
+trec-2012-83_4
+trec-2012-84_1
+trec-2012-84_2	1	/m/019rg5
+trec-2012-85_1
+trec-2012-85_2
+trec-2012-85_3
+trec-2012-86_2
+trec-2012-87_1
+trec-2012-87_2
+trec-2012-87_3	1	/m/07bty
+trec-2012-88_1
+trec-2012-88_2
+trec-2012-89_1
+trec-2012-89_2
+trec-2012-89_3
+trec-2012-8_2
+trec-2012-90_1
+trec-2012-90_2
+trec-2012-90_3
+trec-2012-90_4
+trec-2012-91_2
+trec-2012-91_3
+trec-2012-91_4
+trec-2012-91_6
+trec-2012-92_2
+trec-2012-93_1
+trec-2012-93_2	1	/m/01x73
+trec-2012-94_2
+trec-2012-94_3
+trec-2012-94_4
+trec-2012-95_1
+trec-2012-95_2
+trec-2012-95_3
+trec-2012-97_1
+trec-2012-97_3
+trec-2012-98_1
+trec-2012-9_1
+trec-2012-9_2
+trec-2013-100_1
+trec-2013-101_1
+trec-2013-102_1
+trec-2013-103_1
+trec-2013-104_1	1	/m/03z19
+trec-2013-105_1	1	/m/024mmh
+trec-2013-105_1	1	/m/01c8ll
+trec-2013-106_1	1	/m/0842b
+trec-2013-107_1
+trec-2013-108_1	1	/m/01cgmx
+trec-2013-109_1
+trec-2013-10_1
+trec-2013-10_2
+trec-2013-110_1	1	/m/07z5n
+trec-2013-112_1
+trec-2013-113_1
+trec-2013-115_1
+trec-2013-116_1
+trec-2013-117_1
+trec-2013-118_1
+trec-2013-119_1
+trec-2013-11_1
+trec-2013-11_2
+trec-2013-11_3
+trec-2013-11_4
+trec-2013-11_5
+trec-2013-120_1	1	/m/0dclg
+trec-2013-121_1	1	/m/0dclg
+trec-2013-122_1
+trec-2013-123_1
+trec-2013-124_1	1	/m/0d05l6
+trec-2013-125_1	1	/m/0d05l6
+trec-2013-126_1	1	/m/0dg3n1
+trec-2013-127_1
+trec-2013-128_1	1	/m/02jxk
+trec-2013-129_1
+trec-2013-12_1	1	/m/02rbcm
+trec-2013-12_2	1	/m/04f_d
+trec-2013-12_3	1	/m/0487_
+trec-2013-130_1	1	/m/01hlwv
+trec-2013-131_1	1	/m/09c7w0
+trec-2013-132_1
+trec-2013-133_1
+trec-2013-13_1	1	/m/04f_d
+trec-2013-13_2	1	/m/01qg_n
+trec-2013-13_3	1	/m/04f_d
+trec-2013-13_4	1	/m/04f_d
+trec-2013-13_5	1	/m/04f_d
+trec-2013-13_6	1	/m/04f_d
+trec-2013-13_7	1	/m/04f_d
+trec-2013-13_8	1	/m/04f_d
+trec-2013-14_1	1	/m/07ssc
+trec-2013-14_2	1	/m/07ssc
+trec-2013-14_3
+trec-2013-14_4	1	/m/07ssc
+trec-2013-15_1
+trec-2013-15_2
+trec-2013-16_1
+trec-2013-16_2
+trec-2013-17_1	1	/m/01hlwv
+trec-2013-17_2	1	/m/01hlwv
+trec-2013-17_3	1	/m/01hlwv
+trec-2013-17_4	1	/m/01hlwv
+trec-2013-17_5	1	/m/01hlwv	/m/04sv4
+trec-2013-18_1	1	/m/01hlwv
+trec-2013-18_2	1	/m/01hlwv
+trec-2013-18_3	1	/m/01hlwv
+trec-2013-18_4	1	/m/01hlwv
+trec-2013-18_5	1	/m/01hlwv
+trec-2013-18_6	1	/m/01hlwv
+trec-2013-18_7	1	/m/01hlwv
+trec-2013-18_8
+trec-2013-18_9
+trec-2013-19_1	1	/m/01hlwv
+trec-2013-19_2	1	/m/045c7b	/m/01hlwv
+trec-2013-19_3	1	/m/01hlwv
+trec-2013-19_4	1	/m/01hlwv
+trec-2013-19_5	1	/m/01hlwv
+trec-2013-1_1
+trec-2013-1_2
+trec-2013-20_1	1	/m/02jp2w
+trec-2013-20_10	1	/m/02jp2w
+trec-2013-20_11	1	/m/02jp2w
+trec-2013-20_2
+trec-2013-20_3
+trec-2013-20_4
+trec-2013-20_5	1	/m/02jp2w
+trec-2013-20_6	1	/m/02jp2w
+trec-2013-20_7
+trec-2013-20_8
+trec-2013-20_9	1	/m/02jp2w
+trec-2013-21_10
+trec-2013-21_11
+trec-2013-21_12
+trec-2013-21_2	1	/m/02jp2w	/m/0gh43
+trec-2013-21_4	1	/m/0gh43
+trec-2013-21_5
+trec-2013-21_6	1	/m/02jp2w	/m/0gh43
+trec-2013-21_7	1	/m/02jp2w	/m/0gh43
+trec-2013-21_8
+trec-2013-21_9
+trec-2013-22_1
+trec-2013-22_10
+trec-2013-22_11
+trec-2013-22_12
+trec-2013-22_2	1	/m/05zjc0_
+trec-2013-22_3	1	/m/05zjc0_
+trec-2013-22_4
+trec-2013-22_5	1	/m/0980jl
+trec-2013-22_7
+trec-2013-22_8	1	/m/0980jl
+trec-2013-22_9
+trec-2013-23_1	1	/m/0842b
+trec-2013-23_2	1	/m/0842b
+trec-2013-23_3	1	/m/02sqdp
+trec-2013-23_4	1	/m/02sqdp
+trec-2013-24_1	1	/m/0842b
+trec-2013-24_2	1	/m/07z1m	/m/0842b
+trec-2013-24_3	1	/m/07z1m	/m/0842b
+trec-2013-25_1	1	/m/01cgmx
+trec-2013-25_2	1	/m/01cgmx
+trec-2013-26_1
+trec-2013-26_2	1	/m/01cgmx
+trec-2013-26_3	1	/m/01cgmx
+trec-2013-26_4	1	/m/01cgmx
+trec-2013-26_5	1	/m/01cgmx
+trec-2013-26_6	1	/m/01cgmx
+trec-2013-27_1	1	/m/014l6l
+trec-2013-27_2	1	/m/014l6l
+trec-2013-27_3	1	/m/014l6l
+trec-2013-28_1	1	/m/014l6l
+trec-2013-28_2	1	/m/014l6l
+trec-2013-29_1	1	/m/014l6l
+trec-2013-29_2	1	/m/014l6l
+trec-2013-29_3	1	/m/014l6l
+trec-2013-2_1
+trec-2013-2_2
+trec-2013-2_3
+trec-2013-2_4
+trec-2013-2_5
+trec-2013-2_6
+trec-2013-2_7
+trec-2013-2_8
+trec-2013-30_1	1	/m/03t3lq
+trec-2013-30_2	1	/m/03t3lq
+trec-2013-31_1	1	/m/03t3lq
+trec-2013-31_2	1	/m/03t3lq
+trec-2013-31_4	1	/m/03t3lq
+trec-2013-31_5	1	/m/02782h8
+trec-2013-31_6	1	/m/03t3lq
+trec-2013-31_7
+trec-2013-31_8
+trec-2013-31_9	1	/m/03t3lq
+trec-2013-32_1	1	/m/03t3lq
+trec-2013-32_2	1	/m/03t3lq
+trec-2013-32_3	1	/m/03t3lq
+trec-2013-32_4	1	/m/03t3lq	/m/02782h8
+trec-2013-33_1
+trec-2013-33_2
+trec-2013-33_3
+trec-2013-33_4
+trec-2013-34_1
+trec-2013-34_2
+trec-2013-34_3
+trec-2013-34_4
+trec-2013-35_1
+trec-2013-35_2
+trec-2013-35_3
+trec-2013-36_1
+trec-2013-36_2
+trec-2013-36_3
+trec-2013-36_4
+trec-2013-36_5
+trec-2013-36_6
+trec-2013-36_7
+trec-2013-36_8
+trec-2013-36_9
+trec-2013-37_1	1	/m/0p0hd
+trec-2013-37_2	1	/m/0p0hd
+trec-2013-38_1	1	/m/0p0hd
+trec-2013-38_2	1	/m/02dq8f
+trec-2013-38_4	1	/m/02dq8f
+trec-2013-38_5	1	/m/02m6__
+trec-2013-39_1	1	/m/0p0hd
+trec-2013-39_2	1	/m/0p0hd
+trec-2013-39_3	1	/m/0p0hd
+trec-2013-39_4	1	/m/02dq8f
+trec-2013-39_5	1	/m/05p1ndq	/m/059rby
+trec-2013-3_1
+trec-2013-3_2
+trec-2013-3_3
+trec-2013-40_1
+trec-2013-40_2
+trec-2013-40_3
+trec-2013-40_4
+trec-2013-40_5
+trec-2013-41_1	1	/m/02mjmr
+trec-2013-41_2	1	/m/02mjmr
+trec-2013-42_1
+trec-2013-42_2
+trec-2013-42_3
+trec-2013-43_1
+trec-2013-43_2
+trec-2013-43_3
+trec-2013-43_4
+trec-2013-44_1
+trec-2013-44_2
+trec-2013-44_3
+trec-2013-45_1	1	/m/0gl8r
+trec-2013-45_2	1	/m/0gl8r
+trec-2013-45_3	1	/m/0gl8r
+trec-2013-46_1	1	/m/0gl8r
+trec-2013-46_2	1	/m/0gl8r
+trec-2013-46_3
+trec-2013-46_4	1	/m/0gl8r
+trec-2013-46_5	1	/m/0gl8r
+trec-2013-46_6	1	/m/0gl8r
+trec-2013-46_7	1	/m/0gl8r
+trec-2013-46_8	1	/m/0gl8r	/m/09c7w0
+trec-2013-47_1
+trec-2013-47_2
+trec-2013-47_3
+trec-2013-48_1
+trec-2013-48_2
+trec-2013-48_3
+trec-2013-48_4	1	/m/07ssc
+trec-2013-48_5
+trec-2013-48_6
+trec-2013-49_1
+trec-2013-49_2
+trec-2013-4_1
+trec-2013-4_3
+trec-2013-50_1
+trec-2013-50_2
+trec-2013-50_4
+trec-2013-50_5
+trec-2013-50_6
+trec-2013-50_7
+trec-2013-50_8
+trec-2013-51_1
+trec-2013-51_2
+trec-2013-52_1
+trec-2013-52_2
+trec-2013-52_3	1	/m/06mzp
+trec-2013-52_4
+trec-2013-52_5	1	/m/09c7w0
+trec-2013-52_6
+trec-2013-52_7
+trec-2013-53_1
+trec-2013-53_2
+trec-2013-54_1
+trec-2013-54_2
+trec-2013-54_3
+trec-2013-55_1
+trec-2013-55_2
+trec-2013-56_1
+trec-2013-56_2
+trec-2013-57_1
+trec-2013-57_10
+trec-2013-57_11	1	/m/0j0k
+trec-2013-57_12
+trec-2013-57_13
+trec-2013-57_14
+trec-2013-57_15
+trec-2013-57_16
+trec-2013-57_17
+trec-2013-57_18
+trec-2013-57_19
+trec-2013-57_2
+trec-2013-57_3	1	/m/02qnk
+trec-2013-57_4	1	/m/02qnk
+trec-2013-57_5	1	/m/02qnk
+trec-2013-57_6
+trec-2013-57_7
+trec-2013-57_8
+trec-2013-57_9
+trec-2013-58_1	1	/m/02j9z
+trec-2013-58_2
+trec-2013-58_3	1	/m/02jxk	/m/035qy
+trec-2013-58_4	1	/m/02jxk	/m/05r4w
+trec-2013-58_5	1	/m/02jxk	/m/06mkj
+trec-2013-59_1
+trec-2013-59_2
+trec-2013-5_1
+trec-2013-5_2
+trec-2013-5_3
+trec-2013-60_1	1	/m/05r4w
+trec-2013-60_2	1	/m/06mkj
+trec-2013-60_3	1	/m/06mkj
+trec-2013-60_4	1	/m/012wgb
+trec-2013-60_5	1	/m/012wgb
+trec-2013-60_6
+trec-2013-60_7	1	/m/01ppq
+trec-2013-61_1
+trec-2013-61_2
+trec-2013-61_3
+trec-2013-61_4
+trec-2013-62_1
+trec-2013-62_2
+trec-2013-62_3
+trec-2013-62_4
+trec-2013-62_5
+trec-2013-62_6	1	/m/046m8z
+trec-2013-62_7	1	/m/046m8z
+trec-2013-63_1
+trec-2013-63_2
+trec-2013-63_3
+trec-2013-63_5
+trec-2013-63_6
+trec-2013-63_7
+trec-2013-63_8
+trec-2013-63_9
+trec-2013-64_1
+trec-2013-64_2
+trec-2013-65_1
+trec-2013-65_2
+trec-2013-65_3
+trec-2013-65_4
+trec-2013-66_2
+trec-2013-66_3
+trec-2013-67_1	1	/m/0d05l6
+trec-2013-67_2
+trec-2013-67_3
+trec-2013-67_4
+trec-2013-68_1
+trec-2013-68_2
+trec-2013-68_3
+trec-2013-68_4	1	/m/09c7w0
+trec-2013-69_1	1	/m/0dg3n1
+trec-2013-69_2	1	/m/0dg3n1
+trec-2013-69_3
+trec-2013-69_4
+trec-2013-6_1
+trec-2013-6_2
+trec-2013-6_3	1	/m/07ssc
+trec-2013-6_4	1	/m/07ssc
+trec-2013-6_5	1	/m/07ssc
+trec-2013-6_6	1	/m/09c7w0
+trec-2013-70_1	1	/m/0dg3n1
+trec-2013-70_2	1	/m/0dg3n1
+trec-2013-70_3	1	/m/0dg3n1
+trec-2013-70_4	1	/m/0dg3n1
+trec-2013-70_5	1	/m/0dg3n1
+trec-2013-71_1
+trec-2013-71_2
+trec-2013-71_3
+trec-2013-71_4
+trec-2013-71_5
+trec-2013-71_6
+trec-2013-71_7
+trec-2013-71_8
+trec-2013-71_9
+trec-2013-72_1
+trec-2013-72_10
+trec-2013-72_11
+trec-2013-72_12
+trec-2013-72_13
+trec-2013-72_2
+trec-2013-72_3
+trec-2013-72_4
+trec-2013-72_5
+trec-2013-72_6
+trec-2013-72_7
+trec-2013-72_8
+trec-2013-72_9
+trec-2013-73_1
+trec-2013-73_2
+trec-2013-73_3
+trec-2013-74_1
+trec-2013-74_2
+trec-2013-74_3
+trec-2013-74_4
+trec-2013-74_5
+trec-2013-74_6
+trec-2013-75_1
+trec-2013-75_2
+trec-2013-75_3
+trec-2013-75_4
+trec-2013-75_5
+trec-2013-75_6
+trec-2013-75_7
+trec-2013-76_1
+trec-2013-76_2
+trec-2013-76_3	1	/m/07ssc
+trec-2013-77_1
+trec-2013-77_2	1	/m/07t65
+trec-2013-77_3	1	/m/07t65
+trec-2013-77_4
+trec-2013-77_5
+trec-2013-77_6
+trec-2013-78_1
+trec-2013-78_2
+trec-2013-79_1
+trec-2013-79_2
+trec-2013-7_2
+trec-2013-7_4
+trec-2013-7_5
+trec-2013-7_6
+trec-2013-7_7
+trec-2013-7_8
+trec-2013-80_1
+trec-2013-81_1
+trec-2013-81_2
+trec-2013-82_1
+trec-2013-82_2
+trec-2013-83_1
+trec-2013-83_2
+trec-2013-83_3
+trec-2013-83_4
+trec-2013-83_5
+trec-2013-83_6
+trec-2013-84_1
+trec-2013-84_2	1	/m/03gh4
+trec-2013-85_1
+trec-2013-85_2	1	/m/030qb3t
+trec-2013-85_3	1	/m/030qb3t
+trec-2013-86_1	1	/m/02_286
+trec-2013-86_2	1	/m/01_d4
+trec-2013-86_3	1	/m/0rh6k
+trec-2013-87_1	1	/m/09c7w0
+trec-2013-87_10	1	/m/01cx_
+trec-2013-87_11	1	/m/02_286
+trec-2013-87_12	1	/m/02_286	/m/0dclg
+trec-2013-87_13	1	/m/0dclg	/m/0rh6k
+trec-2013-87_14	1	/m/0dclg
+trec-2013-87_15	1	/m/0rh6k
+trec-2013-87_16	1	/m/02_286	/m/0dclg
+trec-2013-87_17	1	/m/02_286	/m/0dclg
+trec-2013-87_18	1	/m/02_286	/m/0dclg
+trec-2013-87_2	1	/m/01cx_	/m/059rby
+trec-2013-87_3	1	/m/09crrb
+trec-2013-87_4
+trec-2013-87_5	1	/m/09crrb
+trec-2013-87_6	1	/m/0f1sm
+trec-2013-87_7	1	/m/0f1sm
+trec-2013-87_8	1	/m/0f1sm
+trec-2013-87_9	1	/m/01cx_	/m/0f1sm
+trec-2013-88_1
+trec-2013-89_1	1	/m/0g2lq
+trec-2013-8_1
+trec-2013-8_2
+trec-2013-8_3
+trec-2013-8_4
+trec-2013-91_1
+trec-2013-92_1
+trec-2013-93_1	1	/m/03_t_4
+trec-2013-94_1	1	/m/03_t_4
+trec-2013-95_1	1	/m/02_286
+trec-2013-96_1
+trec-2013-97_1
+trec-2013-98_1
+trec-2013-99_1	1	/m/0488g
+trec-2013-9_1
+trec-2013-9_2
+trec-2013-9_3
+trec-2013-9_4
+yahoo-101_1
+yahoo-101_2
+yahoo-101_3	1	/m/0crlry
+yahoo-101_4	1	/m/07swvb
+yahoo-101_5	1	/m/0g7hsj
+yahoo-101_6	1	/m/0g7hsj
+yahoo-101_7
+yahoo-101_8
+yahoo-101_9
+yahoo-104_1
+yahoo-104_3	1	/m/03y9qv
+yahoo-104_5	1	/m/04gncxs
+yahoo-104_6	1	/m/045c7b
+yahoo-104_7
+yahoo-106_1	1	/m/03grjtf
+yahoo-112_1	1	/m/05v1r9
+yahoo-112_1	1	/m/0797b5
+yahoo-112_2
+yahoo-113_1
+yahoo-113_2
+yahoo-113_3
+yahoo-113_4	1	/m/05jp3p
+yahoo-113_5
+yahoo-113_6
+yahoo-113_7
+yahoo-114_1
+yahoo-114_2
+yahoo-116_1
+yahoo-117_1	1	/m/043rcw4
+yahoo-117_2
+yahoo-117_3	1	/m/0bymv
+yahoo-118_1	1	/m/0k0tnvj
+yahoo-119_1	1	/m/017rf_
+yahoo-120_1
+yahoo-121_1
+yahoo-123_1	1	/m/0c_w4v
+yahoo-125_1	1	/m/02_286	/m/03n6y8
+yahoo-126_10	1	/m/04jpl	/m/019rl6
+yahoo-126_11	1	/m/019rl6
+yahoo-126_2	1	/m/027lnzs
+yahoo-126_3	1	/m/0gg4gh4
+yahoo-126_4	1	/m/05_brr
+yahoo-126_4	1	/m/0261kz0
+yahoo-126_4	1	/m/04tcpq
+yahoo-126_6
+yahoo-126_7	1	/m/019rl6
+yahoo-126_8	1	/m/02_7q2
+yahoo-126_9	1	/m/02_7q2
+yahoo-127_1	1	/m/0v9r7
+yahoo-127_2	1	/m/01dgg6
+yahoo-128_1
+yahoo-128_2
+yahoo-128_4	1	/m/07tg4
+yahoo-128_5	1	/m/0dk80d
+yahoo-128_6	1	/m/07tg4
+yahoo-129_1
+yahoo-129_2	1	/m/0d7k1z
+yahoo-130_1	1	/m/03vgrr
+yahoo-131_1	1	/m/0plw
+yahoo-131_2	1	/m/07bp97
+yahoo-132_1	1	/m/02dtg
+yahoo-132_2	1	/m/0ggcxv
+yahoo-135_1	1	/m/021vdd
+yahoo-135_2	1	/m/021vdd
+yahoo-136_1	1	/m/0gvswb4
+yahoo-137_1	1	/m/026_dd6
+yahoo-138_1	1	/m/01_tv0
+yahoo-138_10	1	/m/03sdx6
+yahoo-138_11	1	/m/03hlv1
+yahoo-138_12	1	/m/014_d3
+yahoo-138_13	1	/m/0371q5
+yahoo-138_14	1	/m/0371q5
+yahoo-138_15	1	/m/0g7pjm
+yahoo-138_16	1	/m/0qk4n
+yahoo-138_17	1	/m/040p0m
+yahoo-138_18	1	/m/040p0m
+yahoo-138_19	1	/m/040p0m
+yahoo-138_2	1	/m/02wrdv
+yahoo-138_3	1	/m/02wrdv
+yahoo-138_4	1	/m/01_tv0
+yahoo-138_5	1	/m/01_tv0
+yahoo-138_7	1	/m/01_tv0
+yahoo-138_8	1	/m/05tj_r
+yahoo-138_9
+yahoo-139_1
+yahoo-139_2
+yahoo-139_3	1	/m/03l295
+yahoo-139_4	1	/m/0716t2
+yahoo-139_5	1	/m/02qxhj0
+yahoo-139_6	1	/m/02m87m
+yahoo-139_7
+yahoo-139_8
+yahoo-13_1	1	/m/01cmz2
+yahoo-13_10	1	/m/02y1vz
+yahoo-13_11
+yahoo-13_12	1	/m/02_7q2
+yahoo-13_13	1	/m/019rl6
+yahoo-13_15	1	/m/03rk0	/m/02_7q2
+yahoo-13_16	1	/m/02_7q2
+yahoo-13_17	1	/m/02y1vz
+yahoo-13_2
+yahoo-13_3	1	/m/019rl6
+yahoo-13_4
+yahoo-13_5
+yahoo-13_6	1	/m/01_dw7
+yahoo-13_7
+yahoo-13_8
+yahoo-13_9
+yahoo-140_1	1	/m/0fhkx
+yahoo-140_10
+yahoo-140_11	1	/m/04w391
+yahoo-140_2
+yahoo-140_3	1	/m/044mfr
+yahoo-140_4	1	/m/06hwzy
+yahoo-140_5
+yahoo-140_6
+yahoo-140_7	1	/m/019x9z
+yahoo-140_8	1	/m/07hkwq
+yahoo-140_9	1	/m/03_0ph
+yahoo-143_1
+yahoo-144_1	1	/m/013gwb
+yahoo-147_1	1	/m/0f4cjq	/m/04p_fv
+yahoo-148_1	1	/m/02q_bk
+yahoo-148_2
+yahoo-149_1	1	/m/0kc6x
+yahoo-14_1	1	/m/05631
+yahoo-150_1	1	/m/02mjmr
+yahoo-150_2
+yahoo-151_1
+yahoo-155_1	1	/m/05pdgbz
+yahoo-155_2	1	/m/05pdgbz
+yahoo-155_3	1	/m/05pdgbz
+yahoo-155_4	1	/m/05pdgbz
+yahoo-157_1
+yahoo-15_1
+yahoo-160_1
+yahoo-163_1
+yahoo-164_1
+yahoo-164_2
+yahoo-164_3	1	/m/07ky1d
+yahoo-165_1	1	/m/0140d2
+yahoo-167_1	1	/m/05852p
+yahoo-168_1	1	/m/085_2
+yahoo-168_2	1	/m/05tbn
+yahoo-169_1	1	/m/081sq
+yahoo-169_2	1	/m/07b_l
+yahoo-16_1
+yahoo-16_2
+yahoo-16_3
+yahoo-170_1	1	/m/05x5w1
+yahoo-171_1	1	/m/0498y
+yahoo-173_1	1	/m/07z1m
+yahoo-176_1	1	/m/07gv72
+yahoo-178_1	1	/m/02dp08
+yahoo-179_1	1	/m/01s73z
+yahoo-17_1	1	/m/0702t7
+yahoo-180_1
+yahoo-184_1	1	/m/063rjh
+yahoo-184_2
+yahoo-184_3	1	/m/029b1p
+yahoo-184_4
+yahoo-185_1
+yahoo-186_1
+yahoo-186_2	1	/m/0j_p9
+yahoo-186_3	1	/m/0j_p9
+yahoo-186_4	1	/m/09ylwk
+yahoo-187_1
+yahoo-188_1
+yahoo-189_1	1	/m/0dtvb4
+yahoo-189_2
+yahoo-189_3	1	/m/01zrdx
+yahoo-18_1	1	/m/01mwfcz
+yahoo-18_2	1	/m/02y1vz
+yahoo-18_3
+yahoo-18_4
+yahoo-18_5	1	/m/07b_l
+yahoo-190_1
+yahoo-190_2	1	/m/03gc5x
+yahoo-192_1	1	/m/05q5glc
+yahoo-192_2
+yahoo-192_3
+yahoo-192_4	1	/m/04gg8k4
+yahoo-196_1	1	/m/03m6j
+yahoo-196_2	1	/m/0261x8t
+yahoo-196_3
+yahoo-196_4
+yahoo-196_5
+yahoo-197_1	1	/m/03xzw_
+yahoo-197_10	1	/m/05q_b
+yahoo-197_12	1	/m/03shp
+yahoo-197_13	1	/m/02plp2
+yahoo-197_14	1	/m/01603r
+yahoo-197_15
+yahoo-197_16
+yahoo-197_17
+yahoo-197_18
+yahoo-197_19
+yahoo-197_2	1	/m/01wq0g
+yahoo-197_3	1	/m/01wq0g
+yahoo-197_4	1	/m/01wq0g
+yahoo-197_5	1	/m/01wq0g
+yahoo-197_6	1	/m/01wq0g
+yahoo-197_7	1	/m/01wq0g
+yahoo-197_8	1	/m/0hrhmbx
+yahoo-197_9	1	/m/09w3b
+yahoo-198_1	1	/m/06w2sn5
+yahoo-199_1
+yahoo-199_2	1	/m/01pctb
+yahoo-1_1
+yahoo-1_2	1	/m/0mgkg
+yahoo-1_4	1	/m/03ts5s
+yahoo-1_5	1	/m/0kg8x
+yahoo-200_1	1	/m/015076
+yahoo-200_2
+yahoo-200_3	1	/m/08p9p1
+yahoo-201_1	1	/m/03f0jvh
+yahoo-201_2	1	/m/0_m3k
+yahoo-201_3	1	/m/0_m3k
+yahoo-201_4
+yahoo-201_5	1	/m/0_m3k
+yahoo-202_1	1	/m/04lkjn
+yahoo-204_1	1	/m/01dyhm
+yahoo-205_1	1	/m/0200gn	/m/0841v
+yahoo-205_2	1	/m/0200gn
+yahoo-207_1
+yahoo-209_2	1	/m/065y4w7
+yahoo-20_1	1	/m/02r5qtm
+yahoo-20_2	1	/m/01rfdq
+yahoo-20_3
+yahoo-20_4	1	/m/026h1w
+yahoo-20_5	1	/m/0841v
+yahoo-20_6
+yahoo-210_1	1	/m/01mmx8
+yahoo-210_2
+yahoo-211_1
+yahoo-213_1	1	/m/0198jf
+yahoo-215_1	1	/m/04d1d1
+yahoo-216_1
+yahoo-219_1	1	/m/0b90_r	/m/019rl6
+yahoo-219_3	1	/m/0289n8t
+yahoo-21_1	1	/m/0fxlj
+yahoo-21_2	1	/m/010jym
+yahoo-21_3
+yahoo-220_1	1	/m/0h_cn_1
+yahoo-220_3	1	/m/0gg4gh4
+yahoo-223_1	1	/m/0gztl
+yahoo-226_1	1	/m/0dlgdy
+yahoo-226_2
+yahoo-226_4	1	/m/02658n
+yahoo-226_5	1	/m/0lxcw
+yahoo-229_1
+yahoo-229_3
+yahoo-229_4	1	/m/08z129
+yahoo-22_1	1	/m/091zgm
+yahoo-22_2
+yahoo-232_1	1	/m/03y82t6
+yahoo-233_2	1	/m/02zbm4z
+yahoo-235_1	1	/m/0hhs8zn
+yahoo-235_2	1	/m/0gj9tn5
+yahoo-235_2	1	/m/058p1b
+yahoo-235_3
+yahoo-235_4
+yahoo-235_5
+yahoo-235_6	1	/m/0r2kh
+yahoo-235_7	1	/m/0r2kh
+yahoo-235_8	1	/m/0489qfb
+yahoo-236_1
+yahoo-236_2	1	/m/04l0g5
+yahoo-236_3	1	/m/0360zl
+yahoo-236_4
+yahoo-236_5
+yahoo-236_6	1	/m/02zvzh
+yahoo-237_1	1	/m/014x6f
+yahoo-237_2
+yahoo-237_3	1	/m/02q_bk
+yahoo-237_4	1	/m/06h856
+yahoo-237_5	1	/m/045c7b
+yahoo-237_6
+yahoo-238_1
+yahoo-239_1	1	/m/06ztw4n
+yahoo-240_3	1	/m/0plw
+yahoo-240_4	1	/m/093d_8
+yahoo-242_1
+yahoo-243_1	1	/m/02vntj
+yahoo-243_2
+yahoo-243_3
+yahoo-244_1	1	/m/045xx
+yahoo-245_1	1	/m/019rl6
+yahoo-245_2
+yahoo-245_3
+yahoo-245_4
+yahoo-245_5
+yahoo-245_6
+yahoo-245_7
+yahoo-246_1	1	/m/05b7q
+yahoo-246_2	1	/m/0grwj
+yahoo-246_3	1	/m/0gg0sv
+yahoo-246_4	1	/m/01p8s
+yahoo-246_5	1	/m/01p8s	/m/01xt0w
+yahoo-246_6	1	/m/01p8s
+yahoo-248_1	1	/m/01l1ls
+yahoo-248_11	1	/m/04rrx
+yahoo-248_13	1	/m/013c6x
+yahoo-248_14	1	/m/010qcv
+yahoo-248_15
+yahoo-248_16
+yahoo-248_17
+yahoo-248_3	1	/m/019rl6
+yahoo-248_4
+yahoo-248_5	1	/m/014kjh
+yahoo-248_6	1	/m/04hgpt
+yahoo-248_7	1	/m/01fp30
+yahoo-248_8
+yahoo-24_1	1	/m/04cr9sg
+yahoo-24_2	1	/m/04cxzpd
+yahoo-250_1	1	/m/03spz
+yahoo-251_2	1	/m/069y95
+yahoo-251_3	1	/m/0fkdp4
+yahoo-251_4
+yahoo-251_5	1	/m/019rl6
+yahoo-251_6	1	/m/05pmzb
+yahoo-251_7	1	/m/030qb3t
+yahoo-251_8	1	/m/030qb3t
+yahoo-251_9	1	/m/030qb3t
+yahoo-252_1	1	/m/0djxbk
+yahoo-254_1	1	/m/0h00d5
+yahoo-254_2	1	/m/07k4bzz
+yahoo-254_3
+yahoo-254_4
+yahoo-254_5	1	/m/0d1x33
+yahoo-255_1	1	/m/0svwd
+yahoo-256_1
+yahoo-257_2	1	/m/0k8z
+yahoo-258_1	1	/m/016xh5
+yahoo-25_1
+yahoo-260_1	1	/m/02xry
+yahoo-261_1
+yahoo-261_2
+yahoo-261_3
+yahoo-262_1
+yahoo-264_1	1	/m/09xg9n
+yahoo-265_1
+yahoo-266_1
+yahoo-266_2	1	/m/02rdpx
+yahoo-266_3	1	/m/03kmxc
+yahoo-266_4	1	/m/05sb1
+yahoo-266_6
+yahoo-267_1	1	/m/06sm6h
+yahoo-268_1
+yahoo-269_1	1	/m/01t7l5
+yahoo-26_1	1	/m/01jkpp
+yahoo-26_2
+yahoo-270_1	1	/m/02r8h8
+yahoo-270_2
+yahoo-270_3
+yahoo-271_1
+yahoo-271_2	1	/m/0kvg4w
+yahoo-271_3
+yahoo-271_4
+yahoo-273_1	1	/m/0jmfb	/m/03wbkl5
+yahoo-273_2
+yahoo-273_3	1	/m/06fgv_
+yahoo-273_4	1	/m/01jtml
+yahoo-273_5	1	/m/01pkxd
+yahoo-274_1	1	/m/0mvsg
+yahoo-275_1	1	/m/02y1vz
+yahoo-277_1	1	/m/0cqt90	/m/024t0y
+yahoo-278_1
+yahoo-279_2
+yahoo-279_3	1	/m/03c4gz
+yahoo-27_1	1	/m/02jwcn
+yahoo-27_2	1	/m/059rby
+yahoo-27_3	1	/m/059rby
+yahoo-281_2	1	/m/06m6p7
+yahoo-282_1	1	/m/0r2kh
+yahoo-283_1
+yahoo-289_1	1	/m/01d5z
+yahoo-289_2
+yahoo-289_3	1	/m/09jcvs
+yahoo-291_1	1	/m/0200gn	/m/0841v
+yahoo-292_1	1	/m/07ldhs
+yahoo-293_1	1	/m/06w1tj
+yahoo-293_2	1	/m/0gthdr
+yahoo-294_1	1	/m/04sv4
+yahoo-294_2	1	/m/0wb_
+yahoo-295_1	1	/m/02p5frl
+yahoo-296_1
+yahoo-298_1	1	/m/037922
+yahoo-298_2	1	/m/037922
+yahoo-29_1
+yahoo-29_2	1	/m/04vrhz
+yahoo-29_3
+yahoo-29_4
+yahoo-29_5
+yahoo-29_6	1	/m/09jcvs
+yahoo-2_1
+yahoo-300_1	1	/m/06c1y
+yahoo-300_3	1	/m/02w48s8
+yahoo-301_1
+yahoo-302_1
+yahoo-302_2
+yahoo-303_1	1	/m/0c32q1
+yahoo-305_1	1	/m/0xbm
+yahoo-305_2
+yahoo-305_3	1	/m/02_tc
+yahoo-307_1
+yahoo-307_2	1	/m/0841v
+yahoo-307_3
+yahoo-307_4
+yahoo-307_5
+yahoo-308_1	1	/m/065qr_
+yahoo-308_2	1	/m/0cd8kr
+yahoo-308_3	1	/m/02zs4
+yahoo-309_1	1	/m/09jcvs
+yahoo-30_1
+yahoo-310_2	1	/m/0z90c
+yahoo-311_2	1	/m/06wc9ph
+yahoo-311_3
+yahoo-311_4	1	/m/029f32
+yahoo-311_5	1	/m/01b39j
+yahoo-311_6
+yahoo-312_1	1	/m/01wkmgb
+yahoo-313_1	1	/m/02y_4jg
+yahoo-313_2
+yahoo-315_1	1	/m/0g_g2
+yahoo-317_3
+yahoo-319_1	1	/m/0200gn	/m/0ggbcny
+yahoo-320_1
+yahoo-321_1	1	/m/0h3tm0f
+yahoo-321_3	1	/m/02zvzh
+yahoo-321_5	1	/m/075sdt
+yahoo-321_7	1	/m/01_x6s3
+yahoo-321_8	1	/m/027m38y
+yahoo-322_2	1	/m/02z4b_8
+yahoo-322_3	1	/m/0280hsm
+yahoo-322_4	1	/m/0280hsm
+yahoo-322_5	1	/m/0gtv63v
+yahoo-323_1	1	/m/05f0pg
+yahoo-324_1	1	/m/05c51w
+yahoo-325_1	1	/m/054c1
+yahoo-325_2	1	/m/02l840
+yahoo-326_1
+yahoo-327_1	1	/m/03gspv6
+yahoo-327_2	1	/m/09jcvs
+yahoo-327_3	1	/m/01wgcvn
+yahoo-327_4	1	/m/02rjw5l
+yahoo-328_1	1	/m/0kc4f
+yahoo-32_1	1	/m/02f6d7
+yahoo-330_1	1	/m/013my_
+yahoo-333_1
+yahoo-333_2
+yahoo-334_1	1	/m/0z90c
+yahoo-334_2	1	/m/01d734
+yahoo-334_3	1	/m/0y_l6
+yahoo-335_1	1	/m/04r_8
+yahoo-336_10
+yahoo-336_11
+yahoo-336_2	1	/m/0lxcw
+yahoo-336_3	1	/m/0fd2ds
+yahoo-336_4	1	/m/0kvdy60
+yahoo-336_5	1	/m/04bcrl
+yahoo-336_6
+yahoo-336_7
+yahoo-336_8
+yahoo-336_9	1	/m/019rl6
+yahoo-338_1
+yahoo-33_1	1	/m/05b7q
+yahoo-33_2	1	/m/03b7gw
+yahoo-340_1	1	/m/0gj8l55
+yahoo-340_2
+yahoo-340_3	1	/m/066sw3
+yahoo-340_4	1	/m/0crzn_
+yahoo-340_5
+yahoo-340_6
+yahoo-341_2	1	/m/0dgq_7z
+yahoo-341_3	1	/m/0bs7hb8
+yahoo-341_4	1	/m/0jj5r
+yahoo-341_5	1	/m/01_13nl
+yahoo-346_1	1	/m/0q76g	/m/0bdmx7
+yahoo-346_2
+yahoo-347_1	1	/m/026q5gg
+yahoo-348_1
+yahoo-349_1
+yahoo-349_2	1	/m/0993r
+yahoo-351_1
+yahoo-351_2
+yahoo-352_1
+yahoo-352_2	1	/m/03_vx9
+yahoo-352_3	1	/m/07kqd0
+yahoo-352_4
+yahoo-353_1	1	/m/036vk5
+yahoo-354_2
+yahoo-354_3	1	/m/0lxcw
+yahoo-355_1	1	/m/0289n8t
+yahoo-356_1
+yahoo-357_1	1	/m/02y1vz
+yahoo-358_1
+yahoo-358_2
+yahoo-35_1	1	/m/03d1v8	/m/03d34x8
+yahoo-360_1	1	/m/02jyhv
+yahoo-360_2	1	/m/01pgzn_
+yahoo-361_2	1	/m/0903kv
+yahoo-361_3	1	/m/026bjgh
+yahoo-366_1	1	/m/0154qm
+yahoo-366_2
+yahoo-367_1	1	/m/0k8z
+yahoo-369_1
+yahoo-370_1	1	/m/06tjh6
+yahoo-370_2
+yahoo-370_3
+yahoo-370_4	1	/m/0dclg	/m/02bhj4
+yahoo-371_1	1	/m/0838qg
+yahoo-371_2
+yahoo-371_3
+yahoo-371_4	1	/m/027lch6
+yahoo-371_5	1	/m/09r7g5
+yahoo-371_6	1	/m/0lwkh
+yahoo-371_8	1	/m/040rp2
+yahoo-372_1	1	/m/0dg3n1
+yahoo-375_1	1	/m/01jhmg
+yahoo-375_1	1	/m/0gnfq
+yahoo-375_1	1	/m/0h51_mt
+yahoo-375_2	1	/m/03byxzx
+yahoo-376_2
+yahoo-379_1
+yahoo-379_3	1	/m/052399z
+yahoo-379_4	1	/m/052399z	/m/0d1r2
+yahoo-379_5	1	/m/06ny5h
+yahoo-379_7	1	/m/06k7xh
+yahoo-37_1	1	/m/01yqrk
+yahoo-37_2	1	/m/0343h
+yahoo-37_3	1	/m/0dvqq	/m/0djz0rc
+yahoo-380_1	1	/m/03j_b9h
+yahoo-382_1	1	/m/06jz0y
+yahoo-382_2	1	/m/09cbbf
+yahoo-382_3
+yahoo-383_1
+yahoo-383_2	1	/m/038r10
+yahoo-383_3
+yahoo-384_1	1	/m/05hhyw
+yahoo-385_1	1	/m/03clwm
+yahoo-385_10	1	/m/020tvm
+yahoo-385_11	1	/m/020tvm
+yahoo-385_12	1	/m/020tvm
+yahoo-385_2	1	/m/020tvm
+yahoo-385_3	1	/m/020tvm
+yahoo-385_4
+yahoo-385_5	1	/m/020tvm
+yahoo-385_6	1	/m/020tvm
+yahoo-385_7	1	/m/020tvm
+yahoo-385_8	1	/m/020tvm
+yahoo-385_9	1	/m/020tvm
+yahoo-389_1
+yahoo-389_2	1	/m/01h5gh
+yahoo-390_1
+yahoo-390_2
+yahoo-392_1	1	/m/07gv72
+yahoo-393_2	1	/m/01pkvx
+yahoo-394_1	1	/m/0s47y
+yahoo-394_2	1	/m/045c7b	/m/09jcvs
+yahoo-395_1
+yahoo-395_2	1	/m/02v0hy
+yahoo-395_3	1	/m/02dh86
+yahoo-395_4
+yahoo-395_5	1	/m/03lt8g
+yahoo-397_1	1	/m/0gsgr
+yahoo-398_1
+yahoo-398_2
+yahoo-398_3	1	/m/0d06m5
+yahoo-398_4	1	/m/035grg
+yahoo-39_1	1	/m/04vvlw
+yahoo-3_1	1	/m/01fc_q
+yahoo-400_1	1	/m/093d_8
+yahoo-400_2
+yahoo-400_3
+yahoo-400_4
+yahoo-402_1	1	/m/05_5q04
+yahoo-405_1	1	/m/02r4dr3
+yahoo-405_2	1	/m/0glnw2j
+yahoo-405_4	1	/m/080dlpk
+yahoo-405_6	1	/m/05bd08
+yahoo-407_1	1	/m/07vw6l
+yahoo-407_2	1	/m/0mbzf
+yahoo-407_3	1	/m/01y5kh
+yahoo-408_1
+yahoo-409_1
+yahoo-409_2
+yahoo-409_3	1	/m/037x4r
+yahoo-409_4
+yahoo-409_5
+yahoo-409_6
+yahoo-40_1	1	/m/0268cx6
+yahoo-410_1
+yahoo-411_1	1	/m/01pllx	/m/01pgzn_
+yahoo-413_1	1	/m/0rczx
+yahoo-415_1	1	/m/025sndk
+yahoo-416_1	1	/m/085n4
+yahoo-417_1
+yahoo-418_1
+yahoo-418_2	1	/m/024818
+yahoo-420_1	1	/m/0hfwb
+yahoo-421_1
+yahoo-422_2	1	/m/0lfgr
+yahoo-422_3
+yahoo-425_1	1	/m/0bdxs5
+yahoo-425_10
+yahoo-425_2
+yahoo-425_3
+yahoo-425_4	1	/m/013w8h
+yahoo-425_5	1	/m/018js4
+yahoo-425_6	1	/m/0gh652j
+yahoo-425_8
+yahoo-425_9	1	/m/01rqqff
+yahoo-426_1
+yahoo-426_2
+yahoo-426_3
+yahoo-426_4	1	/m/026h1w
+yahoo-426_5	1	/m/065zbw4
+yahoo-426_6	1	/m/0d4zbk
+yahoo-427_1
+yahoo-428_1	1	/m/07bp97
+yahoo-42_1	1	/m/02sdpw
+yahoo-430_2
+yahoo-431_1	1	/m/08trcl
+yahoo-432_1	1	/m/02qyv3h
+yahoo-433_1
+yahoo-433_2	1	/m/0gs6vr
+yahoo-435_1
+yahoo-435_2
+yahoo-435_4
+yahoo-435_5
+yahoo-435_6	1	/m/01vrqtm
+yahoo-436_1	1	/m/01k3wp
+yahoo-436_3
+yahoo-436_4	1	/m/0200gn
+yahoo-436_5
+yahoo-436_6	1	/m/0841v
+yahoo-436_7	1	/m/01b39j
+yahoo-436_8
+yahoo-436_9	1	/m/0841v
+yahoo-437_1
+yahoo-438_1
+yahoo-439_1	1	/m/02yc5b
+yahoo-43_1	1	/m/018c71	/m/01wjf0
+yahoo-43_2	1	/m/018c71
+yahoo-43_3	1	/m/09bklj
+yahoo-43_4	1	/m/0h6m_0
+yahoo-43_5	1	/m/04g61
+yahoo-441_1	1	/m/025tg8y
+yahoo-441_2	1	/m/025tg8y
+yahoo-443_1	1	/m/0cv1r2
+yahoo-447_1
+yahoo-448_1	1	/m/05gnf
+yahoo-448_2	1	/m/02y1vz	/m/019rl6
+yahoo-44_1
+yahoo-44_2
+yahoo-450_1	1	/m/09jcvs
+yahoo-452_1	1	/m/01z_mj
+yahoo-452_2
+yahoo-452_3
+yahoo-454_1	1	/m/01zlh5
+yahoo-455_1	1	/m/04lgbvx
+yahoo-455_2	1	/m/01_xtx
+yahoo-455_3	1	/m/01rm_v
+yahoo-455_4	1	/m/07y2s
+yahoo-456_2
+yahoo-456_3	1	/m/035pt2
+yahoo-456_4	1	/m/02zxgs
+yahoo-456_6	1	/m/05c8jg
+yahoo-458_1
+yahoo-458_2	1	/m/02p7629
+yahoo-458_3	1	/m/037x4r
+yahoo-458_4	1	/m/02kpnw
+yahoo-458_6	1	/m/02dkt6
+yahoo-458_8	1	/m/0221wv
+yahoo-458_9	1	/m/04f5785
+yahoo-459_1
+yahoo-45_1	1	/m/025ypk	/m/039gfz
+yahoo-45_2	1	/m/023_22
+yahoo-461_10	1	/m/02188gd
+yahoo-461_11	1	/m/06y_n
+yahoo-461_2	1	/m/08xvzp
+yahoo-461_3	1	/m/08xvzp
+yahoo-461_6	1	/m/02x0dzw
+yahoo-461_7
+yahoo-461_8
+yahoo-461_9
+yahoo-462_1	1	/m/0dzsp8
+yahoo-462_3	1	/m/07ss8_	/m/06mt91
+yahoo-462_4	1	/m/03w2f5
+yahoo-463_1	1	/m/0252np
+yahoo-463_2
+yahoo-463_3	1	/m/01j_h3
+yahoo-463_4	1	/m/04d1d1
+yahoo-464_1
+yahoo-465_1	1	/m/02z6wl
+yahoo-465_2	1	/m/02z6wl
+yahoo-466_1	1	/m/03jt93
+yahoo-467_1
+yahoo-467_2
+yahoo-468_1	1	/m/04jpl99
+yahoo-468_10
+yahoo-468_11
+yahoo-468_2	1	/m/01zj1t
+yahoo-468_3	1	/m/0841v
+yahoo-468_4	1	/m/0h65vcz
+yahoo-468_5	1	/m/04d1d1
+yahoo-468_6	1	/m/06d7g1
+yahoo-468_7	1	/m/03p3jdl
+yahoo-468_8
+yahoo-468_9
+yahoo-470_1
+yahoo-470_2
+yahoo-470_3
+yahoo-470_4	1	/m/01kb4x
+yahoo-471_1	1	/m/0k3kg
+yahoo-474_1	1	/m/09fyq
+yahoo-474_10	1	/m/05qx9w
+yahoo-474_2
+yahoo-474_3	1	/m/0bx7rw
+yahoo-474_5	1	/m/01t7l5
+yahoo-474_6	1	/m/01t7l5	/m/019rl6
+yahoo-474_7	1	/m/01t7l5	/m/019rl6
+yahoo-474_8	1	/m/01t7l5	/m/019rl6
+yahoo-475_1
+yahoo-475_2	1	/m/02c6k_
+yahoo-475_3	1	/m/03nnxj
+yahoo-475_4	1	/m/0c8yk7
+yahoo-477_1
+yahoo-479_2
+yahoo-479_3	1	/m/04jc8mr
+yahoo-47_1	1	/m/010146
+yahoo-47_2	1	/m/010146
+yahoo-47_3	1	/m/010146
+yahoo-482_1	1	/m/0fbbrt	/m/03v0t
+yahoo-482_2
+yahoo-483_2
+yahoo-485_2	1	/m/0j7mhl5
+yahoo-486_1	1	/m/0gkgp
+yahoo-486_2
+yahoo-486_3
+yahoo-487_1	1	/m/0cx6n9
+yahoo-488_1
+yahoo-489_1
+yahoo-489_2
+yahoo-489_3
+yahoo-489_5
+yahoo-489_6
+yahoo-48_1
+yahoo-48_2
+yahoo-490_1	1	/m/0f67f
+yahoo-490_2	1	/m/0v9bs	/m/0lzg7
+yahoo-490_3	1	/m/0v9qg
+yahoo-490_4	1	/m/0bs5_29
+yahoo-490_5	1	/m/0f67f
+yahoo-490_6	1	/m/0bs1g5r
+yahoo-490_7	1	/m/0h7qm2l
+yahoo-490_8	1	/m/0h7qm2l
+yahoo-490_9	1	/m/0jt6vts
+yahoo-491_1	1	/m/03flsn
+yahoo-491_10	1	/m/0hr02cl
+yahoo-491_2	1	/m/0524b41
+yahoo-491_3	1	/m/0j9p4b7
+yahoo-491_4
+yahoo-491_5	1	/m/02jg92
+yahoo-491_6	1	/m/03c29tn
+yahoo-491_7	1	/m/02x0j3z
+yahoo-491_8	1	/m/02x0j3z
+yahoo-491_9	1	/m/0hr02cl
+yahoo-492_1	1	/m/01n073	/m/08zf1f
+yahoo-492_2	1	/m/0hr6d1j
+yahoo-492_3	1	/m/0gmp26
+yahoo-492_4	1	/m/02qjj7
+yahoo-492_5	1	/m/03q1hw
+yahoo-492_6	1	/m/0ctxdn
+yahoo-492_7	1	/m/0ctxdn
+yahoo-493_1	1	/m/03m6_z
+yahoo-493_10	1	/m/059yj
+yahoo-493_11	1	/m/05krk
+yahoo-493_12	1	/m/05rbwm
+yahoo-493_13	1	/m/02spjl
+yahoo-493_14	1	/m/0m66w
+yahoo-493_15	1	/m/02qnp8b
+yahoo-493_16	1	/m/02qnp8b
+yahoo-493_17	1	/m/01y3c
+yahoo-493_18	1	/m/0fsb8
+yahoo-493_19	1	/m/0h_c2z2
+yahoo-493_2	1	/m/06lvlf
+yahoo-493_20	1	/m/02y1vz
+yahoo-493_21
+yahoo-493_3	1	/m/06lvlf
+yahoo-493_4	1	/m/03m6_z
+yahoo-493_5	1	/m/036hf4
+yahoo-493_6	1	/m/036hf4
+yahoo-493_7
+yahoo-493_8	1	/m/03nt59
+yahoo-493_9	1	/m/01msxyd
+yahoo-494_1	1	/m/02frhbc
+yahoo-494_10	1	/m/06mcv7
+yahoo-494_11
+yahoo-494_2	1	/m/0j64zb0
+yahoo-494_3	1	/m/06x0z8
+yahoo-494_4	1	/m/0gsg7
+yahoo-494_5
+yahoo-494_6	1	/m/01cwkq
+yahoo-494_7	1	/m/02frhbc
+yahoo-494_8
+yahoo-494_9
+yahoo-495_1
+yahoo-495_10	1	/m/05jbn
+yahoo-495_11
+yahoo-495_12	1	/m/0bdxs5
+yahoo-495_13	1	/m/05jbn
+yahoo-495_14	1	/m/05jbn
+yahoo-495_2	1	/m/02mpwc	/m/05jbn
+yahoo-495_3	1	/m/01zthy	/m/05jbn
+yahoo-495_4	1	/m/05jbn
+yahoo-495_5
+yahoo-495_6	1	/m/05jbn
+yahoo-495_7
+yahoo-495_8	1	/m/0g376f
+yahoo-495_9
+yahoo-496_2	1	/m/04t8s2
+yahoo-496_3	1	/m/04t8s2	/m/0d6lp
+yahoo-496_4	1	/m/0d6lp
+yahoo-498_1	1	/m/03fkcw
+yahoo-499_1	1	/m/017mtb
+yahoo-499_2	1	/m/0hzr9h0
+yahoo-499_4	1	/m/07m7k
+yahoo-499_5	1	/m/035wq7
+yahoo-499_6	1	/m/04d75z
+yahoo-499_7	1	/m/025t0k	/m/07b_l
+yahoo-49_1
+yahoo-4_1	1	/m/047m2fd
+yahoo-500_1	1	/m/0xk0j
+yahoo-500_2	1	/m/0n4blqr
+yahoo-500_3	1	/m/01zrgc	/m/0tz30
+yahoo-500_4	1	/m/0tz1j
+yahoo-500_5	1	/m/0tz1j
+yahoo-501_1	1	/m/0fj04x
+yahoo-501_10
+yahoo-501_11	1	/m/0kbj11v
+yahoo-501_12
+yahoo-501_13
+yahoo-501_14	1	/m/060ccp
+yahoo-501_15	1	/m/017rf_
+yahoo-501_16	1	/m/0bnx7c
+yahoo-501_2
+yahoo-501_3
+yahoo-501_4
+yahoo-501_5
+yahoo-501_6	1	/m/05dpch
+yahoo-501_7	1	/m/0dgq_kn
+yahoo-501_8	1	/m/047cqf3
+yahoo-501_9	1	/m/0p7kxqj
+yahoo-502_1	1	/m/05ztg98	/m/0xr0t
+yahoo-502_10	1	/m/023fb	/m/047kk6
+yahoo-502_11	1	/m/047kk6
+yahoo-502_12	1	/m/076fdt
+yahoo-502_13	1	/m/08p1qm
+yahoo-502_14
+yahoo-502_15	1	/m/02d9k
+yahoo-502_16	1	/m/043lbjr
+yahoo-502_17	1	/m/088nzc
+yahoo-502_18
+yahoo-502_19	1	/m/079d39
+yahoo-502_2	1	/m/0xqxl
+yahoo-502_3	1	/m/0xqxl
+yahoo-502_4	1	/m/0198jf
+yahoo-502_5	1	/m/01wxjd
+yahoo-502_6	1	/m/03_y2f
+yahoo-502_7	1	/m/03m5111
+yahoo-502_8	1	/m/019lxm
+yahoo-502_9	1	/m/0d07ph
+yahoo-503_1	1	/m/042phq
+yahoo-503_2	1	/m/0780p
+yahoo-503_3	1	/m/01_nc_
+yahoo-503_4	1	/m/02r91ln
+yahoo-504_1
+yahoo-504_2
+yahoo-504_3	1	/m/0h1z21s
+yahoo-505_1	1	/m/07hfc1
+yahoo-506_1	1	/m/03n52j
+yahoo-506_2
+yahoo-507_1	1	/m/04hjd4
+yahoo-507_10
+yahoo-507_12
+yahoo-507_13
+yahoo-507_14
+yahoo-507_15
+yahoo-507_16
+yahoo-507_18
+yahoo-507_19
+yahoo-507_2	1	/m/01sh6yh
+yahoo-507_20
+yahoo-507_21
+yahoo-507_22
+yahoo-507_23	1	/m/0nbwf
+yahoo-507_24	1	/m/02q_bk
+yahoo-507_3
+yahoo-507_5	1	/m/03lx_g
+yahoo-507_6
+yahoo-507_7
+yahoo-507_8
+yahoo-507_9
+yahoo-508_1
+yahoo-508_2
+yahoo-508_3	1	/m/0p8zl9g
+yahoo-508_4	1	/m/0jt1gg8
+yahoo-508_5	1	/m/08m6w_
+yahoo-508_6	1	/m/03ytw
+yahoo-508_7	1	/m/07kgbgl
+yahoo-509_1	1	/m/04zdgh
+yahoo-509_2
+yahoo-509_3	1	/m/020ydmq	/m/064kyqh
+yahoo-509_4	1	/m/0100mt
+yahoo-509_5	1	/m/0100mt
+yahoo-509_6
+yahoo-509_7
+yahoo-509_8
+yahoo-510_1	1	/m/03gscpb
+yahoo-510_12
+yahoo-510_13
+yahoo-510_14
+yahoo-510_15
+yahoo-510_16	1	/m/0j3gtvz
+yahoo-510_17	1	/m/025ypk
+yahoo-510_19	1	/m/04503b
+yahoo-510_2
+yahoo-510_20	1	/m/05nn45
+yahoo-510_21
+yahoo-510_4	1	/m/02pljbm
+yahoo-510_6	1	/m/01btsf
+yahoo-510_7	1	/m/01601q
+yahoo-510_8	1	/m/02pvjn
+yahoo-511_1	1	/m/0dj30p
+yahoo-511_3	1	/m/0bnx7c
+yahoo-512_1	1	/m/0r0jv
+yahoo-512_2	1	/m/0r0jv
+yahoo-513_1	1	/m/01b39j
+yahoo-513_2	1	/m/084s0s
+yahoo-513_3	1	/m/02qffj
+yahoo-513_4	1	/m/0gjc4d3
+yahoo-513_5	1	/m/0gjc4d3
+yahoo-514_1	1	/m/09g71pl
+yahoo-514_2
+yahoo-514_3
+yahoo-514_4
+yahoo-515_1	1	/m/0cnx_5j
+yahoo-516_10
+yahoo-516_11	1	/m/0gwlfnb
+yahoo-516_12	1	/m/04502n
+yahoo-516_13	1	/m/09cv4d
+yahoo-516_14	1	/m/09cv4d
+yahoo-516_15	1	/m/072x4y
+yahoo-516_16	1	/m/01kdws
+yahoo-516_19	1	/m/03p29j1
+yahoo-516_2	1	/m/02lz3v	/m/087rmw
+yahoo-516_20	1	/m/02s6k
+yahoo-516_24
+yahoo-516_3	1	/m/0s03l
+yahoo-516_4
+yahoo-516_5
+yahoo-516_6	1	/m/02slcx
+yahoo-516_7	1	/m/0f83rj
+yahoo-516_8	1	/m/02slcx
+yahoo-516_9	1	/m/0r_xc
+yahoo-517_1	1	/m/02p37dr
+yahoo-517_2
+yahoo-517_3	1	/m/025y7vc
+yahoo-517_4	1	/m/0hhgh69
+yahoo-517_5	1	/m/03znkl
+yahoo-518_2	1	/m/084s0s
+yahoo-518_3	1	/m/0dgnd21
+yahoo-518_4
+yahoo-518_5
+yahoo-518_6
+yahoo-518_7	1	/m/0ch2l5_
+yahoo-518_8	1	/m/04112n9
+yahoo-519_1	1	/m/05zy2cy
+yahoo-519_2	1	/m/04x1_w
+yahoo-519_3	1	/m/0jm9w	/m/0jm2v
+yahoo-519_4
+yahoo-519_5
+yahoo-519_6	1	/m/01zdkg
+yahoo-519_7
+yahoo-519_8
+yahoo-51_1
+yahoo-521_1	1	/m/08gfjk
+yahoo-521_2	1	/m/0873c4
+yahoo-521_3	1	/m/0gg62d9	/m/0f__1
+yahoo-521_4
+yahoo-523_1	1	/m/0c9qty
+yahoo-523_10	1	/m/01vt5c_
+yahoo-523_11	1	/m/04mxh0p
+yahoo-523_12	1	/m/039cq4
+yahoo-523_13	1	/m/059rby
+yahoo-523_14
+yahoo-523_15
+yahoo-523_17	1	/m/07p706	/m/01dwrc
+yahoo-523_18	1	/m/0czb5nf
+yahoo-523_19	1	/m/02114t
+yahoo-523_2	1	/m/07rp8
+yahoo-523_20
+yahoo-523_21
+yahoo-523_22
+yahoo-523_23	1	/m/0ydxr
+yahoo-523_24	1	/m/04c_q_
+yahoo-523_25	1	/m/0f7q4
+yahoo-523_26	1	/m/01f2w0	/m/053x8hr
+yahoo-523_3	1	/m/022wmh
+yahoo-523_4	1	/m/0pykc
+yahoo-523_5	1	/m/011zfz
+yahoo-523_6	1	/m/01gbbz
+yahoo-523_7	1	/m/06v76c
+yahoo-523_8	1	/m/08vr94
+yahoo-523_9	1	/m/05mw66v
+yahoo-524_1	1	/m/0z4ky
+yahoo-524_2	1	/m/0fvzg
+yahoo-524_4	1	/m/01cwkq
+yahoo-524_5
+yahoo-524_6	1	/m/0h95927
+yahoo-525_1
+yahoo-525_2	1	/m/0h8860l
+yahoo-525_3	1	/m/0gyvj60
+yahoo-525_4	1	/m/0h8860l
+yahoo-525_5	1	/m/0gyvj60
+yahoo-526_1	1	/m/02frhbc
+yahoo-52_1	1	/m/01pllx
+yahoo-53_1	1	/m/02y1vz
+yahoo-55_1	1	/m/0mgkg	/m/0200gn
+yahoo-59_1	1	/m/018c71	/m/04tgp
+yahoo-5_1	1	/m/026wfg
+yahoo-5_2	1	/m/0511f	/m/026wfg
+yahoo-64_1	1	/m/02ph3kq
+yahoo-66_1	1	/m/067m_y
+yahoo-67_1	1	/m/01wf86y
+yahoo-67_2	1	/m/01wf86y
+yahoo-67_3	1	/m/01pkxd
+yahoo-67_4
+yahoo-67_5
+yahoo-68_2
+yahoo-69_1
+yahoo-6_1	1	/m/0f__1	/m/03qyz_
+yahoo-6_10	1	/m/0kdtf
+yahoo-6_11	1	/m/0kdtw
+yahoo-6_2	1	/m/01zff
+yahoo-6_3	1	/m/03sg_q
+yahoo-6_4	1	/m/03364q	/m/0y1rf
+yahoo-6_5	1	/m/02wc3d
+yahoo-6_6	1	/m/01ddbl
+yahoo-6_7	1	/m/082rlw
+yahoo-6_8	1	/m/0fpzwf	/m/01nf4f
+yahoo-6_9	1	/m/0kml_
+yahoo-70_1	1	/m/05tg3
+yahoo-70_2	1	/m/02mjmr	/m/02896
+yahoo-71_1
+yahoo-71_2
+yahoo-72_1	1	/m/0198jf
+yahoo-72_3
+yahoo-73_1	1	/m/04c_q_
+yahoo-73_2	1	/m/02f1c
+yahoo-73_3
+yahoo-73_4	1	/m/04c_q_
+yahoo-74_1	1	/m/0435d4
+yahoo-74_2
+yahoo-74_3	1	/m/02fljs
+yahoo-74_4	1	/m/01zj1t
+yahoo-74_5	1	/m/03lq2
+yahoo-74_6
+yahoo-74_7
+yahoo-74_8
+yahoo-77_1
+yahoo-78_1	1	/m/02d4tc
+yahoo-78_10	1	/m/01cyrg
+yahoo-78_11	1	/m/01cyrg
+yahoo-78_12	1	/m/01cyrg	/m/052yv
+yahoo-78_13	1	/m/045c7b
+yahoo-78_14	1	/m/055t58
+yahoo-78_15	1	/m/0387r
+yahoo-78_16	1	/m/055t58
+yahoo-78_17	1	/m/0d449n
+yahoo-78_18
+yahoo-78_19	1	/m/0d85ms
+yahoo-78_2
+yahoo-78_20	1	/m/049d1
+yahoo-78_21	1	/m/09pmkv
+yahoo-78_22	1	/m/0d85ms
+yahoo-78_3
+yahoo-78_4
+yahoo-78_5	1	/m/01cyrg
+yahoo-78_6	1	/m/01cyrg
+yahoo-78_7	1	/m/01cyrg
+yahoo-78_8	1	/m/01cyrg
+yahoo-78_9	1	/m/01cyrg
+yahoo-79_1	1	/m/097hft
+yahoo-79_2	1	/m/04k05
+yahoo-80_1
+yahoo-81_1	1	/m/06q761
+yahoo-83_1
+yahoo-83_2
+yahoo-84_1
+yahoo-84_2	1	/m/02vpgy5
+yahoo-84_3	1	/m/0g7km1
+yahoo-84_4	1	/m/0j9ngyj
+yahoo-84_5	1	/m/07rd7
+yahoo-84_6	1	/m/07rd7
+yahoo-84_7	1	/m/050xxm	/m/07rd7
+yahoo-84_8	1	/m/07rd7
+yahoo-85_1	1	/m/03_3d
+yahoo-86_1
+yahoo-86_2
+yahoo-88_1
+yahoo-88_2
+yahoo-89_1	1	/m/025sndk
+yahoo-89_2	1	/m/025sndk
+yahoo-8_1	1	/m/02_7q2
+yahoo-90_1
+yahoo-90_2	1	/m/02rx13
+yahoo-91_2	1	/m/0jmk7
+yahoo-91_3
+yahoo-92_1	1	/m/09jcvs
+yahoo-93_10	1	/m/01dfb6
+yahoo-93_11	1	/m/01dfb6
+yahoo-93_12	1	/m/01dfb6
+yahoo-93_13	1	/m/01dfb6
+yahoo-93_14	1	/m/01dfb6
+yahoo-93_15	1	/m/01dfb6
+yahoo-93_16	1	/m/01dfb6
+yahoo-93_17
+yahoo-93_18
+yahoo-93_2	1	/m/0162b
+yahoo-93_21	1	/m/09jcvs
+yahoo-93_22	1	/m/09jcvs
+yahoo-93_4	1	/m/03rtqs
+yahoo-93_5	1	/m/01hlzm
+yahoo-93_6	1	/m/01dfb6
+yahoo-93_7	1	/m/01dfb6
+yahoo-93_8	1	/m/0c9jz4
+yahoo-93_9	1	/m/01dfb6
+yahoo-94_1
+yahoo-95_1	1	/m/03c9q4m
+yahoo-96_1	1	/m/052yv
+yahoo-96_2	1	/m/0m0mdcm
+yahoo-97_1	1	/m/0dcms
+yahoo-99_1	1	/m/04grkv
+yahoo-99_2	1	/m/04grkv
+yahoo-99_3	1	/m/04grkv
+yahoo-9_1	1	/m/045c7b
