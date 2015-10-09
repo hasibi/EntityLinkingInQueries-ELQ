@@ -85,12 +85,11 @@ class Evaluator(object):
 
             total_prec += queries_eval[qid]['prec']
             total_rec += queries_eval[qid]['rec']
-            total_f += queries_eval[qid]['f']
 
         n = len(self.qrels_dict)  # number of queries
         total_prec /= n
         total_rec /= n
-        total_f /= n
+        total_f = (2 * total_prec * total_rec) / (total_prec + total_rec) if total_prec + total_rec != 0 else 0
 
         log = "\n----------------" + "\nEvaluation results:\n" + \
               "Prec: " + str(round(total_prec, 4)) + "\n" +\
