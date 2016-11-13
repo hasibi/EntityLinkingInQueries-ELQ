@@ -5,7 +5,8 @@ This repository contains resources developed within the following study:
     F. Hasibi, K. Balog, and S. E. Bratsberg. "Entity Linking in Queries: Tasks and Evaluation",
     In Proceedings of ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR '15), Sep 2015.
     DOI: http://dx.doi.org/10.1145/2808194.2809473
-	
+
+You can check the [paper](http://hasibi.com/files/ictir2015-elq.pdf) and [presentation](http://www.slideshare.net/FaeghehHasibi/icitir2015elq) for detailed information.	
 
 ## Tasks
 
